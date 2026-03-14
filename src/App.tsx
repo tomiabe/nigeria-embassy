@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { Search, MapPin, Phone, Mail, Globe, Info, CheckCircle2, ExternalLink } from 'lucide-react';
-import { countriesData, CountryData, MissionType, Region } from './data';
+import { countriesData, nigerianMissionsData, CountryData, MissionType, Region } from './data';
 
 const ALL_MISSIONS = 'All missions';
 const ALL_REGIONS = 'All regions';
@@ -24,12 +24,15 @@ const REGIONS = [
 ];
 
 export default function App() {
+  const [viewMode, setViewMode] = useState<'foreign' | 'nigerian'>('foreign');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedMissionType, setSelectedMissionType] = useState<string>(ALL_MISSIONS);
   const [selectedRegion, setSelectedRegion] = useState<string>(ALL_REGIONS);
 
+  const activeData = viewMode === 'foreign' ? countriesData : nigerianMissionsData;
+
   const filteredCountries = useMemo(() => {
-    return countriesData.filter((country) => {
+    return activeData.filter((country) => {
       // Search filter
       const searchLower = searchQuery.toLowerCase();
       const matchesSearch = 
@@ -62,19 +65,60 @@ export default function App() {
 
       return matchesSearch && matchesRegion && matchesMissionType;
     });
-  }, [searchQuery, selectedMissionType, selectedRegion]);
+  }, [searchQuery, selectedMissionType, selectedRegion, activeData]);
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] text-gray-900 font-sans selection:bg-blue-100">
       {/* Header */}
       <header className="bg-white border-b border-gray-200 sticky top-0 z-10">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-gray-900 mb-2">
-            Nigeria Embassy Finder
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-4">
+          <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-gray-900 mb-2 leading-tight">
+            Nigeria Embassy <br className="sm:hidden" />
+            & Consular Finder
           </h1>
-          <p className="text-gray-600 max-w-2xl text-sm sm:text-base leading-relaxed">
-            Find embassies, consulates, and visa processing for Nigeria. A verified directory of foreign missions in Nigeria, including where to apply when a country has no mission here.
+          <p className="text-gray-600 max-w-2xl text-sm sm:text-base leading-relaxed mb-6">
+            {viewMode === 'foreign' 
+              ? 'Find foreign embassies, consulates, and visa processing centers located in Nigeria.' 
+              : 'Find Nigerian embassies, high commissions, and consulates located around the world.'}
           </p>
+
+          {/* View Mode Toggle */}
+          <div className="flex">
+            <div className="inline-flex bg-gray-100/80 backdrop-blur-sm p-1 rounded-xl w-full sm:w-auto">
+              <button
+                onClick={() => {
+                  setViewMode('foreign');
+                  setSearchQuery('');
+                  setSelectedMissionType(ALL_MISSIONS);
+                  setSelectedRegion(ALL_REGIONS);
+                }}
+                className={`flex-1 sm:flex-none px-2 sm:px-6 py-2.5 text-xs sm:text-sm font-medium rounded-lg transition-all duration-200 ${
+                  viewMode === 'foreign' 
+                    ? 'bg-white text-gray-900 shadow-sm' 
+                    : 'text-gray-500 hover:text-gray-700'
+                }`}
+              >
+                <span className="hidden sm:inline">Foreign Missions in Nigeria</span>
+                <span className="sm:hidden">Foreign in Nigeria</span>
+              </button>
+              <button
+                onClick={() => {
+                  setViewMode('nigerian');
+                  setSearchQuery('');
+                  setSelectedMissionType(ALL_MISSIONS);
+                  setSelectedRegion(ALL_REGIONS);
+                }}
+                className={`flex-1 sm:flex-none px-2 sm:px-6 py-2.5 text-xs sm:text-sm font-medium rounded-lg transition-all duration-200 ${
+                  viewMode === 'nigerian' 
+                    ? 'bg-white text-gray-900 shadow-sm' 
+                    : 'text-gray-500 hover:text-gray-700'
+                }`}
+              >
+                <span className="hidden sm:inline">Nigerian Missions Abroad</span>
+                <span className="sm:hidden">Nigerian Abroad</span>
+              </button>
+            </div>
+          </div>
         </div>
       </header>
 
@@ -184,9 +228,13 @@ export default function App() {
         {/* Footer */}
         <footer className="mt-16 pt-8 border-t border-gray-200 text-center pb-12">
           <div className="bg-blue-50 rounded-2xl p-6 max-w-2xl mx-auto mb-8">
-            <h3 className="font-semibold text-blue-900 mb-2">Countries without a mission in Nigeria</h3>
+            <h3 className="font-semibold text-blue-900 mb-2">
+              {viewMode === 'foreign' ? 'Countries without a mission in Nigeria' : 'Countries without a Nigerian mission'}
+            </h3>
             <p className="text-blue-800 text-sm mb-4">
-              Use the "No mission in Nigeria" filter to see accredited embassies or visa centers for Nigerians.
+              {viewMode === 'foreign' 
+                ? 'Use the "No mission in Nigeria" filter to see accredited embassies or visa centers for Nigerians.'
+                : 'Some countries are covered by Nigerian missions in neighboring nations (concurrent accreditation).'}
             </p>
             <p className="text-blue-700 text-xs font-medium uppercase tracking-wider">
               Coming next: Accredited missions and "Where to apply" for every country.

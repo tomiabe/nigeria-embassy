@@ -236,3 +236,125 @@ export const countriesData: CountryData[] = [
     lastVerified: '2026-03-13'
   }
 ];
+
+export const nigerianMissionsData: CountryData[] = [
+  {
+    name: 'United Kingdom',
+    flag: '🇬🇧',
+    region: 'Europe',
+    missions: [
+      {
+        type: 'High Commission',
+        city: 'London',
+        address: 'Nigeria House, 9 Northumberland Avenue, London WC2N 5BX, United Kingdom',
+        phone: '+44 20 7839 1244',
+        website: 'nigeriahc.org.uk',
+      }
+    ],
+    visaProcessing: 'Passport renewals, visas, and consular services are handled at the High Commission in London. Appointments required via the NIS portal.',
+    whereToApply: ['High Commission: London', 'OIS Services: London (for biometrics)'],
+    sources: ['Nigeria High Commission London'],
+    lastVerified: '2026-03-13'
+  },
+  {
+    name: 'United States',
+    flag: '🇺🇸',
+    region: 'Americas',
+    missions: [
+      {
+        type: 'Embassy',
+        city: 'Washington D.C.',
+        address: '3519 International Court, NW Washington, DC 20008',
+        phone: '+1 (202) 800-7201',
+        website: 'nigeriaembassyusa.org',
+      },
+      {
+        type: 'Consulate General',
+        city: 'New York',
+        address: '828 Second Avenue, New York, NY 10017',
+        phone: '+1 (212) 808-0301',
+        website: 'nigeriaconsulate-ny.org',
+      },
+      {
+        type: 'Consulate General',
+        city: 'Atlanta',
+        address: '8060 Roswell Road, Atlanta, GA 30350',
+        phone: '+1 (770) 394-6261',
+        website: 'nigeria-consulate-atl.org',
+      }
+    ],
+    visaProcessing: 'Consular services are divided by jurisdiction. Check the respective consulate website for your state to know where to apply.',
+    whereToApply: ['Embassy: Washington D.C.', 'Consulate: New York', 'Consulate: Atlanta', 'OIS Services (Various locations)'],
+    sources: ['Embassy of Nigeria, Washington D.C.'],
+    lastVerified: '2026-03-13'
+  },
+  {
+    name: 'Canada',
+    flag: '🇨🇦',
+    region: 'Americas',
+    missions: [
+      {
+        type: 'High Commission',
+        city: 'Ottawa',
+        address: '295 Metcalfe Street, Ottawa, Ontario K2P 1R9, Canada',
+        phone: '+1 (613) 236-0521',
+        website: 'nigeriahcottawa.ca',
+      }
+    ],
+    visaProcessing: 'All passport and visa applications must be completed online before visiting the High Commission.',
+    whereToApply: ['High Commission: Ottawa', 'VFS Global (for biometrics)'],
+    sources: ['Nigeria High Commission Ottawa'],
+    lastVerified: '2026-03-13'
+  },
+  {
+    name: 'South Africa',
+    flag: '🇿🇦',
+    region: 'Africa',
+    missions: [
+      {
+        type: 'High Commission',
+        city: 'Pretoria',
+        address: '971 Francis Baard Street, Arcadia, Pretoria 0083, South Africa',
+        phone: '+27 12 342 0805',
+        website: 'nhcpretoria.org.za',
+      },
+      {
+        type: 'Consulate General',
+        city: 'Johannesburg',
+        address: '16 Rivonia Road, Illovo, Johannesburg 2196, South Africa',
+        phone: '+27 11 442 3620',
+        website: 'nigeriaconsulate.co.za',
+      }
+    ],
+    sources: ['Nigeria High Commission Pretoria'],
+    lastVerified: '2026-03-13'
+  },
+  {
+    name: 'China',
+    flag: '🇨🇳',
+    region: 'Asia',
+    missions: [
+      {
+        type: 'Embassy',
+        city: 'Beijing',
+        address: 'No. 2 Dong Wu Jie, San Li Tun, Chaoyang District, Beijing 100600, China',
+        phone: '+86 10 6532 3631',
+        website: 'nigeriaembassy.cn',
+      },
+      {
+        type: 'Consulate General',
+        city: 'Shanghai',
+        address: 'Room 201-204, Building 2, No. 100, Lane 288, Ouyang Road, Hongkou District, Shanghai, China',
+        phone: '+86 21 6184 8216',
+      },
+      {
+        type: 'Consulate General',
+        city: 'Guangzhou',
+        address: 'Room 3101-3102, 31st Floor, R&F Center, No. 10 Huaxia Road, Zhujiang New Town, Tianhe District, Guangzhou, China',
+        phone: '+86 20 8758 8170',
+      }
+    ],
+    sources: ['Embassy of Nigeria, Beijing'],
+    lastVerified: '2026-03-13'
+  }
+];
