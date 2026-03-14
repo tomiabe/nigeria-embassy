@@ -1,0 +1,118 @@
+# Research Log
+
+This file tracks verified sources and coverage status. All addresses should be checked against official government or mission websites.
+
+## Primary sources used so far
+- U.S. Missions in Nigeria (Travel.State.Gov)
+  - https://travel.state.gov/content/travel/en/resourcesold/csi/us-embassies/nigeria.html
+- Nigeria country info (Travel.State.Gov)
+  - https://travel.state.gov/content/travel/en/Intercountry-Adoption/Intercountry-Adoption-Country-Information/Nigeria.html
+- British High Commission Abuja (GOV.UK)
+  - https://www.gov.uk/world/organisations/british-high-commission-abuja/office/british-high-commission-abuja
+- VFS Global UK visa application centres (VFS Global media release)
+  - https://www.vfsglobal.com/en/PDF/media-releases/2025/MR_24042025_UKPAC_in_Nigeria_final.pdf
+- German Embassy Abuja (Federal Foreign Office)
+  - https://nigeria.diplo.de/ng-en/vertretungen/botschaft
+- German Consulate General Lagos (Federal Foreign Office)
+  - https://nigeria.diplo.de/ng-en/vertretungen/generalkonsulatlagos
+- French Embassy Abuja (Service-Public.fr directory)
+  - https://lannuaire.service-public.fr/gouvernement/49dbe7d1-0aa4-4477-8119-301b82b847e3
+- French Consulate Lagos (Service-Public.fr directory)
+  - https://lannuaire.service-public.gouv.fr/ambassades/f845d14d-1dc4-45cd-9790-87efbb333b18
+- Embassy of the Netherlands in Abuja (NetherlandsWorldwide)
+  - https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja
+- Turkish Embassy Abuja (MFA Türkiye)
+  - https://abuja-emb.mfa.gov.tr/Mission/Contact
+- South African High Commission Abuja (South African Government Directory)
+  - https://www.gov.za/st/about-government/contact-directory/representatives-rsa/nigeria-federal-republic-south-african-high
+- Embassy of Belgium in Abuja (Belgian FPS Foreign Affairs)
+  - https://nigeria.diplomatie.belgium.be/en/embassy-and-consulates/embassy-abuja/address-and-opening-hours
+- Embassy of Switzerland in Nigeria (EDA)
+  - https://www.eda.admin.ch/abuja
+- Nigeria High Commission London (Contact)
+  - https://www.nigeriahc.org.uk/contact-us/
+- Nigeria High Commission Ottawa (Contact)
+  - https://nigeriahcottawa.ca/contact/
+- Embassy of Nigeria, Washington DC (MFA Nigeria)
+  - https://washingtondc.foreignaffairs.gov.ng/
+- Embassy of Japan in Nigeria
+  - https://www.ng.emb-japan.go.jp/itprtop_en/index.html
+- Embassy of Japan in Nigeria — Consular Contact
+  - https://www.ng.emb-japan.go.jp/itpr_ja/contact.html
+- Embassy of Nigeria, Tokyo (MFA Nigeria)
+  - https://tokyo.foreignaffairs.gov.ng/
+- Embassy of Sweden in Abuja (Sweden Abroad)
+  - https://www.swedenabroad.se/en/embassies/nigeria-abuja/current/news/the-embassys-switchboard-is-closed-on-thursday-15-january-2026/
+- Austrian representations worldwide (BMEIA directory)
+  - https://cms.bmeia.gv.at/fileadmin/user_upload/oracle/oe_vertretungen_en.pdf
+- Embassy of Nigeria, Paris (MFA Nigeria)
+  - https://paris.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Berlin (MFA Nigeria)
+  - https://berlin.foreignaffairs.gov.ng/consular-services/
+- Embassy of Nigeria, Rome (MFA Nigeria)
+  - https://rome.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Riyadh (MFA Nigeria)
+  - https://riyadh.foreignaffairs.gov.ng/media-item/where-we-at/
+- Embassy of Nigeria, Beijing (MFA Nigeria)
+  - https://beijing.foreignaffairs.gov.ng/consular-services/
+- Embassy of Nigeria, Stockholm (MFA Nigeria)
+  - https://stockholm.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Madrid (MFA Nigeria)
+  - https://madrid.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Lisbon (MFA Nigeria)
+  - https://lisbon.foreignaffairs.gov.ng/about-us/
+- Embassy of Finland in Abuja — Contact information
+  - https://finlandabroad.fi/web/nga/embassy-of-finland-in-abuja
+- Embassy of Greece in Nigeria — Contact
+  - https://www.mfa.gr/missionsabroad/en/nigeria-en/embassy.html
+- Embassy of Ireland in Nigeria — Contact
+  - https://www.dfa.ie/irish-embassy/nigeria/
+- Embassy of Israel in Nigeria — Contact
+  - https://embassies.gov.il/Abuja/About/Pages/Contact-Us.aspx
+- Embassy of Qatar in Abuja — Contact
+  - https://abuja.embassy.qa/en/the-embassy/contact
+- Embassy of Mexico in Nigeria — Contact
+  - https://embamex.sre.gob.mx/nigeria/index.php/contacto
+- Embassy of Hungary in Abuja — Contact
+  - https://abuja.mfa.gov.hu/eng/page/contact
+- Embassy of the Slovak Republic in Abuja — Contact
+  - https://www.mzv.sk/abuja-en/contact
+- Embassy of Bulgaria in Abuja — Contact
+  - https://www.mfa.bg/en/embassyinfo/nigeria
+- Royal Thai Embassy Abuja — Contact (MFA directory)
+  - https://www.mfa.go.th/en/content/category/5d5bd3fb15e39c306000683f
+- Embassy of Nigeria in Cairo — Contact
+  - https://cairo.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Rabat — Contact
+  - https://rabat.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Algiers — Contact
+  - https://algiers.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Tunis — Contact
+  - https://tunis.foreignaffairs.gov.ng/
+- Nigeria High Commission Kuala Lumpur — Contact
+  - https://kualalumpur.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Jakarta — Contact
+  - https://jakarta.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Bangkok — Contact
+  - https://bangkok.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Seoul — Contact
+  - https://seoul.foreignaffairs.gov.ng/
+- Embassy of Nigeria in Luanda — Contact
+  - https://luanda.foreignaffairs.gov.ng/
+- Nigeria High Commission Islamabad — Contact
+  - https://islamabad.foreignaffairs.gov.ng/
+
+## Countries verified (so far)
+- United States
+- United Kingdom
+- Germany
+- France
+
+## Next batch (planned)
+- Canada
+- China
+- Italy
+- Spain
+- Netherlands
+- South Africa
+- UAE

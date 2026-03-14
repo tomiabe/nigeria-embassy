@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Nigeria Embassy & Consular Finder
 
-# Run and deploy your AI Studio app
+Nigeria Embassy & Consular Finder is a lightweight, static directory that lists foreign missions in Nigeria and Nigerian missions abroad. It focuses on verified addresses, visa processing guidance, and direct source links so users can quickly find official information without extra noise.
 
-This contains everything you need to run your app locally.
+## What it includes
+- Foreign embassies, consulates, and high commissions located in Nigeria
+- Nigerian embassies, high commissions, and consulates worldwide
+- Visa processing notes and “where to apply” guidance
+- Source links and verification dates for transparency
 
-View your app in AI Studio: https://ai.studio/apps/bd820b31-c651-4592-8ffc-d806e0e99716
+## How it’s built
+- Plain HTML, CSS, and JavaScript (no build step)
+- Data stored in `data.json` and mirrored in `data.js` for direct use in the browser
+- UI logic and filtering in `app.js`
+- Research sources logged in `RESEARCH.md`
 
-## Run Locally
+## Run locally
+Open `index.html` in a browser, or serve the folder with a simple static server.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Data updates
+Entries are added only after verification from official sources. Each entry includes source links and the last verified date. See `RESEARCH.md` for the full audit trail.
