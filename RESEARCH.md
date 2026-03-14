@@ -101,6 +101,50 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://luanda.foreignaffairs.gov.ng/
 - Nigeria High Commission Islamabad — Contact
   - https://islamabad.foreignaffairs.gov.ng/
+- Netherlands to represent Estonia for visas in Nigeria (Estonia MFA)
+  - https://vm.ee/en/news/holland-represent-estonia-issuing-visas-nigeria-and-kenya
+- Embassy of the Netherlands in Abuja — Address (NetherlandsWorldwide)
+  - https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja
+- Latvia MFA — Missions issuing visas for Latvia (Nigeria: Embassy of Sweden)
+  - https://www.mfa.gov.lv/en/diplomatic-and-consular-missions-other-schengen-member-states-issuing-visas-enter-latvia
+- Embassy of Sweden in Abuja — Contact
+  - https://www.swedenabroad.se/en/embassies/nigeria-abuja/contact/
+- Lithuania MFA — Place of issue (Belgium represents Lithuania in Nigeria)
+  - https://keliauk.urm.lt/en/entry-to-lithuania/visas/place-of-issue
+- Embassy of Belgium in Abuja — Address
+  - https://nigeria.diplomatie.belgium.be/en/embassy-and-consulates/embassy-abuja/address-and-opening-hours
+- Luxembourg MFA — Nigeria representation and visa instructions
+  - https://mae.gouvernement.lu/en/missions-diplomatiques/missions-diplomatiques-et-consulaires-luxembourgeoises/nigeria.html
+- Embassy of the Netherlands in Abuja — Address
+  - https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja
+- Slovenia visa representation list — Nigeria (Embassy of Hungary in Abuja)
+  - https://www.gov.si/assets/predstavnistva/Kairo/dokumenti/Visa-representation-in-Middle-East-and-Africa-Slovenia.pdf
+- Embassy of Hungary in Abuja — Contact
+  - https://abuja.mfa.gov.hu/eng/page/contact
+- Liechtenstein National Administration — Visa (Swiss representations abroad)
+  - https://www.llv.li/en/national-administration/migration-and-passport-office/visa
+- Embassy of Switzerland in Abuja — Contact
+  - https://www.eda.admin.ch/abuja
+- Rwanda Immigration — Visa on arrival
+  - https://www.migration.gov.rw/visa-on-arrival
+- Seychelles Immigration — Visiting Seychelles (visa-free, visitor’s permit on arrival)
+  - https://www.ics.gov.sc/visa-and-travel/visiting-seychelles
+- Madagascar eVisa official portal (visa on arrival available)
+  - https://evisamada-mg.com/en/home
+- Kenya Electronic Travel Authorization (eTA) — Official portal
+  - https://etakenya.go.ke/
+- Embassy of Uganda — Visas (official eVisa portal)
+  - https://washington.mofa.go.ug/consular/visas
+- Tanzania Immigration — eVisa portal
+  - https://visa.immigration.go.tz/
+- Zambia Immigration — For visitors (online applications)
+  - https://www.zambiaimmigration.gov.zm/for-visitors/
+- Embassy of Ethiopia — eVisa guidance (official portal link)
+  - https://ethiopianembassy.org/e-visa/
+- Benin Embassy — eVisa communiqué (official portal)
+  - https://beninembassy.us/wp-content/uploads/2020/08/E-visa-COMMUNIQUE-Pdf.pdf
+- Travel Cabo Verde — Official travel portal (EASE)
+  - https://travel.gov.cv/
 
 ## Countries verified (so far)
 - United States

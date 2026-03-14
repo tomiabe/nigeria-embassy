@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "meta": {
-    "lastUpdated": "2026-03-13",
+    "lastUpdated": "2026-03-14",
     "sourcesNote": "Addresses and visa-processing notes are verified from official government sources and mission websites."
   },
   "missions": [
@@ -246,11 +246,25 @@ window.__DATA__ = {
       "country": "Benin",
       "countryCode": "BJ",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Official embassy communiqué directs applicants to the eVisa portal.",
+      "sources": [
+        {
+          "label": "Benin Embassy — eVisa communiqué (official portal)",
+          "url": "https://beninembassy.us/wp-content/uploads/2020/08/E-visa-COMMUNIQUE-Pdf.pdf",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇧🇯",
+      "visaProcessing": "Benin issues visas online. Nigerians should apply via the official eVisa portal.",
+      "whereToApply": [
+        {
+          "label": "Benin eVisa portal",
+          "url": "https://evisa.gouv.bj/"
+        }
+      ]
     },
     {
       "country": "Burkina Faso",
@@ -301,7 +315,8 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of Bulgaria in Abuja provides consular and visa guidance. Follow the embassy’s official instructions.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇧🇬"
     },
     {
       "country": "Bahrain",
@@ -662,11 +677,25 @@ window.__DATA__ = {
       "country": "Cabo Verde",
       "countryCode": "CV",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Government travel portal directs travelers to EASE.",
+      "sources": [
+        {
+          "label": "Travel Cabo Verde — Official travel portal (EASE)",
+          "url": "https://travel.gov.cv/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇨🇻",
+      "visaProcessing": "Cabo Verde requires traveler pre‑registration through the official EASE platform before travel.",
+      "whereToApply": [
+        {
+          "label": "Cabo Verde EASE platform",
+          "url": "https://travel.gov.cv/"
+        }
+      ]
     },
     {
       "country": "Costa Rica",
@@ -920,21 +949,54 @@ window.__DATA__ = {
       "country": "Estonia",
       "countryCode": "EE",
       "region": "Europe",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Visa handled by an accredited embassy.",
+      "sources": [
+        {
+          "label": "Netherlands to represent Estonia for visas in Nigeria (Estonia MFA)",
+          "url": "https://vm.ee/en/news/holland-represent-estonia-issuing-visas-nigeria-and-kenya",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of the Netherlands in Abuja — Address (NetherlandsWorldwide)",
+          "url": "https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇪🇪",
+      "visaProcessing": "Estonia does not have a mission in Nigeria. The Embassy of the Netherlands in Abuja issues Schengen visas on Estonia’s behalf.",
+      "whereToApply": [
+        {
+          "label": "Embassy of the Netherlands in Abuja",
+          "url": "https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja"
+        }
+      ]
     },
     {
       "country": "Ethiopia",
       "countryCode": "ET",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Official embassy guidance points to the eVisa portal.",
+      "sources": [
+        {
+          "label": "Embassy of Ethiopia — eVisa guidance (official portal link)",
+          "url": "https://ethiopianembassy.org/e-visa/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇪🇹",
+      "visaProcessing": "Ethiopia issues eVisas. Nigerians should apply online via the official government eVisa portal.",
+      "whereToApply": [
+        {
+          "label": "Ethiopia eVisa portal",
+          "url": "https://www.evisa.gov.et/"
+        }
+      ]
     },
     {
       "country": "Finland",
@@ -966,7 +1028,8 @@ window.__DATA__ = {
       "whereToApply": [
         "Embassy: Abuja",
         "Visa Application Center: VFS Global"
-      ]
+      ],
+      "flag": "🇫🇮"
     },
     {
       "country": "Fiji",
@@ -1213,7 +1276,8 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of Greece in Abuja provides consular and visa guidance. Check the embassy website for current requirements.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇬🇷"
     },
     {
       "country": "Grenada",
@@ -1334,7 +1398,8 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of Hungary in Abuja provides consular services and Schengen visa guidance. Follow the embassy’s official instructions.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇭🇺"
     },
     {
       "country": "Indonesia",
@@ -1437,7 +1502,8 @@ window.__DATA__ = {
       "visaProcessing": "Visa guidance for Ireland is provided by the Embassy of Ireland in Nigeria. Check the official embassy website for procedures.",
       "whereToApply": [
         "Embassy: Lagos"
-      ]
+      ],
+      "flag": "🇮🇪"
     },
     {
       "country": "Iran, Islamic Rep.",
@@ -1498,7 +1564,8 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of Israel in Abuja provides consular and visa services. Follow the embassy’s official guidance.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇮🇱"
     },
     {
       "country": "Italy",
@@ -1612,11 +1679,25 @@ window.__DATA__ = {
       "country": "Kenya",
       "countryCode": "KE",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "eTA required before travel.",
+      "sources": [
+        {
+          "label": "Kenya Electronic Travel Authorization (eTA) — Official portal",
+          "url": "https://etakenya.go.ke/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇰🇪",
+      "visaProcessing": "Kenya requires an Electronic Travel Authorization (eTA) for most travelers. Nigerians should apply online via the official eTA portal before travel.",
+      "whereToApply": [
+        {
+          "label": "Kenya eTA portal",
+          "url": "https://etakenya.go.ke/"
+        }
+      ]
     },
     {
       "country": "Kyrgyz Republic",
@@ -1754,11 +1835,30 @@ window.__DATA__ = {
       "country": "Liechtenstein",
       "countryCode": "LI",
       "region": "Europe",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Switzerland represents Liechtenstein for visas abroad.",
+      "sources": [
+        {
+          "label": "Liechtenstein National Administration — Visa (Swiss representations abroad)",
+          "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/visa",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of Switzerland in Abuja — Contact",
+          "url": "https://www.eda.admin.ch/abuja",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇱🇮",
+      "visaProcessing": "Liechtenstein has no mission in Nigeria. Visa applications are submitted to the Swiss representation at the applicant’s place of residence.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Switzerland in Abuja",
+          "url": "https://www.eda.admin.ch/abuja"
+        }
+      ]
     },
     {
       "country": "Sri Lanka",
@@ -1784,31 +1884,97 @@ window.__DATA__ = {
       "country": "Lithuania",
       "countryCode": "LT",
       "region": "Europe",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Visa handled by an accredited embassy.",
+      "sources": [
+        {
+          "label": "Lithuania MFA — Place of issue (Belgium represents Lithuania in Nigeria)",
+          "url": "https://keliauk.urm.lt/en/entry-to-lithuania/visas/place-of-issue",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of Belgium in Abuja — Address",
+          "url": "https://nigeria.diplomatie.belgium.be/en/embassy-and-consulates/embassy-abuja/address-and-opening-hours",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇱🇹",
+      "visaProcessing": "Lithuania does not have a mission in Nigeria. Belgium represents Lithuania for Schengen visas in Nigeria.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Belgium in Abuja",
+          "url": "https://nigeria.diplomatie.belgium.be/en/embassy-and-consulates/embassy-abuja/address-and-opening-hours"
+        }
+      ]
     },
     {
       "country": "Luxembourg",
       "countryCode": "LU",
       "region": "Europe",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Representation and visas handled by accredited embassies.",
+      "sources": [
+        {
+          "label": "Luxembourg MFA — Nigeria representation and visa instructions",
+          "url": "https://mae.gouvernement.lu/en/missions-diplomatiques/missions-diplomatiques-et-consulaires-luxembourgeoises/nigeria.html",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of the Netherlands in Abuja — Address",
+          "url": "https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of Belgium in Abuja — Address",
+          "url": "https://nigeria.diplomatie.belgium.be/en/embassy-and-consulates/embassy-abuja/address-and-opening-hours",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇱🇺",
+      "visaProcessing": "Luxembourg does not have a mission in Nigeria. The Royal Embassy of the Netherlands in Abuja represents Luxembourg; visa applications are handled by the Embassy of Belgium in Abuja.",
+      "whereToApply": [
+        {
+          "label": "Embassy of the Netherlands in Abuja",
+          "url": "https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja"
+        },
+        {
+          "label": "Embassy of Belgium in Abuja",
+          "url": "https://nigeria.diplomatie.belgium.be/en/embassy-and-consulates/embassy-abuja/address-and-opening-hours"
+        }
+      ]
     },
     {
       "country": "Latvia",
       "countryCode": "LV",
       "region": "Europe",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Visa handled by an accredited embassy.",
+      "sources": [
+        {
+          "label": "Latvia MFA — Missions issuing visas for Latvia (Nigeria: Embassy of Sweden)",
+          "url": "https://www.mfa.gov.lv/en/diplomatic-and-consular-missions-other-schengen-member-states-issuing-visas-enter-latvia",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of Sweden in Abuja — Contact",
+          "url": "https://www.swedenabroad.se/en/embassies/nigeria-abuja/contact/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇱🇻",
+      "visaProcessing": "Latvia does not have a mission in Nigeria. Visa applications in Nigeria are handled by the Embassy of Sweden in Abuja.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Sweden in Abuja",
+          "url": "https://www.swedenabroad.se/en/embassies/nigeria-abuja/contact/"
+        }
+      ]
     },
     {
       "country": "Macao SAR, China",
@@ -1864,11 +2030,25 @@ window.__DATA__ = {
       "country": "Madagascar",
       "countryCode": "MG",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa on arrival available per official eVisa portal.",
+      "sources": [
+        {
+          "label": "Madagascar eVisa official portal (visa on arrival available)",
+          "url": "https://evisamada-mg.com/en/home",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇲🇬",
+      "visaProcessing": "Madagascar issues visas on arrival and also accepts online eVisa applications via the official portal.",
+      "whereToApply": [
+        {
+          "label": "Madagascar eVisa portal",
+          "url": "https://evisamada-mg.com/en/home"
+        }
+      ]
     },
     {
       "country": "Maldives",
@@ -1909,7 +2089,8 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of Mexico in Abuja provides visa information and consular services. Check the embassy website for current procedures.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇲🇽"
     },
     {
       "country": "Marshall Islands",
@@ -2386,7 +2567,8 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of Qatar in Abuja provides consular services. Check the embassy website for visa requirements and appointments.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇶🇦"
     },
     {
       "country": "Romania",
@@ -2412,11 +2594,29 @@ window.__DATA__ = {
       "country": "Rwanda",
       "countryCode": "RW",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa on arrival confirmed by official immigration authority.",
+      "sources": [
+        {
+          "label": "Rwanda Immigration — Visa on arrival",
+          "url": "https://www.migration.gov.rw/visa-on-arrival",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇷🇼",
+      "visaProcessing": "Rwanda grants visas on arrival for all nationalities. Nigerians can obtain a visa on arrival or apply online before travel via the official immigration portal.",
+      "whereToApply": [
+        {
+          "label": "Visa on arrival (Rwanda Immigration)",
+          "url": "https://www.migration.gov.rw/visa-on-arrival"
+        },
+        {
+          "label": "Rwanda online visa portal",
+          "url": "https://irembo.gov.rw"
+        }
+      ]
     },
     {
       "country": "Saudi Arabia",
@@ -2598,17 +2798,37 @@ window.__DATA__ = {
       "visaProcessing": "The Embassy of the Slovak Republic in Abuja provides consular and visa guidance. Check the embassy website for updates.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇸🇰"
     },
     {
       "country": "Slovenia",
       "countryCode": "SI",
       "region": "Europe",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Visa handled by an accredited embassy.",
+      "sources": [
+        {
+          "label": "Slovenia visa representation list — Nigeria (Embassy of Hungary in Abuja)",
+          "url": "https://www.gov.si/assets/predstavnistva/Kairo/dokumenti/Visa-representation-in-Middle-East-and-Africa-Slovenia.pdf",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Embassy of Hungary in Abuja — Contact",
+          "url": "https://abuja.mfa.gov.hu/eng/page/contact",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇸🇮",
+      "visaProcessing": "Slovenia does not have a mission in Nigeria. Short-stay Schengen visa applications are handled by the Embassy of Hungary in Abuja.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Hungary in Abuja",
+          "url": "https://abuja.mfa.gov.hu/eng/page/contact"
+        }
+      ]
     },
     {
       "country": "Sweden",
@@ -2666,11 +2886,25 @@ window.__DATA__ = {
       "country": "Seychelles",
       "countryCode": "SC",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa-free entry with travel authorization requirement.",
+      "sources": [
+        {
+          "label": "Seychelles Immigration — Visiting Seychelles (visa-free, visitor’s permit on arrival)",
+          "url": "https://www.ics.gov.sc/visa-and-travel/visiting-seychelles",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇸🇨",
+      "visaProcessing": "Seychelles is visa-free for all nationalities. Nigerians receive a visitor’s permit on arrival if entry requirements are met; a travel authorization is still required before travel.",
+      "whereToApply": [
+        {
+          "label": "Seychelles Travel Authorization (ICS)",
+          "url": "https://www.ics.gov.sc/visa-and-travel/visiting-seychelles"
+        }
+      ]
     },
     {
       "country": "Syrian Arab Republic",
@@ -2741,7 +2975,8 @@ window.__DATA__ = {
       "visaProcessing": "The Royal Thai Embassy in Abuja handles visa applications. Check the embassy website for current requirements.",
       "whereToApply": [
         "Embassy: Abuja"
-      ]
+      ],
+      "flag": "🇹🇭"
     },
     {
       "country": "Tajikistan",
@@ -2849,21 +3084,49 @@ window.__DATA__ = {
       "country": "Tanzania",
       "countryCode": "TZ",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Apply online via the official immigration portal.",
+      "sources": [
+        {
+          "label": "Tanzania Immigration — eVisa portal",
+          "url": "https://visa.immigration.go.tz/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇹🇿",
+      "visaProcessing": "Tanzania accepts online visa applications through the official immigration portal.",
+      "whereToApply": [
+        {
+          "label": "Tanzania eVisa portal",
+          "url": "https://visa.immigration.go.tz/"
+        }
+      ]
     },
     {
       "country": "Uganda",
       "countryCode": "UG",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Official embassy guidance points to the Uganda eVisa portal.",
+      "sources": [
+        {
+          "label": "Embassy of Uganda — Visas (official eVisa portal)",
+          "url": "https://washington.mofa.go.ug/consular/visas",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇺🇬",
+      "visaProcessing": "Uganda requires online visa applications. Nigerians should submit applications through the official Uganda eVisa portal before travel.",
+      "whereToApply": [
+        {
+          "label": "Uganda eVisa portal",
+          "url": "https://visas.immigration.go.ug/"
+        }
+      ]
     },
     {
       "country": "Ukraine",
@@ -3068,11 +3331,25 @@ window.__DATA__ = {
       "country": "Zambia",
       "countryCode": "ZM",
       "region": "Africa",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Apply online through the official immigration e‑services portal.",
+      "sources": [
+        {
+          "label": "Zambia Immigration — For visitors (online applications)",
+          "url": "https://www.zambiaimmigration.gov.zm/for-visitors/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "flag": "🇿🇲",
+      "visaProcessing": "Zambia accepts online visa applications via its official immigration e‑services portal.",
+      "whereToApply": [
+        {
+          "label": "Zambia Immigration e‑services",
+          "url": "https://www.zambiaimmigration.gov.zm/for-visitors/"
+        }
+      ]
     },
     {
       "country": "Zimbabwe",

@@ -33,6 +33,7 @@ const footerTitle = document.getElementById("footerTitle");
 const footerBody = document.getElementById("footerBody");
 const viewForeign = document.getElementById("viewForeign");
 const viewNigerian = document.getElementById("viewNigerian");
+const scrollTopButton = document.getElementById("scrollTop");
 
 const icon = {
   mapPin: `
@@ -74,7 +75,7 @@ const icon = {
     </svg>
   `,
   check: `
-    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
       <path d="M9 12l2 2 4-4"></path>
       <circle cx="12" cy="12" r="10"></circle>
     </svg>
@@ -83,6 +84,30 @@ const icon = {
 
 function normalize(text) {
   return String(text || "").toLowerCase();
+}
+
+function formatApplyLink(item) {
+  if (item && typeof item === "object") {
+    const label = item.label || item.text || item.name || item.url || "";
+    const url = item.url || "";
+    if (url) {
+      return `<a href="${url}" target="_blank" rel="noreferrer" class="text-blue-600 hover:text-blue-800 underline underline-offset-2">${label}</a>`;
+    }
+    return label;
+  }
+
+  const escaped = String(item || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+
+  const urlRegex = /(https?:\/\/[^\s<]+)|(\b[a-z0-9.-]+\.[a-z]{2,}\b)/gi;
+  return escaped.replace(urlRegex, (match) => {
+    const clean = match.replace(/[),.]+$/g, "");
+    const trailing = match.slice(clean.length);
+    const href = clean.startsWith("http") ? clean : `https://${clean}`;
+    return `<a href="${href}" target="_blank" rel="noreferrer" class="text-blue-600 hover:text-blue-800 underline underline-offset-2">${clean}</a>${trailing}`;
+  });
 }
 
 function missionTypeMatches(entry, selected) {
@@ -225,7 +250,7 @@ function renderCard(entry) {
               (loc) => `
                 <li class="text-sm text-gray-600 flex items-start gap-2">
                   <span class="w-1.5 h-1.5 rounded-full bg-gray-300 mt-1.5 shrink-0"></span>
-                  <span>${loc}</span>
+                  <span>${formatApplyLink(loc)}</span>
                 </li>
               `
             )
@@ -252,11 +277,11 @@ function renderCard(entry) {
         <div class="flex flex-wrap gap-2">${missionTypes}</div>
       </div>
       <div class="p-4 sm:p-6">
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 sm:gap-8">
-          <div class="lg:col-span-2 space-y-6">
+        <div class="grid grid-cols-1 lg:grid-cols-5 gap-6 sm:gap-8">
+          <div class="lg:col-span-3 space-y-6">
             ${missionsHtml}
           </div>
-          <div class="space-y-6 pt-6 border-t border-gray-100 lg:pt-0 lg:border-t-0 lg:border-l lg:pl-8">
+          <div class="lg:col-span-2 space-y-6 pt-6 border-t border-gray-100 lg:pt-0 lg:border-t-0 lg:border-l lg:pl-8">
             ${visaBlock}
             ${whereToApply}
             <div class="pt-4 border-t border-gray-100">
@@ -368,6 +393,21 @@ clearSearch.addEventListener("click", () => {
 
 viewForeign.addEventListener("click", () => setViewMode("foreign"));
 viewNigerian.addEventListener("click", () => setViewMode("nigerian"));
+
+if (scrollTopButton) {
+  const toggleScrollButton = () => {
+    const show = window.scrollY > 700;
+    scrollTopButton.classList.toggle("hidden", !show);
+    scrollTopButton.classList.toggle("flex", show);
+  };
+
+  window.addEventListener("scroll", toggleScrollButton, { passive: true });
+  toggleScrollButton();
+
+  scrollTopButton.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+}
 
 const embeddedData = window.__DATA__;
 if (embeddedData?.missions?.length) {
