@@ -359,16 +359,16 @@ function setViewMode(mode) {
 
   if (mode === "foreign") {
     headerDescription.textContent = "Find foreign embassies, consulates, and visa application centers located in Nigeria.";
-    footerTitle.textContent = "Countries without a mission in Nigeria";
-    footerBody.textContent = "Use the \"No mission in Nigeria\" filter to see accredited embassies or visa centers for Nigerians.";
+    if (footerTitle) footerTitle.textContent = "Countries without a mission in Nigeria";
+    if (footerBody) footerBody.textContent = "Use the \"No mission in Nigeria\" filter to see accredited embassies or visa centers for Nigerians.";
     viewForeign.classList.add("bg-white", "text-gray-900", "shadow-sm");
     viewForeign.classList.remove("text-gray-500", "hover:text-gray-700");
     viewNigerian.classList.remove("bg-white", "text-gray-900", "shadow-sm");
     viewNigerian.classList.add("text-gray-500", "hover:text-gray-700");
   } else {
     headerDescription.textContent = "Find Nigerian embassies, high commissions, and consulates located around the world.";
-    footerTitle.textContent = "Countries without a Nigerian mission";
-    footerBody.textContent = "Some countries are covered by Nigerian missions in neighboring nations (concurrent accreditation).";
+    if (footerTitle) footerTitle.textContent = "Countries without a Nigerian mission";
+    if (footerBody) footerBody.textContent = "Some countries are covered by Nigerian missions in neighboring nations (concurrent accreditation).";
     viewNigerian.classList.add("bg-white", "text-gray-900", "shadow-sm");
     viewNigerian.classList.remove("text-gray-500", "hover:text-gray-700");
     viewForeign.classList.remove("bg-white", "text-gray-900", "shadow-sm");
