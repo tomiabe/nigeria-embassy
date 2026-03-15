@@ -127,6 +127,20 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://www.eda.admin.ch/abuja
 - Rwanda Immigration — Visa on arrival
   - https://www.migration.gov.rw/visa-on-arrival
+- Embassy of Algeria in Abuja — Contact (MFA Algeria)
+  - https://embabuja.mfa.gov.dz/consular-services/online-service
+- Embassy of the Republic of Angola in Nigeria — Contact
+  - https://angolanembassy-nga.ao/
+- Cameroon Government — Diplomatic missions list (Abuja High Commission)
+  - https://www.prc.cm/files/18/0b/0e/8b6ae9f38c78d4bb7b765d7d74079a64.pdf
+- Embassy of Côte d'Ivoire in Nigeria — Contacts
+  - https://nigeria.diplomatie.gouv.ci/contacts.php
+- Senegal MFA — Embassies and Consulates (Abuja listed)
+  - https://www.diplomatie.gouv.sn/services/les-consulats-du-senegal
+- Egypt Embassy in Nigeria — embassies.org directory
+  - https://embassies.org/en/egypt-embassy-in-nigeria
+- Embassy of Morocco in Abuja — embassypages.com directory
+  - https://www.embassypages.com/morocco-embassy-abuja-nigeria
 - Seychelles Immigration — Visiting Seychelles (visa-free, visitor’s permit on arrival)
   - https://www.ics.gov.sc/visa-and-travel/visiting-seychelles
 - Madagascar eVisa official portal (visa on arrival available)
@@ -145,6 +159,30 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://beninembassy.us/wp-content/uploads/2020/08/E-visa-COMMUNIQUE-Pdf.pdf
 - Travel Cabo Verde — Official travel portal (EASE)
   - https://travel.gov.cv/
+- Ghana High Commission Abuja — Contact
+  - https://abuja.mfa.gov.gh/contact-us/
+- Kenya consular contacts — Abuja High Commission (Directorate of Immigration Services)
+  - https://immigration.go.ke/contacts-for-various-consular-offices/
+- Kenya eTA portal
+  - https://etakenya.go.ke/
+- Tanzania Ministry of Foreign Affairs — Diplomatic Missions List (Abuja)
+  - https://www.tzembassy.go.tz/home
+- Tanzania Immigration — eVisa portal
+  - https://visa.immigration.go.tz/
+- Uganda Government Directory — Missions Abroad (Abuja)
+  - https://www.gcic.go.ug/wp-content/uploads/2022/05/GovDirectory.pdf
+- Uganda eVisa portal
+  - https://visas.immigration.go.ug/
+- Tunisia MFA — Directory of missions abroad (Abuja)
+  - https://back.diplomatie.gov.tn/storage/files/AFxwTbpKpnvRHtvCn4bmqHgwWDtQafgwYUKM5loA.pdf
+- Zambia Missions Abroad — Abuja (Zambia Immigration)
+  - https://www.zambiaimmigration.gov.zm/zambia-missions-abroad/
+- Zambia Immigration — For visitors
+  - https://www.zambiaimmigration.gov.zm/for-visitors/
+- Rwanda Government — High Commission to Nigeria (Abuja)
+  - https://www.gov.rw/government/directory/embassies
+- Rwanda Immigration — Visa on arrival
+  - https://www.migration.gov.rw/visa-on-arrival
 
 ## Countries verified (so far)
 - United States

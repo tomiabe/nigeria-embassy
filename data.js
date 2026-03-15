@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "meta": {
-    "lastUpdated": "2026-03-14",
+    "lastUpdated": "2026-03-15",
     "sourcesNote": "Addresses and visa-processing notes are verified from official government sources and mission websites."
   },
   "missions": [
@@ -28,11 +28,36 @@ window.__DATA__ = {
       "country": "Angola",
       "countryCode": "AO",
       "region": "Africa",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "321 Diplomatic Drive, Central Area, Abuja, Nigeria",
+          "phone": "+234 7074 77 9833/9860",
+          "email": "info@angolanembassy-nga.ao",
+          "website": "https://angolanembassy-nga.ao/",
+          "websiteLabel": "Embassy of the Republic of Angola in Nigeria"
+        }
+      ],
+      "notes": "Verified against official sources.",
+      "sources": [
+        {
+          "label": "Embassy of the Republic of Angola in Nigeria — Contact",
+          "url": "https://angolanembassy-nga.ao/",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "visaProcessing": "The Embassy of Angola in Abuja provides visa and consular services. Check the official site for current requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Angola, Abuja",
+          "url": "https://angolanembassy-nga.ao/"
+        }
+      ],
+      "flag": "🇦🇴"
     },
     {
       "country": "Albania",
@@ -617,21 +642,69 @@ window.__DATA__ = {
       "country": "Cote d'Ivoire",
       "countryCode": "CI",
       "region": "Africa",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot N°301, Diplomatic Drive, Central Area, Abuja FCT, Nigeria",
+          "phone": "+234 (0) 9291 2123",
+          "email": "ambaci.nigeria@diplomatie.gouv.ci",
+          "website": "https://nigeria.diplomatie.gouv.ci/",
+          "websiteLabel": "Embassy of Côte d'Ivoire in Nigeria"
+        }
+      ],
+      "notes": "Verified against official sources.",
+      "sources": [
+        {
+          "label": "Embassy of Côte d'Ivoire in Nigeria — Contacts",
+          "url": "https://nigeria.diplomatie.gouv.ci/contacts.php",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "visaProcessing": "The Embassy of Côte d'Ivoire in Abuja provides visa and consular guidance. Check the embassy for current requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Côte d'Ivoire, Abuja",
+          "url": "https://nigeria.diplomatie.gouv.ci/contacts.php"
+        }
+      ],
+      "flag": "🇨🇮"
     },
     {
       "country": "Cameroon",
       "countryCode": "CM",
       "region": "Africa",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "469/470 Lobito Crescent, Wuse II, Abuja, Nigeria",
+          "phone": "+234 946 11 423",
+          "email": "haucocamabuja@yahoo.fr"
+        }
+      ],
+      "notes": "Verified against official sources.",
+      "sources": [
+        {
+          "label": "Cameroon Government — Diplomatic missions list (Abuja High Commission)",
+          "url": "https://www.prc.cm/files/18/0b/0e/8b6ae9f38c78d4bb7b765d7d74079a64.pdf",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "visaProcessing": "The High Commission of Cameroon in Abuja provides visa and consular guidance. Check directly for current requirements.",
+      "whereToApply": [
+        {
+          "label": "High Commission of Cameroon, Abuja",
+          "url": "https://www.prc.cm/files/18/0b/0e/8b6ae9f38c78d4bb7b765d7d74079a64.pdf"
+        }
+      ],
+      "flag": "🇨🇲"
     },
     {
       "country": "Congo, Dem. Rep.",
@@ -898,12 +971,37 @@ window.__DATA__ = {
     {
       "country": "Algeria",
       "countryCode": "DZ",
-      "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "region": "Africa",
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 09, Cadastral Zone A4 1398 Honorable Justice Mamman Nasir Street, Asokoro District, P.O. Box 10739, Garki, Abuja, Nigeria",
+          "phone": "+234 7034045321",
+          "email": "Ambalg-Abuja@mae.dz",
+          "website": "https://embabuja.mfa.gov.dz/",
+          "websiteLabel": "Embassy of Algeria in Abuja"
+        }
+      ],
+      "notes": "Verified against official sources.",
+      "sources": [
+        {
+          "label": "Embassy of Algeria in Abuja — Contact (MFA Algeria)",
+          "url": "https://embabuja.mfa.gov.dz/consular-services/online-service",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "visaProcessing": "The Embassy of Algeria in Abuja provides visa and consular guidance. Check the embassy for current requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Algeria, Abuja",
+          "url": "https://embabuja.mfa.gov.dz/consular-services/online-service"
+        }
+      ],
+      "flag": "🇩🇿"
     },
     {
       "country": "Ecuador",
@@ -918,12 +1016,35 @@ window.__DATA__ = {
     {
       "country": "Egypt, Arab Rep.",
       "countryCode": "EG",
-      "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "region": "Africa",
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 340, Diplomatic Drive, Central Area, Abuja, Nigeria",
+          "phone": "+234 703 415 8802 / +234 706 418 4050",
+          "email": "embassy.abuja@mfa.gov.eg"
+        }
+      ],
+      "notes": "Fallback source (public embassy directory). Official MFA page unavailable.",
+      "sources": [
+        {
+          "label": "Egypt Embassy in Nigeria — embassies.org directory",
+          "url": "https://embassies.org/en/egypt-embassy-in-nigeria",
+          "accessed": "2026-03-15"
+        }
+      ],
+      "lastVerified": "2026-03-15",
+      "visaProcessing": "The Embassy of Egypt in Abuja provides visa and consular guidance. Contact the embassy for current requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Egypt, Abuja (directory listing)",
+          "url": "https://embassies.org/en/egypt-embassy-in-nigeria"
+        }
+      ],
+      "flag": "🇪🇬"
     },
     {
       "country": "Eritrea",
@@ -1182,11 +1303,11 @@ window.__DATA__ = {
           "websiteLabel": "Ghana High Commission Abuja"
         }
       ],
-      "notes": "Verification pending.",
+      "notes": "Verified against official sources. Consular email: consular.abuja@mfa.gov.gh",
       "sources": [
         {
-          "label": "Ghana High Commission Abuja (MFA Ghana)",
-          "url": "https://abuja.mfa.gov.gh/",
+          "label": "Ghana High Commission Abuja — Contact",
+          "url": "https://abuja.mfa.gov.gh/contact-us/",
           "accessed": "2026-03-14"
         }
       ],
@@ -1680,11 +1801,27 @@ window.__DATA__ = {
       "countryCode": "KE",
       "region": "Africa",
       "verificationStatus": "verified",
-      "missions": [],
-      "notes": "eTA required before travel.",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Plot 357, Diplomatic Drive Way, Central Business District, P.M.B. 5160, Wuse Head Office, Abuja, Nigeria",
+          "phone": "+234 909 544 6757",
+          "email": "abuja@mfa.go.ke",
+          "website": "https://www.khcabuja.org",
+          "websiteLabel": "Kenya High Commission Abuja"
+        }
+      ],
+      "notes": "Verified against official sources.",
       "sources": [
         {
-          "label": "Kenya Electronic Travel Authorization (eTA) — Official portal",
+          "label": "Kenya consular contacts — Abuja High Commission (Directorate of Immigration Services)",
+          "url": "https://immigration.go.ke/contacts-for-various-consular-offices/",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Kenya eTA portal",
           "url": "https://etakenya.go.ke/",
           "accessed": "2026-03-14"
         }
@@ -1696,6 +1833,10 @@ window.__DATA__ = {
         {
           "label": "Kenya eTA portal",
           "url": "https://etakenya.go.ke/"
+        },
+        {
+          "label": "Kenya High Commission, Abuja",
+          "url": "https://immigration.go.ke/contacts-for-various-consular-offices/"
         }
       ]
     },
@@ -1999,12 +2140,35 @@ window.__DATA__ = {
     {
       "country": "Morocco",
       "countryCode": "MA",
-      "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "region": "Africa",
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "39 Lake Chad Street, Maitama, Abuja, Nigeria",
+          "phone": "+234 908 781 2101",
+          "email": "embassyofmorocco@hotmail.fr"
+        }
+      ],
+      "notes": "Fallback source (public embassy directory). Official MFA page unavailable.",
+      "sources": [
+        {
+          "label": "Embassy of Morocco in Abuja — embassypages.com directory",
+          "url": "https://www.embassypages.com/morocco-embassy-abuja-nigeria",
+          "accessed": "2026-03-15"
+        }
+      ],
+      "lastVerified": "2026-03-15",
+      "visaProcessing": "The Embassy of Morocco in Abuja provides visa and consular guidance. Contact the embassy for current requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Morocco, Abuja (directory listing)",
+          "url": "https://www.embassypages.com/morocco-embassy-abuja-nigeria"
+        }
+      ],
+      "flag": "🇲🇦"
     },
     {
       "country": "Monaco",
@@ -2595,9 +2759,25 @@ window.__DATA__ = {
       "countryCode": "RW",
       "region": "Africa",
       "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Visa on arrival confirmed by official immigration authority.",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "No 1 Justice Mohammed Bello Street, Off Jose Marti Crescent, Asokoro, Abuja, Nigeria",
+          "phone": "+234 907 756 1181",
+          "email": "ambaabuja@minaffet.gov.rw",
+          "website": "https://nigeria.embassy.gov.rw",
+          "websiteLabel": "Rwanda High Commission Abuja"
+        }
+      ],
+      "notes": "Verified against official sources.",
       "sources": [
+        {
+          "label": "Rwanda Government — High Commission to Nigeria (Abuja)",
+          "url": "https://www.gov.rw/government/directory/embassies",
+          "accessed": "2026-03-14"
+        },
         {
           "label": "Rwanda Immigration — Visa on arrival",
           "url": "https://www.migration.gov.rw/visa-on-arrival",
@@ -2663,11 +2843,35 @@ window.__DATA__ = {
       "country": "Senegal",
       "countryCode": "SN",
       "region": "Africa",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Not listed",
+          "phone": "Not listed",
+          "website": "https://www.diplomatie.gouv.sn/services/les-consulats-du-senegal",
+          "websiteLabel": "Senegal MFA — Embassies and Consulates"
+        }
+      ],
+      "notes": "Verified against official sources; address not listed in MFA directory.",
+      "sources": [
+        {
+          "label": "Senegal MFA — Embassies and Consulates (Abuja listed)",
+          "url": "https://www.diplomatie.gouv.sn/services/les-consulats-du-senegal",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "visaProcessing": "Senegal maintains an embassy in Abuja. Contact the embassy for visa and consular guidance.",
+      "whereToApply": [
+        {
+          "label": "Senegal MFA — Embassies and Consulates",
+          "url": "https://www.diplomatie.gouv.sn/services/les-consulats-du-senegal"
+        }
+      ],
+      "flag": "🇸🇳"
     },
     {
       "country": "Singapore",
@@ -3031,12 +3235,34 @@ window.__DATA__ = {
     {
       "country": "Tunisia",
       "countryCode": "TN",
-      "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "region": "Africa",
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "N° 11, Kainji Crescent, Off Lake Crescent, Maitama, Abuja, Nigeria",
+          "phone": "+234 81 72 49 07 23",
+          "email": "at.abuja@diplomatie.gov.tn"
+        }
+      ],
+      "notes": "Verified against official sources.",
+      "sources": [
+        {
+          "label": "Tunisia MFA — Directory of missions abroad (Abuja)",
+          "url": "https://back.diplomatie.gov.tn/storage/files/AFxwTbpKpnvRHtvCn4bmqHgwWDtQafgwYUKM5loA.pdf",
+          "accessed": "2026-03-14"
+        }
+      ],
+      "lastVerified": "2026-03-14",
+      "visaProcessing": "The Embassy of Tunisia in Abuja provides consular and visa guidance. Check the embassy for current requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Tunisia, Abuja",
+          "url": "https://back.diplomatie.gov.tn/storage/files/AFxwTbpKpnvRHtvCn4bmqHgwWDtQafgwYUKM5loA.pdf"
+        }
+      ]
     },
     {
       "country": "Turkiye",
@@ -3085,9 +3311,25 @@ window.__DATA__ = {
       "countryCode": "TZ",
       "region": "Africa",
       "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Apply online via the official immigration portal.",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "No 21, Yedseram Street, off IBB Way, Opposite Cubana Suites (formerly ALGON House), Maitama, P.M.B 5125, Wuse, Abuja, Nigeria",
+          "phone": "+234 9 413 2313, +234 9 413 2312, +234 9 413 2314",
+          "email": "abuja@nje.go.tz",
+          "website": "https://www.ng.tzembassy.go.tz/",
+          "websiteLabel": "Tanzania High Commission Abuja"
+        }
+      ],
+      "notes": "Verified against official sources.",
       "sources": [
+        {
+          "label": "Tanzania Ministry of Foreign Affairs — Diplomatic Missions List (Abuja)",
+          "url": "https://www.tzembassy.go.tz/home",
+          "accessed": "2026-03-14"
+        },
         {
           "label": "Tanzania Immigration — eVisa portal",
           "url": "https://visa.immigration.go.tz/",
@@ -3101,6 +3343,10 @@ window.__DATA__ = {
         {
           "label": "Tanzania eVisa portal",
           "url": "https://visa.immigration.go.tz/"
+        },
+        {
+          "label": "Tanzania High Commission, Abuja",
+          "url": "https://www.tzembassy.go.tz/home"
         }
       ]
     },
@@ -3109,12 +3355,28 @@ window.__DATA__ = {
       "countryCode": "UG",
       "region": "Africa",
       "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Official embassy guidance points to the Uganda eVisa portal.",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Plot 28, Ontario Crescent, Off Mississippi Street, Ministers’ Hill Maitama, Abuja, Nigeria",
+          "phone": "+234 9 4138069",
+          "email": "abuja@mofa.go.ug",
+          "website": "https://abuja.mofa.go.ug/",
+          "websiteLabel": "Uganda High Commission Abuja"
+        }
+      ],
+      "notes": "Verified against official sources.",
       "sources": [
         {
-          "label": "Embassy of Uganda — Visas (official eVisa portal)",
-          "url": "https://washington.mofa.go.ug/consular/visas",
+          "label": "Uganda Government Directory — Missions Abroad (Abuja)",
+          "url": "https://www.gcic.go.ug/wp-content/uploads/2022/05/GovDirectory.pdf",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Uganda eVisa portal",
+          "url": "https://visas.immigration.go.ug/",
           "accessed": "2026-03-14"
         }
       ],
@@ -3125,6 +3387,10 @@ window.__DATA__ = {
         {
           "label": "Uganda eVisa portal",
           "url": "https://visas.immigration.go.ug/"
+        },
+        {
+          "label": "Uganda High Commission, Abuja",
+          "url": "https://www.gcic.go.ug/wp-content/uploads/2022/05/GovDirectory.pdf"
         }
       ]
     },
@@ -3332,11 +3598,25 @@ window.__DATA__ = {
       "countryCode": "ZM",
       "region": "Africa",
       "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Apply online through the official immigration e‑services portal.",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Plot 351 Mission Road, Central Area District, RM.B 5055; Wuse, Abuja, Nigeria",
+          "phone": "+234-9-2347060 / 2348855",
+          "email": "zambiahc@yahoo.com"
+        }
+      ],
+      "notes": "Verified against official sources.",
       "sources": [
         {
-          "label": "Zambia Immigration — For visitors (online applications)",
+          "label": "Zambia Missions Abroad — Abuja (Zambia Immigration)",
+          "url": "https://www.zambiaimmigration.gov.zm/zambia-missions-abroad/",
+          "accessed": "2026-03-14"
+        },
+        {
+          "label": "Zambia Immigration — For visitors",
           "url": "https://www.zambiaimmigration.gov.zm/for-visitors/",
           "accessed": "2026-03-14"
         }
@@ -3348,6 +3628,10 @@ window.__DATA__ = {
         {
           "label": "Zambia Immigration e‑services",
           "url": "https://www.zambiaimmigration.gov.zm/for-visitors/"
+        },
+        {
+          "label": "Zambia High Commission, Abuja",
+          "url": "https://www.zambiaimmigration.gov.zm/zambia-missions-abroad/"
         }
       ]
     },
