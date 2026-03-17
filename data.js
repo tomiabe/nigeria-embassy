@@ -32,11 +32,25 @@ window.__DATA__ = {
       "country": "Afghanistan",
       "countryCode": "AF",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria listed; nearest embassy noted by embassy directory.",
+      "sources": [
+        {
+          "label": "Afghan embassy in Nigeria (Embassies.net — no mission, nearest Tripoli)",
+          "url": "https://embassies.net/afghanistan-in-nigeria/abuja",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Afghanistan has no mission in Nigeria listed. The nearest embassy referenced is Tripoli, Libya; contact the embassy there for guidance.",
+      "whereToApply": [
+        {
+          "label": "Afghanistan embassy listing (nearest Tripoli)",
+          "url": "https://embassies.net/afghanistan-in-nigeria/abuja"
+        }
+      ],
+      "flag": "🇦🇫"
     },
     {
       "country": "Angola",
@@ -216,11 +230,25 @@ window.__DATA__ = {
       "country": "American Samoa",
       "countryCode": "AS",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Entry permits are handled by the American Samoa Department of Legal Affairs.",
+      "sources": [
+        {
+          "label": "American Samoa Department of Legal Affairs — Visitor permits",
+          "url": "https://legalaffairs.as.gov/visitor-visa-home",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "American Samoa entry permits are issued by the Department of Legal Affairs. U.S. visa/waiver travelers can apply online for a visitor permit; other travelers need local host sponsorship and in-person application.",
+      "whereToApply": [
+        {
+          "label": "American Samoa visitor permits (Legal Affairs)",
+          "url": "https://legalaffairs.as.gov/visitor-visa-home"
+        }
+      ],
+      "flag": "🇦🇸"
     },
     {
       "country": "Antigua and Barbuda",
@@ -1476,11 +1504,25 @@ window.__DATA__ = {
       "country": "Djibouti",
       "countryCode": "DJ",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria listed. Djibouti’s official embassy links to the eVisa portal.",
+      "sources": [
+        {
+          "label": "Embassy of Djibouti in Belgium — Consular services (links to evisa.gouv.dj)",
+          "url": "https://www.ambassadededjibouti.be/services-consulaires/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Djibouti issues visas online. Apply through the official eVisa portal referenced by the embassy.",
+      "whereToApply": [
+        {
+          "label": "Djibouti eVisa portal",
+          "url": "https://www.evisa.gouv.dj/"
+        }
+      ],
+      "flag": "🇩🇯"
     },
     {
       "country": "Dominica",
@@ -2292,11 +2334,39 @@ window.__DATA__ = {
       "country": "Guam",
       "countryCode": "GU",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No separate mission in Nigeria. Guam participates in the Guam‑CNMI Visa Waiver Program; other travelers need a U.S. visa.",
+      "sources": [
+        {
+          "label": "Federal Register — Guam‑CNMI Visa Waiver Information (Form I‑736)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-10/pdf/FR-2025-12-10.pdf",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "U.S. Department of State — U.S. Visas",
+          "url": "https://travel.state.gov/content/travel/en/us-visas.html",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "U.S. Consulate General Lagos — Visa information",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/Supplements/Supplements_by_Post/LGS-Lagos.html",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Guam follows U.S. immigration rules. Travelers not eligible for the Guam‑CNMI Visa Waiver Program should apply for a U.S. visa through the U.S. Embassy/Consulate in Nigeria.",
+      "whereToApply": [
+        {
+          "label": "U.S. Visas (U.S. Department of State)",
+          "url": "https://travel.state.gov/content/travel/en/us-visas.html"
+        },
+        {
+          "label": "U.S. Consulate General Lagos — Visa information",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/Supplements/Supplements_by_Post/LGS-Lagos.html"
+        }
+      ],
+      "flag": "🇬🇺"
     },
     {
       "country": "Guyana",
@@ -2326,11 +2396,25 @@ window.__DATA__ = {
       "country": "Hong Kong SAR, China",
       "countryCode": "HK",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Apply online via Hong Kong Immigration Department.",
+      "sources": [
+        {
+          "label": "GovHK — Online application for entry for visit/transit in Hong Kong",
+          "url": "https://www.gov.hk/en/nonresidents/visarequire/visasentrypermits/applyvisit_transit.htm",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Hong Kong Immigration Department accepts online applications for entry for visit/transit. Use the official portal for requirements and submission.",
+      "whereToApply": [
+        {
+          "label": "Hong Kong Immigration Department — Online application",
+          "url": "https://www.gov.hk/en/nonresidents/visarequire/visasentrypermits/applyvisit_transit.htm"
+        }
+      ],
+      "flag": "🇭🇰"
     },
     {
       "country": "Honduras",
@@ -3157,11 +3241,43 @@ window.__DATA__ = {
       "country": "Libya",
       "countryCode": "LY",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Roseline Ukeje Close, Kyari Muhammed Crescent Off Justice Sowemimo Street, Asokoro, Abuja, Nigeria",
+          "phone": "+234 563 8363, +234 816 946 2714",
+          "email": "libyanembassyng@yahoo.com",
+          "website": "https://embassies.foreign.gov.ly/embng/",
+          "websiteLabel": "Libyan Embassy Abuja – Nigeria"
+        }
+      ],
+      "notes": "Embassy contact confirmed by Libya’s official embassy site; address/phone from public embassy directories.",
+      "sources": [
+        {
+          "label": "Libyan Embassy Abuja — official site",
+          "url": "https://embassies.foreign.gov.ly/embng/",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Embassy of Libya in Abuja — contact details (Embassies.net)",
+          "url": "https://embassies.net/libya-in-nigeria/abuja",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Embassy of Libya in Abuja — contact overview (EmbassyPages)",
+          "url": "https://www.embassypages.com/libya-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Libyan Embassy in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇱🇾"
     },
     {
       "country": "St. Lucia",
@@ -3361,11 +3477,25 @@ window.__DATA__ = {
       "country": "Macao SAR, China",
       "countryCode": "MO",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Apply via Macao SAR Immigration (Public Security Police Force) authorization process.",
+      "sources": [
+        {
+          "label": "Macao SAR Government — Authorization to Enter and Stay (PS-1472)",
+          "url": "https://www.gov.mo/en/services/ps-1472/ps-1472a/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Macao SAR visas are processed as Authorization to Enter and Stay by the Public Security Police Force (CPSP). Follow the official application guidance.",
+      "whereToApply": [
+        {
+          "label": "Macao SAR — Authorization to Enter and Stay (CPSP)",
+          "url": "https://www.gov.mo/en/services/ps-1472/ps-1472a/"
+        }
+      ],
+      "flag": "🇲🇴"
     },
     {
       "country": "St. Martin (French part)",
@@ -3625,11 +3755,30 @@ window.__DATA__ = {
       "country": "Malta",
       "countryCode": "MT",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Malta visa applications in Nigeria are handled through VFS Global (Extended Services) for Identità’s Central Visa Unit.",
+      "sources": [
+        {
+          "label": "VFS Global — Apply for Visa to Malta in Nigeria",
+          "url": "https://www.vfsglobal.com/one-pager/malta-extended-services/nigeria/english/index.html",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Identità — Central Visa Unit (Long-Stay Visa)",
+          "url": "https://identita.gov.mt/central-visa-unit-national-visa-long-stay-visa/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Malta visa applications in Nigeria are submitted through VFS Global (Extended Services) and processed by Identità’s Central Visa Unit. Use the VFS portal for appointments and requirements.",
+      "whereToApply": [
+        {
+          "label": "VFS Global — Malta (Nigeria)",
+          "url": "https://www.vfsglobal.com/one-pager/malta-extended-services/nigeria/english/index.html"
+        }
+      ],
+      "flag": "🇲🇹"
     },
     {
       "country": "Myanmar",
@@ -3717,11 +3866,39 @@ window.__DATA__ = {
       "country": "Northern Mariana Islands",
       "countryCode": "MP",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No separate mission in Nigeria. CNMI participates in the Guam‑CNMI Visa Waiver Program; other travelers need a U.S. visa.",
+      "sources": [
+        {
+          "label": "Federal Register — Guam‑CNMI Visa Waiver Information (Form I‑736)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-10/pdf/FR-2025-12-10.pdf",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "U.S. Department of State — U.S. Visas",
+          "url": "https://travel.state.gov/content/travel/en/us-visas.html",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "U.S. Consulate General Lagos — Visa information",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/Supplements/Supplements_by_Post/LGS-Lagos.html",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "CNMI follows U.S. immigration rules. Travelers not eligible for the Guam‑CNMI Visa Waiver Program should apply for a U.S. visa through the U.S. Embassy/Consulate in Nigeria.",
+      "whereToApply": [
+        {
+          "label": "U.S. Visas (U.S. Department of State)",
+          "url": "https://travel.state.gov/content/travel/en/us-visas.html"
+        },
+        {
+          "label": "U.S. Consulate General Lagos — Visa information",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/Supplements/Supplements_by_Post/LGS-Lagos.html"
+        }
+      ],
+      "flag": "🇲🇵"
     },
     {
       "country": "Mozambique",
@@ -3840,11 +4017,30 @@ window.__DATA__ = {
       "country": "New Caledonia",
       "countryCode": "NC",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. New Caledonia is a French overseas territory outside the Schengen Area; visas are handled by France-Visas.",
+      "sources": [
+        {
+          "label": "France-Visas — France’s non-European territories (French Polynesia, New Caledonia)",
+          "url": "https://www.france-visas.gouv.fr/en/web/france-visas/france-in-the-schengen-area",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "France-Visas — Overseas territories visa form",
+          "url": "https://france-visas.gouv.fr/documents/d/france-visas/cerfa_15934-01_court_sejour_drom_ctom_en",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "New Caledonia has its own visa policy (outside Schengen). Apply through France-Visas for French overseas territories.",
+      "whereToApply": [
+        {
+          "label": "France-Visas — Overseas territories visas",
+          "url": "https://www.france-visas.gouv.fr/en/web/france-visas/france-in-the-schengen-area"
+        }
+      ],
+      "flag": "🇳🇨"
     },
     {
       "country": "Niger",
@@ -4204,11 +4400,33 @@ window.__DATA__ = {
       "country": "Korea, Dem. People's Rep.",
       "countryCode": "KP",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 350, Diplomatic Drive, Central Business District, Abuja, Nigeria",
+          "phone": "+234 9 461 8620",
+          "email": "dprk_abuja@yahoo.com",
+          "website": "",
+          "websiteLabel": "Embassy of DPRK in Abuja"
+        }
+      ],
+      "notes": "Embassy contact details sourced from EmbassyPages listing.",
+      "sources": [
+        {
+          "label": "Embassy of the DPRK in Abuja — EmbassyPages",
+          "url": "https://www.embassypages.com/koreademocraticrepublic-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of the DPRK in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇰🇵"
     },
     {
       "country": "Portugal",
@@ -4300,11 +4518,30 @@ window.__DATA__ = {
       "country": "French Polynesia",
       "countryCode": "PF",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. French Polynesia is a French overseas territory outside the Schengen Area; visas are handled by France-Visas.",
+      "sources": [
+        {
+          "label": "France-Visas — France’s non-European territories (French Polynesia, New Caledonia)",
+          "url": "https://www.france-visas.gouv.fr/en/web/france-visas/france-in-the-schengen-area",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "France-Visas — Overseas territories visa form",
+          "url": "https://france-visas.gouv.fr/documents/d/france-visas/cerfa_15934-01_court_sejour_drom_ctom_en",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "French Polynesia has its own visa policy (outside Schengen). Apply through France-Visas for French overseas territories.",
+      "whereToApply": [
+        {
+          "label": "France-Visas — Overseas territories visas",
+          "url": "https://www.france-visas.gouv.fr/en/web/france-visas/france-in-the-schengen-area"
+        }
+      ],
+      "flag": "🇵🇫"
     },
     {
       "country": "Qatar",
@@ -5611,11 +5848,33 @@ window.__DATA__ = {
       "country": "Yemen, Rep.",
       "countryCode": "YE",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "12 JF Kennedy Street, Asokoro, Abuja FCT, Nigeria",
+          "phone": "+234 805 570 5931, +234 9 314 8170",
+          "email": "",
+          "website": "",
+          "websiteLabel": "Embassy of the Republic of Yemen in Abuja"
+        }
+      ],
+      "notes": "Embassy contact details sourced from a public business directory; official website not available in source.",
+      "sources": [
+        {
+          "label": "Yemen Embassy in Abuja — Finelib listing",
+          "url": "https://www.finelib.com/listing/Yemen-Embassy-in-Abuja/34756/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Yemen in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇾🇪"
     },
     {
       "country": "South Africa",

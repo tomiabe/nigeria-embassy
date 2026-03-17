@@ -447,6 +447,40 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://www.embassypages.com/syria-embassy-abuja-nigeria
 - Embassy of Palestine in Abuja — EmbassyPages
   - https://www.embassypages.com/palestine-embassy-abuja-nigeria
+- GovHK — Online application for entry for visit/transit in Hong Kong
+  - https://www.gov.hk/en/nonresidents/visarequire/visasentrypermits/applyvisit_transit.htm
+- Macao SAR Government — Authorization to Enter and Stay (PS-1472)
+  - https://www.gov.mo/en/services/ps-1472/ps-1472a/
+- Embassy of Djibouti in Belgium — Consular services (links to evisa.gouv.dj)
+  - https://www.ambassadededjibouti.be/services-consulaires/
+- France-Visas — France’s non-European territories (French Polynesia, New Caledonia)
+  - https://www.france-visas.gouv.fr/en/web/france-visas/france-in-the-schengen-area
+- France-Visas — Overseas territories visa form
+  - https://france-visas.gouv.fr/documents/d/france-visas/cerfa_15934-01_court_sejour_drom_ctom_en
+- American Samoa Department of Legal Affairs — Visitor permits
+  - https://legalaffairs.as.gov/visitor-visa-home
+- Federal Register — Guam-CNMI Visa Waiver Information (Form I-736)
+  - https://www.govinfo.gov/content/pkg/FR-2025-12-10/pdf/FR-2025-12-10.pdf
+- U.S. Department of State — U.S. Visas
+  - https://travel.state.gov/content/travel/en/us-visas.html
+- U.S. Consulate General Lagos — Visa information
+  - https://travel.state.gov/content/travel/en/us-visas/Supplements/Supplements_by_Post/LGS-Lagos.html
+- Embassy of Libya in Abuja — official site
+  - https://embassies.foreign.gov.ly/embng/
+- Embassy of Libya in Abuja — contact details (Embassies.net)
+  - https://embassies.net/libya-in-nigeria/abuja
+- Embassy of Libya in Abuja — contact overview (EmbassyPages)
+  - https://www.embassypages.com/libya-embassy-abuja-nigeria
+- Yemen Embassy in Abuja — Finelib listing
+  - https://www.finelib.com/listing/Yemen-Embassy-in-Abuja/34756/
+- Afghan embassy listing for Nigeria (no mission; nearest Tripoli) — Embassies.net
+  - https://embassies.net/afghanistan-in-nigeria/abuja
+- VFS Global — Apply for Visa to Malta in Nigeria
+  - https://www.vfsglobal.com/one-pager/malta-extended-services/nigeria/english/index.html
+- Identità — Central Visa Unit (Long-Stay Visa)
+  - https://identita.gov.mt/central-visa-unit-national-visa-long-stay-visa/
+- Embassy of the DPRK in Abuja — EmbassyPages
+  - https://www.embassypages.com/koreademocraticrepublic-embassy-abuja-nigeria
 
 ## Countries verified (so far)
 - United States
