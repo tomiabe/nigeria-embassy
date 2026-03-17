@@ -464,11 +464,31 @@ window.__DATA__ = {
       "country": "Bangladesh",
       "countryCode": "BD",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Plot 2609, Hassan Musa Katsina Street, Asokoro, 900231 Abuja, Nigeria",
+          "phone": "+234 907 385 9213",
+          "email": "[email protected]"
+        }
+      ],
+      "notes": "Verified via embassies.info directory listing; confirm details with the High Commission.",
+      "sources": [
+        {
+          "label": "High Commission of Bangladesh in Abuja — Embassies.info",
+          "url": "https://embassies.info/HighCommissionofBangladeshinAbujaNigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Bangladesh High Commission in Abuja provides consular and visa services. Contact the High Commission for requirements.",
+      "whereToApply": [
+        "High Commission: Abuja"
+      ],
+      "flag": "🇧🇩"
     },
     {
       "country": "Bulgaria",
@@ -506,11 +526,25 @@ window.__DATA__ = {
       "country": "Bahrain",
       "countryCode": "BH",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Bahraini mission in Nigeria. Embassies.net lists the nearest mission in Khartoum, Sudan.",
+      "sources": [
+        {
+          "label": "Bahrain embassies and consulates near Nigeria — Embassies.net",
+          "url": "https://embassies.net/bahrain-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bahraini embassy listed in the directory (e.g., Khartoum).",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/bahrain-in-nigeria"
+        }
+      ],
+      "flag": "🇧🇭"
     },
     {
       "country": "Bahamas, The",
@@ -735,21 +769,59 @@ window.__DATA__ = {
       "country": "Brunei Darussalam",
       "countryCode": "BN",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Visa guidance is provided by Brunei’s MFA.",
+      "sources": [
+        {
+          "label": "Brunei embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/brunei",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Visa application (MFA Brunei)",
+          "url": "https://www.mfa.gov.bn/usa-washington/SitePages/Visa%20Application.aspx",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Brunei does not have a mission in Nigeria. Follow Brunei’s official visa application guidance.",
+      "whereToApply": [
+        {
+          "label": "Brunei visa application (MFA)",
+          "url": "https://www.mfa.gov.bn/usa-washington/SitePages/Visa%20Application.aspx"
+        }
+      ],
+      "flag": "🇧🇳"
     },
     {
       "country": "Bhutan",
       "countryCode": "BT",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Visa handled via Bhutan’s official visa process.",
+      "sources": [
+        {
+          "label": "Bhutan embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/bhutan",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Visa for coming to Bhutan (MFA Bhutan)",
+          "url": "https://www.mfa.gov.bt/visa/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Bhutan does not have a mission in Nigeria. Visas are issued through Bhutan’s official process; review the Ministry of Foreign Affairs guidance before applying.",
+      "whereToApply": [
+        {
+          "label": "Bhutan visa information (MFA)",
+          "url": "https://www.mfa.gov.bt/visa/"
+        }
+      ],
+      "flag": "🇧🇹"
     },
     {
       "country": "Botswana",
@@ -2512,21 +2584,65 @@ window.__DATA__ = {
       "country": "Iran, Islamic Rep.",
       "countryCode": "IR",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "No. 1 Udi Hills Street, Off Aso Drive, Maitama, Abuja, Nigeria",
+          "phone": "07037740223",
+          "email": "iranemb.abv@mfa.gov.ir",
+          "website": "https://abuja.mfa.ir/en",
+          "websiteLabel": "Embassy of Iran in Abuja"
+        }
+      ],
+      "notes": "Verified against official embassy website.",
+      "sources": [
+        {
+          "label": "Embassy of the Islamic Republic of Iran — Abuja (Contact)",
+          "url": "https://abuja.mfa.ir/en",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Iran in Abuja provides consular and visa services. Check the official embassy site for requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Iran, Abuja",
+          "url": "https://abuja.mfa.ir/en"
+        }
+      ],
+      "flag": "🇮🇷"
     },
     {
       "country": "Iraq",
       "countryCode": "IQ",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "23 (Plot 710), Kainji Crescent, Cadastral Zone A5, Maitama District, P.M.B 481, Garki, Abuja, Nigeria",
+          "phone": "+234-9-4139256"
+        }
+      ],
+      "notes": "Verified via Nigeria Directory listing; confirm details with the embassy.",
+      "sources": [
+        {
+          "label": "Embassy of the Republic of Iraq — Nigeria Directory",
+          "url": "https://www.directory.org.ng/embassy_of_the_republic_of_iraq/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Iraq in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇮🇶"
     },
     {
       "country": "Iceland",
@@ -2649,11 +2765,25 @@ window.__DATA__ = {
       "country": "Jordan",
       "countryCode": "JO",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Jordan has no embassy or consulate in Nigeria, per official Jordan Embassy listing.",
+      "sources": [
+        {
+          "label": "Jordan Embassy — Nigeria (no mission)",
+          "url": "https://www.jordanembassy.us/location/nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident Jordan mission in Nigeria. Use the nearest Jordan embassy listed on the official Jordan Embassy site for guidance.",
+      "whereToApply": [
+        {
+          "label": "Jordan Embassy locations (no Nigeria mission)",
+          "url": "https://www.jordanembassy.us/location/nigeria"
+        }
+      ],
+      "flag": "🇯🇴"
     },
     {
       "country": "Japan",
@@ -2798,11 +2928,30 @@ window.__DATA__ = {
       "country": "Cambodia",
       "countryCode": "KH",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Cambodia issues visas online via the official eVisa portal.",
+      "sources": [
+        {
+          "label": "Cambodia embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/cambodia",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Official Cambodia e‑Visa portal (Embassy of Cambodia, Washington DC)",
+          "url": "https://www.embassyofcambodiadc.org/wwwevisagovkh.html",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Cambodia does not have a mission in Nigeria. Apply via the official Cambodia eVisa portal.",
+      "whereToApply": [
+        {
+          "label": "Cambodia eVisa portal",
+          "url": "https://www.evisa.gov.kh/"
+        }
+      ],
+      "flag": "🇰🇭"
     },
     {
       "country": "Kiribati",
@@ -2874,31 +3023,105 @@ window.__DATA__ = {
       "country": "Kuwait",
       "countryCode": "KW",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "24 Yedseram Street, Maitama, Abuja, Nigeria",
+          "phone": "+234 807 774 4222 / +234 807 774 4242",
+          "email": "nigeria@mofa.gov.kw, kwembabj@yahoo.com",
+          "website": "https://www.embassypages.com/kuwait-embassy-abuja-nigeria",
+          "websiteLabel": "Embassy of Kuwait in Abuja"
+        }
+      ],
+      "notes": "Verified via EmbassyPages listing; confirm details with the embassy.",
+      "sources": [
+        {
+          "label": "Embassy of Kuwait in Abuja — EmbassyPages",
+          "url": "https://www.embassypages.com/kuwait-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Kuwait in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇰🇼"
     },
     {
       "country": "Lao PDR",
       "countryCode": "LA",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Laos issues visas online via the official eVisa portal.",
+      "sources": [
+        {
+          "label": "Laos embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/laos",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Lao Official Online Visa (Lao MFA)",
+          "url": "https://laoevisa.gov.la/term",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Laos does not have a mission in Nigeria. Apply via the official Lao eVisa portal.",
+      "whereToApply": [
+        {
+          "label": "Lao eVisa portal",
+          "url": "https://laoevisa.gov.la/"
+        }
+      ],
+      "flag": "🇱🇦"
     },
     {
       "country": "Lebanon",
       "countryCode": "LB",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Usuma Street, Maitama, Abuja, 12",
+          "phone": "+234 092914900",
+          "email": "abuja.leb@gmail.com",
+          "website": "https://www.abuja.mfa.gov.lb",
+          "websiteLabel": "Embassy of Lebanon in Abuja"
+        },
+        {
+          "type": "Consulate General",
+          "typeKey": "consulate",
+          "city": "Lagos",
+          "address": "18 Walter Carrington Crescent, Victoria Island, Lagos",
+          "phone": "+234 12713881 / +234 12713882",
+          "email": "consulategeneral@lebaneseconsulatelagos.com",
+          "website": "https://www.lagos.mfa.gov.lb",
+          "websiteLabel": "Consulate General of Lebanon in Lagos"
+        }
+      ],
+      "notes": "Verified via Lebanese embassy list published by the Maronite Foundation (public diplomatic list).",
+      "sources": [
+        {
+          "label": "Lebanese Embassies & Consulates list (Maronite Foundation) — Nigeria entries",
+          "url": "https://maronitefoundation.org/LebaneseCitizenship/uploads/documents/List-Of-Embassies-en.pdf",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Lebanon in Abuja handles consular and visa services. The Consulate General in Lagos provides additional consular support.",
+      "whereToApply": [
+        "Embassy: Abuja",
+        "Consulate General: Lagos"
+      ],
+      "flag": "🇱🇧"
     },
     {
       "country": "Liberia",
@@ -2997,11 +3220,22 @@ window.__DATA__ = {
       "country": "Sri Lanka",
       "countryCode": "LK",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Sri Lanka’s Ministry of Foreign Affairs announced the temporary closure of the High Commission in Abuja effective 31 Dec 2021, with Nigeria to be concurrently accredited via Nairobi.",
+      "sources": [
+        {
+          "label": "Sri Lanka MFA — Temporary closure of missions (Abuja) and accreditation via Nairobi",
+          "url": "https://mfa.gov.lk/en/temporary-closure-sl-missions/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Sri Lanka’s High Commission in Nairobi handles accreditation for Nigeria. Contact that mission for visa guidance.",
+      "whereToApply": [
+        "High Commission: Nairobi"
+      ],
+      "flag": "🇱🇰"
     },
     {
       "country": "Lesotho",
@@ -3266,11 +3500,30 @@ window.__DATA__ = {
       "country": "Maldives",
       "countryCode": "MV",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Maldives issues tourist visas on arrival (subject to requirements).",
+      "sources": [
+        {
+          "label": "Maldives embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/maldives",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Tourist visa on arrival (Maldives Immigration)",
+          "url": "https://www.immigration.gov.mv/visa/tourist-visa",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Maldives does not have a mission in Nigeria. Tourist visas are granted on arrival; check Maldives Immigration requirements.",
+      "whereToApply": [
+        {
+          "label": "Maldives Immigration — Tourist visa",
+          "url": "https://www.immigration.gov.mv/visa/tourist-visa"
+        }
+      ],
+      "flag": "🇲🇻"
     },
     {
       "country": "Mexico",
@@ -3382,11 +3635,30 @@ window.__DATA__ = {
       "country": "Myanmar",
       "countryCode": "MM",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Myanmar issues visas online via the official eVisa portal.",
+      "sources": [
+        {
+          "label": "Myanmar embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/myanmar",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Official Myanmar eVisa website notice (Embassy of Myanmar)",
+          "url": "https://www.myanmedelhi.com/fake-myanmar-evisa-websites/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Myanmar does not have a mission in Nigeria. Apply via the official Myanmar eVisa portal.",
+      "whereToApply": [
+        {
+          "label": "Myanmar eVisa portal",
+          "url": "https://evisa.moip.gov.mm/"
+        }
+      ],
+      "flag": "🇲🇲"
     },
     {
       "country": "Montenegro",
@@ -3416,11 +3688,30 @@ window.__DATA__ = {
       "country": "Mongolia",
       "countryCode": "MN",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Mongolia issues visas online via the official eVisa portal.",
+      "sources": [
+        {
+          "label": "Mongolia embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/mongolia",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Mongolia eVisa application system (Government of Mongolia)",
+          "url": "https://www.evisa.gov.mn/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Mongolia does not have a mission in Nigeria. Apply via the official Mongolia eVisa portal.",
+      "whereToApply": [
+        {
+          "label": "Mongolia eVisa portal",
+          "url": "https://www.evisa.gov.mn/"
+        }
+      ],
+      "flag": "🇲🇳"
     },
     {
       "country": "Northern Mariana Islands",
@@ -3510,11 +3801,30 @@ window.__DATA__ = {
       "country": "Malaysia",
       "countryCode": "MY",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Rio Negro Close off Rio Negro Street by Yedseram St, Maitama, Abuja, Nigeria",
+          "email": "mwlagos@hyperia.com"
+        }
+      ],
+      "notes": "Verified via embassy directory listing; confirm details with the High Commission.",
+      "sources": [
+        {
+          "label": "Malaysia High Commission in Abuja — Embassies.org",
+          "url": "https://embassies.org/en/malaysia-embassy-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Malaysia High Commission in Abuja provides consular and visa services. Contact the High Commission for requirements.",
+      "whereToApply": [
+        "High Commission: Abuja"
+      ],
+      "flag": "🇲🇾"
     },
     {
       "country": "Namibia",
@@ -3637,11 +3947,25 @@ window.__DATA__ = {
       "country": "Nepal",
       "countryCode": "NP",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Nepalese mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Nepal embassies near Nigeria — Embassies.net",
+          "url": "https://embassies.net/nepal-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Nepal mission listed in the directory (e.g., Cairo or Jeddah) for guidance.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/nepal-in-nigeria"
+        }
+      ],
+      "flag": "🇳🇵"
     },
     {
       "country": "Nauru",
@@ -3667,11 +3991,25 @@ window.__DATA__ = {
       "country": "Oman",
       "countryCode": "OM",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Omani mission in Nigeria. Embassies.net lists the nearest mission in Khartoum, Sudan.",
+      "sources": [
+        {
+          "label": "Oman embassies and consulates near Nigeria — Embassies.net",
+          "url": "https://embassies.net/oman-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Omani embassy listed in the directory (e.g., Khartoum).",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/oman-in-nigeria"
+        }
+      ],
+      "flag": "🇴🇲"
     },
     {
       "country": "Pakistan",
@@ -3756,11 +4094,31 @@ window.__DATA__ = {
       "country": "Philippines",
       "countryCode": "PH",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "34B Rhine Street, Maitama District, 900271 Abuja FCT, Nigeria",
+          "phone": "+234 810 254 1252",
+          "email": "[email protected]"
+        }
+      ],
+      "notes": "Verified via embassies.info directory listing; confirm details with the embassy.",
+      "sources": [
+        {
+          "label": "Embassy of the Philippines in Abuja — Embassies.info",
+          "url": "https://embassies.info/PhilippineEmbassyinAbujaNigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of the Philippines in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇵🇭"
     },
     {
       "country": "Palau",
@@ -3910,11 +4268,33 @@ window.__DATA__ = {
       "country": "West Bank and Gaza",
       "countryCode": "PS",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 346, Diplomatic Drive, Behind UN House, Central Business Area, Abuja, Nigeria",
+          "phone": "+234 9 461 1420",
+          "email": "palestine_emb_abuja@yahoo.com",
+          "website": "",
+          "websiteLabel": "Embassy of Palestine in Abuja"
+        }
+      ],
+      "notes": "Verified via EmbassyPages listing for the Embassy of Palestine in Abuja.",
+      "sources": [
+        {
+          "label": "Embassy of Palestine in Abuja (EmbassyPages)",
+          "url": "https://www.embassypages.com/palestine-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Palestine in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇵🇸"
     },
     {
       "country": "French Polynesia",
@@ -4148,11 +4528,41 @@ window.__DATA__ = {
       "country": "Singapore",
       "countryCode": "SG",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Honorary Consulate-General",
+          "typeKey": "honorary",
+          "city": "Lagos",
+          "address": "Port Square Towers, Block A, 6th Floor, 1/3 Ologun Agbaje Street, Victoria Island, Lagos, Nigeria",
+          "phone": "+234-1-4610818 / +234-1-4619088 / +234-80996 78888",
+          "email": "singapore.consulate@tolaram.com",
+          "website": "https://www.mfa.gov.sg/Lagos",
+          "websiteLabel": "Honorary Consulate-General of Singapore in Lagos"
+        }
+      ],
+      "notes": "Verified against official Singapore MFA and Government Directory listings.",
+      "sources": [
+        {
+          "label": "MFA Singapore — Honorary Consulate-General in Lagos",
+          "url": "https://www.mfa.gov.sg/Lagos",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Singapore Government Directory — Lagos Honorary Consulate-General",
+          "url": "https://www.sgdi.gov.sg/ministries/mfa/departments/om/departments/cg-hcg/departments/lagos",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Honorary Consulate-General in Lagos provides consular assistance. Check the official MFA page for visa guidance.",
+      "whereToApply": [
+        {
+          "label": "Honorary Consulate-General of Singapore, Lagos",
+          "url": "https://www.mfa.gov.sg/Lagos"
+        }
+      ],
+      "flag": "🇸🇬"
     },
     {
       "country": "Solomon Islands",
@@ -4480,11 +4890,33 @@ window.__DATA__ = {
       "country": "Syrian Arab Republic",
       "countryCode": "SY",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "318 Amazon Street, Ministers Hill, Maitama, Abuja, Nigeria",
+          "phone": "+234 813 353 7889",
+          "email": "syrembassy.abuja@hotmail.com",
+          "website": "",
+          "websiteLabel": "Embassy of Syria in Abuja"
+        }
+      ],
+      "notes": "Verified via EmbassyPages listing for the Syrian Embassy in Abuja.",
+      "sources": [
+        {
+          "label": "Embassy of Syria in Abuja (EmbassyPages)",
+          "url": "https://www.embassypages.com/syria-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Syrian Embassy in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇸🇾"
     },
     {
       "country": "Turks and Caicos Islands",
@@ -4634,11 +5066,30 @@ window.__DATA__ = {
       "country": "Timor-Leste",
       "countryCode": "TL",
       "region": "Asia",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No mission in Nigeria. Tourist visa is issued on arrival (subject to requirements).",
+      "sources": [
+        {
+          "label": "Timor-Leste embassies and consulates (EmbassyPages)",
+          "url": "https://www.embassypages.com/easttimor",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Tourist visa (Immigration Service of Timor-Leste)",
+          "url": "https://www.migracao.gov.tl/html/sub0301.php",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "Timor-Leste does not have a mission in Nigeria. Tourist visas are issued on arrival; check Immigration Service requirements.",
+      "whereToApply": [
+        {
+          "label": "Timor-Leste Immigration — Tourist visa",
+          "url": "https://www.migracao.gov.tl/html/sub0301.php"
+        }
+      ],
+      "flag": "🇹🇱"
     },
     {
       "country": "Tonga",
@@ -5084,11 +5535,36 @@ window.__DATA__ = {
       "country": "Viet Nam",
       "countryCode": "VN",
       "region": "Asia",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "No. 1 Kyari Mohammed Crescent Street, Asokoro District, Abuja, Nigeria",
+          "phone": "(+234)-8137086724 / (+234-9) 079173669",
+          "email": "dsqvnnigeria@yahoo.com",
+          "website": "https://vnembassy-abuja.mofa.gov.vn/en-us/Pages/default.aspx",
+          "websiteLabel": "Embassy of Viet Nam in Nigeria"
+        }
+      ],
+      "notes": "Verified against official Viet Nam MFA embassy contact page.",
+      "sources": [
+        {
+          "label": "Embassy of Viet Nam in Nigeria — Contact",
+          "url": "https://vnembassy-abuja.mofa.gov.vn/en-us/embassy/Contact/Pages/default.aspx",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Viet Nam in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Viet Nam, Abuja",
+          "url": "https://vnembassy-abuja.mofa.gov.vn/en-us/Pages/default.aspx"
+        }
+      ],
+      "flag": "🇻🇳"
     },
     {
       "country": "Vanuatu",

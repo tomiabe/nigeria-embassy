@@ -223,7 +223,7 @@ function buildMissionBlock(mission) {
 
 function renderCard(entry) {
   const flag = entry.flag
-    ? `<span class="text-4xl leading-none" aria-hidden="true">${entry.flag}</span>`
+    ? `<span class="text-4xl leading-none flag-emoji" aria-hidden="true">${entry.flag}</span>`
     : entry.countryCode
       ? `<img class="w-9 h-9 rounded-md border border-gray-200" src="https://flagcdn.com/w40/${entry.countryCode.toLowerCase()}.png" alt="${entry.country} flag" />`
       : `<span class="w-9 h-9 rounded-md bg-gray-200 inline-block"></span>`;

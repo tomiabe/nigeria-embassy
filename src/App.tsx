@@ -258,7 +258,7 @@ function CountryCard({ country }: { country: CountryData }) {
       {/* Card Header */}
       <div className="px-4 py-4 sm:px-6 sm:py-5 border-b border-gray-100 bg-gray-50/50 flex flex-col sm:flex-row sm:items-center justify-between gap-3 sm:gap-4">
         <div className="flex items-center gap-3">
-          <span className="text-4xl leading-none" aria-hidden="true">{country.flag}</span>
+          <span className="text-4xl leading-none flag-emoji" aria-hidden="true">{country.flag}</span>
           <div>
             <h2 className="text-xl font-bold text-gray-900">{country.name}</h2>
             <p className="text-sm text-gray-500">{country.region}</p>

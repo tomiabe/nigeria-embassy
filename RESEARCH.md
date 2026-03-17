@@ -377,6 +377,76 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://france-visas.gouv.fr/en/suriname
 - El Salvador in Nigeria — Embassies.net
   - https://embassies.net/el-salvador-in-nigeria
+- AbujaGuide — Asian embassies in Abuja (Bangladesh, Iraq, Malaysia, Philippines, Viet Nam listings)
+  - https://abujaguide.com.ng/embassies-in-abuja/
+- Embassy of the Islamic Republic of Iran in Abuja — Contact
+  - https://abuja.mfa.ir/en
+- Embassy of Kuwait in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/kuwait-embassy-abuja-nigeria
+- Bahrain embassies and consulates near Nigeria — Embassies.net
+  - https://embassies.net/bahrain-in-nigeria
+- Oman embassies and consulates near Nigeria — Embassies.net
+  - https://embassies.net/oman-in-nigeria
+- Sri Lanka MFA — Temporary closure of missions (Abuja) and accreditation via Nairobi
+  - https://mfa.gov.lk/en/temporary-closure-sl-missions/
+- MFA Singapore — Honorary Consulate-General in Lagos
+  - https://www.mfa.gov.sg/Lagos
+- Singapore Government Directory — Lagos Honorary Consulate-General
+  - https://www.sgdi.gov.sg/ministries/mfa/departments/om/departments/cg-hcg/departments/lagos
+- Embassy of Viet Nam in Nigeria — Contact
+  - https://vnembassy-abuja.mofa.gov.vn/en-us/embassy/Contact/Pages/default.aspx
+- Lebanese Embassies & Consulates list (Maronite Foundation) — Nigeria entries
+  - https://maronitefoundation.org/LebaneseCitizenship/uploads/documents/List-Of-Embassies-en.pdf
+- Malaysia High Commission in Abuja — Embassies.org directory
+  - https://embassies.org/en/malaysia-embassy-in-nigeria
+- High Commission of Bangladesh in Abuja — Embassies.info
+  - https://embassies.info/HighCommissionofBangladeshinAbujaNigeria
+- Embassy of the Philippines in Abuja — Embassies.info
+  - https://embassies.info/PhilippineEmbassyinAbujaNigeria
+- Embassy of Kuwait in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/kuwait-embassy-abuja-nigeria
+- Embassy of the Republic of Iraq — Nigeria Directory
+  - https://www.directory.org.ng/embassy_of_the_republic_of_iraq/
+- Jordan Embassy — Nigeria (no mission)
+  - https://www.jordanembassy.us/location/nigeria
+- Nepal embassies near Nigeria — Embassies.net
+  - https://embassies.net/nepal-in-nigeria
+- Bhutan embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/bhutan
+- Visa for coming to Bhutan — MFA Bhutan
+  - https://www.mfa.gov.bt/visa/
+- Cambodia embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/cambodia
+- Cambodia official e‑Visa portal (embassy confirmation)
+  - https://www.embassyofcambodiadc.org/wwwevisagovkh.html
+- Laos embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/laos
+- Lao Official Online Visa (eVisa)
+  - https://laoevisa.gov.la/term
+- Myanmar embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/myanmar
+- Myanmar eVisa official site advisory (Embassy of Myanmar)
+  - https://www.myanmedelhi.com/fake-myanmar-evisa-websites/
+- Mongolia embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/mongolia
+- Mongolia eVisa application system
+  - https://www.evisa.gov.mn/
+- Maldives embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/maldives
+- Maldives Immigration — Tourist visa on arrival
+  - https://www.immigration.gov.mv/visa/tourist-visa
+- Timor‑Leste embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/easttimor
+- Timor‑Leste Immigration — Tourist visa
+  - https://www.migracao.gov.tl/html/sub0301.php
+- Brunei embassies and consulates — EmbassyPages
+  - https://www.embassypages.com/brunei
+- Brunei visa application — MFA Brunei
+  - https://www.mfa.gov.bn/usa-washington/SitePages/Visa%20Application.aspx
+- Embassy of Syria in Abuja — EmbassyPages
+  - https://www.embassypages.com/syria-embassy-abuja-nigeria
+- Embassy of Palestine in Abuja — EmbassyPages
+  - https://www.embassypages.com/palestine-embassy-abuja-nigeria
 
 ## Countries verified (so far)
 - United States
