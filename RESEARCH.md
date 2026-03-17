@@ -9,6 +9,8 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://travel.state.gov/content/travel/en/Intercountry-Adoption/Intercountry-Adoption-Country-Information/Nigeria.html
 - British High Commission Abuja (GOV.UK)
   - https://www.gov.uk/world/organisations/british-high-commission-abuja/office/british-high-commission-abuja
+- British Deputy High Commission Lagos — Address (UK government guidance)
+  - https://www.gov.uk/government/publications/nigeria-prisoner-pack/information-pack-for-british-nationals-arrested-or-detained-in-nigeria
 - VFS Global UK visa application centres (VFS Global media release)
   - https://www.vfsglobal.com/en/PDF/media-releases/2025/MR_24042025_UKPAC_in_Nigeria_final.pdf
 - German Embassy Abuja (Federal Foreign Office)
@@ -67,6 +69,10 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://www.mfa.gr/missionsabroad/en/nigeria-en/embassy.html
 - Embassy of Ireland in Nigeria — Contact
   - https://www.dfa.ie/irish-embassy/nigeria/
+- Ireland DFA — Embassy of Ireland, Nigeria (Abuja) + Honorary Consul Lagos
+  - https://www.ireland.ie/en/dfa/embassies/
+- Ireland DFA — Visa information (VFS Abuja & Lagos)
+  - https://www.dfa.ie/irish-embassy/nigeria/our-services/visas/visas-for-ireland/
 - Embassy of Israel in Nigeria — Contact
   - https://embassies.gov.il/Abuja/About/Pages/Contact-Us.aspx
 - Embassy of Qatar in Abuja — Contact
@@ -183,6 +189,112 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://www.gov.rw/government/directory/embassies
 - Rwanda Immigration — Visa on arrival
   - https://www.migration.gov.rw/visa-on-arrival
+- Embassy of Burkina Faso in Abuja — Contact
+  - https://nigeria.diplomatie.gov.bf/
+- Embassy of Burundi in Abuja — Contacts
+  - https://www.ambabuabuja.mae.gov.bi/
+- Gabon MFA — Embassy contacts (Nigeria)
+  - https://www.diplomatie.gouv.ga/4-services-aux-usagers/595-protocole/382-contacts-des-ambassades/
+- High Commission of The Gambia in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/gambia-highcommission-abuja-nigeria
+- Republic of Congo — Embassies abroad (Nigeria)
+  - https://www.ambacongo-us.org/en/about-congo/embassies-abroad
+- DR Congo — Embassy listing (Nigeria)
+  - https://www.ambardcusa.org/embassy/democratic-republic-of-the-congo-in-nigeria/
+- Malawi in Nigeria — Embassies.net (no resident mission; nearest Cairo)
+  - https://embassies.net/malawi-in-nigeria/abuja
+- Malawi Embassy in Cairo — Embassies.net
+  - https://embassies.net/malawi-in-egypt/cairo
+- Guinea Embassy in Abuja — Embassies.org directory
+  - https://embassies.org/en/guinea-embassy-in-nigeria
+- Guinea-Bissau Embassy in Abuja — Embassies.org directory
+  - https://embassies.org/en/guinea-bissau-embassy-in-nigeria
+- Equatorial Guinea Embassy in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/equatorialguinea-embassy-abuja-nigeria
+- High Commission of Botswana in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/botswana-highcommission-abuja-nigeria
+- Central African Republic Consulate in Abuja — Embassies.org directory
+  - https://embassies.org/en/central-african-republic-embassy-in-nigeria
+- Chad Embassy in Abuja — Embassies.org directory
+  - https://embassies.org/en/chad-embassy-in-nigeria
+- Comoros in Abuja — Embassies.net (no resident mission; nearest Tripoli)
+  - https://embassies.net/comoros-in-nigeria/abuja
+- Embassy of Eritrea in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/eritrea-embassy-abuja-nigeria
+- Eswatini in Abuja — Embassies.net (no resident mission; nearest Valletta)
+  - https://embassies.net/eswatini-in-nigeria/abuja
+- Lesotho in Abuja — Embassies.net (no resident mission; nearest Tripoli)
+  - https://embassies.net/lesotho-in-nigeria/abuja
+- Embassy of Liberia in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/liberia-embassy-abuja-nigeria
+- Embassy of Mali in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/mali-ambassade-abuja-nigeria
+- Embassy of Mauritania in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/mauritania-embassy-abuja-nigeria
+- Embassy of Spain in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/spain-embassy-abuja-nigeria
+- Embassy of Portugal in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/portugal-embassy-abuja-nigeria
+- Croatia Consulate in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/croatia-consulate-abuja-nigeria
+- EU Consular Protection — Romania Embassy Abuja
+  - https://consular-protection.ec.europa.eu/representation/romania/abuja_en
+- Serbia MFA — Nigeria (Embassy in Abuja)
+  - https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-requirements/12480
+- Montenegro MFA — Embassy of Serbia in Nigeria (Abuja)
+  - https://www.gov.me/en/diplomacy/embassies-and-consulates/embassy-of-serbia-in-nigeria/
+- Embassy of Belarus in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/belarus-embassy-abuja-nigeria
+- Embassy of Russia in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/russia-embassy-abuja-nigeria
+- Cyprus Consulate in Lagos — EmbassyPages directory
+  - https://www.embassypages.com/cyprus-consulate-lagos-nigeria
+- Iceland in Abuja — Embassies.net (no resident mission; nearest Lagos)
+  - https://embassies.net/iceland-in-nigeria/abuja
+- North Macedonia in Abuja — Embassies.net (no resident mission; nearest Cairo)
+  - https://embassies.net/north-macedonia-in-nigeria/abuja
+- Moldova in Abuja — Embassies.net (no resident mission; nearest Athens)
+  - https://embassies.net/moldova-in-nigeria/abuja
+- Albania in Abuja — Embassies.net (no resident mission; nearest Cairo)
+  - https://embassies.net/albania-in-nigeria/abuja
+- Andorra in Abuja — Embassies.net (no resident mission; nearest Madrid)
+  - https://embassies.net/andorra-in-nigeria/abuja
+- Monaco in Abuja — Embassies.net (no resident mission; nearest Madrid)
+  - https://embassies.net/monaco-in-nigeria/abuja
+- Armenia in Abuja — Embassies.net (no resident mission; nearest Casablanca)
+  - https://embassies.net/armenia-in-nigeria/abuja
+- Azerbaijan in Abuja — Embassies.net (no resident mission; nearest Valletta)
+  - https://embassies.net/azerbaijan-in-nigeria/abuja
+- Georgia in Abuja — Embassies.net (no resident mission; nearest Cairo)
+  - https://embassies.net/georgia-in-nigeria/abuja
+- Bosnia and Herzegovina in Abuja — Embassies.net (no resident mission; nearest Tripoli)
+  - https://embassies.net/bosnia-and-herzegovina-in-nigeria/abuja
+- Kazakhstan in Abuja — Embassies.net (no resident mission; nearest Cairo)
+  - https://embassies.net/kazakhstan-in-nigeria/abuja
+- Ukraine Embassy in Abuja — Embassies.org directory
+  - https://embassies.org/en/ukraine-embassy-in-nigeria
+- Kyrgyzstan in Abuja — Embassies.net (no resident mission)
+  - https://embassies.net/kyrgyzstan-in-nigeria/abuja
+- Tajikistan in Abuja — Embassies.net (no resident mission)
+  - https://embassies.net/tajikistan-in-nigeria/abuja
+- Uzbekistan in Abuja — Embassies.net (no resident mission)
+  - https://embassies.net/uzbekistan-in-nigeria/abuja
+- Turkmenistan visa guidance — Embassies.net
+  - https://embassies.net/turkmenistan-visa-for-nigeria-citizens
+- Gibraltar in Nigeria — Embassies.net (represented by UK)
+  - https://embassies.net/gibraltar-in-nigeria
+- Channel Islands — UK responsible for international relations (Hansard)
+  - https://api.parliament.uk/historic-hansard/written_answers/1993/jul/02/channel-islands-and-isle-of-man
+- Isle of Man — UK responsible for external affairs (Wikipedia)
+  - https://en.wikipedia.org/wiki/Isle_of_Man
+- Faroe Islands — Foreign Policy Act (Denmark handles foreign affairs)
+  - https://www.government.fo/en/foreign-relations/constitutional-status/the-foreign-policy-act
+- Greenland — Foreign relations (Denmark handles external relations)
+  - https://en.wikipedia.org/wiki/Foreign_relations_of_Greenland
+- San Marino — Consular notification (UN mission contact)
+  - https://travel.state.gov/content/travel/en/consularnotification/ConsularNotificationandAccess/SanMarino.html
+- Kosovo–Nigeria relations — no formal diplomatic relations
+  - https://en.wikipedia.org/wiki/Kosovo%E2%80%93Nigeria_relations
 
 ## Countries verified (so far)
 - United States
