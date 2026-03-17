@@ -295,6 +295,88 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://travel.state.gov/content/travel/en/consularnotification/ConsularNotificationandAccess/SanMarino.html
 - Kosovo–Nigeria relations — no formal diplomatic relations
   - https://en.wikipedia.org/wiki/Kosovo%E2%80%93Nigeria_relations
+- Embassy of Argentina in Nigeria — Contact
+  - https://enige.cancilleria.gob.ar/en/embassy
+- Trinidad and Tobago MFA — High Commission Abuja
+  - https://foreign.gov.tt/our-missions/high-commission-of-the-republic-of-trinidad-and-tobago-abuja/
+- Jamaica MFAFT — Overseas Missions list (PDF)
+  - https://www.mfaft.gov.jm/wp-content/uploads/2022/08/Overseas_Missions_List_2022_02_04.pdf
+- Colombia Honorary Consulate in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/colombia-consulate-abuja-nigeria
+- Embassy of Cuba in Abuja — EmbassyPages directory
+  - https://www.embassypages.com/cuba-embassy-abuja-nigeria
+- Embassy of Ecuador in Abuja — EmbassyPages directory (listed as closed)
+  - https://www.embassypages.com/ecuador-embassy-abuja-nigeria
+- Venezuela Embassy in Abuja — Embassies.org directory
+  - https://embassies.org/en/venezuela-embassy-in-nigeria
+- Chile in Nigeria — Embassies.net (no resident mission; nearest Accra)
+  - https://embassies.net/chile-in-nigeria
+- Antigua and Barbuda in Nigeria — Embassies.net
+  - https://embassies.net/antigua-and-barbuda-in-nigeria
+- Aruba in Nigeria — Embassies.net
+  - https://embassies.net/aruba-in-nigeria/abuja
+- Bahamas in Nigeria — Embassies.net
+  - https://embassies.net/bahamas-in-nigeria
+- Barbados in Nigeria — Embassies.net
+  - https://embassies.net/barbados-in-nigeria
+- Belize in Nigeria — Embassies.net
+  - https://embassies.net/belize-in-nigeria
+- Dominica in Nigeria — Embassies.net
+  - https://embassies.net/dominica-in-nigeria
+- Dominican Republic in Nigeria — Embassies.net
+  - https://embassies.net/dominican-republic-in-nigeria
+- Grenada in Nigeria — Embassies.net
+  - https://embassies.net/grenada-in-nigeria
+- Saint Kitts and Nevis in Nigeria — Embassies.net
+  - https://embassies.net/saint-kitts-and-nevis-in-nigeria
+- Bermuda embassies abroad — Embassies.net
+  - https://embassies.net/bermuda-embassy
+- Costa Rica in Nigeria — Embassies.net
+  - https://embassies.net/costa-rica-in-nigeria
+- Guatemala in Nigeria — Embassies.net
+  - https://embassies.net/guatemala-in-nigeria
+- Guyana in Nigeria — Embassies.net
+  - https://embassies.net/guyana-in-nigeria/abuja
+- Haiti in Nigeria — Embassies.net
+  - https://embassies.net/haiti-in-nigeria
+- Honduras in Nigeria — Embassies.net
+  - https://embassies.net/honduras-in-nigeria
+- Nicaragua in Nigeria — Embassies.net
+  - https://embassies.net/nicaragua-in-nigeria
+- Panama in Nigeria — Embassies.net
+  - https://embassies.net/panama-in-nigeria
+- Paraguay in Nigeria — Embassies.net
+  - https://embassies.net/paraguay-in-nigeria
+- Peru in Nigeria — Embassies.net
+  - https://embassies.net/peru-in-nigeria
+- Suriname in Nigeria — Embassies.net
+  - https://embassies.net/suriname-in-nigeria
+- Bolivia in Nigeria — Embassies.net
+  - https://embassies.net/bolivia-in-nigeria
+- Uruguay in Nigeria — Embassies.net
+  - https://embassies.net/uruguay-in-nigeria
+- Saint Lucia in Nigeria — Embassies.net
+  - https://embassies.net/saint-lucia-in-nigeria
+- Saint Vincent and the Grenadines in Nigeria — Embassies.net
+  - https://embassies.net/saint-vincent-and-the-grenadines-in-nigeria
+- Sint Maarten in Nigeria — Embassies.net
+  - https://embassies.net/sint-maarten-in-nigeria
+- Curacao in Nigeria — Embassies.net
+  - https://embassies.net/curacao-in-nigeria
+- Turks and Caicos Islands — Embassies and Consulates (Visit TCI)
+  - https://www.visittci.com/life-and-business/government/embassies-and-consulates
+- British Virgin Islands embassies — Embassies.net
+  - https://embassies.net/british-virgin-islands-embassy
+- U.S. Virgin Islands embassies — Embassies.net
+  - https://embassies.net/u-s-virgin-islands-embassy
+- Puerto Rico embassies — Embassies.net
+  - https://embassies.net/puerto-rico-embassy
+- UK Overseas Territories and their Governors — Cayman Islands listed; external affairs reserved to UK
+  - https://commonslibrary.parliament.uk/research-briefings/cbp-9583/
+- France-Visas — French overseas communities include Saint-Martin; French embassy competent authority
+  - https://france-visas.gouv.fr/en/suriname
+- El Salvador in Nigeria — Embassies.net
+  - https://embassies.net/el-salvador-in-nigeria
 
 ## Countries verified (so far)
 - United States

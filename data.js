@@ -8,11 +8,25 @@ window.__DATA__ = {
       "country": "Aruba",
       "countryCode": "AW",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Aruban mission in Nigeria. Embassies.net lists the nearest office as the Netherlands Embassy in Abuja.",
+      "sources": [
+        {
+          "label": "Aruba in Nigeria — Embassies.net",
+          "url": "https://embassies.net/aruba-in-nigeria/abuja",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. The nearest office is listed in the Embassies.net directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/aruba-in-nigeria/abuja"
+        }
+      ],
+      "flag": "🇦🇼"
     },
     {
       "country": "Afghanistan",
@@ -143,11 +157,36 @@ window.__DATA__ = {
       "country": "Argentina",
       "countryCode": "AR",
       "region": "Americas",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "30 Nelson Mandela Street (off Desmond Tutu St.), Asokoro, Abuja, Nigeria",
+          "phone": "+234 707 483 2148",
+          "email": "enige@mrecic.gov.ar",
+          "website": "https://enige.cancilleria.gob.ar/en",
+          "websiteLabel": "Embassy of Argentina in Nigeria"
+        }
+      ],
+      "notes": "Verified against official embassy website.",
+      "sources": [
+        {
+          "label": "Embassy of Argentina in Nigeria — Contact",
+          "url": "https://enige.cancilleria.gob.ar/en/embassy",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Argentina in Abuja handles consular and visa services for Nigeria. Check the embassy site for requirements.",
+      "whereToApply": [
+        {
+          "label": "Embassy of Argentina, Abuja",
+          "url": "https://enige.cancilleria.gob.ar/en"
+        }
+      ],
+      "flag": "🇦🇷"
     },
     {
       "country": "Armenia",
@@ -187,11 +226,25 @@ window.__DATA__ = {
       "country": "Antigua and Barbuda",
       "countryCode": "AG",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Antiguan and Barbudan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Antigua and Barbuda in Nigeria — Embassies.net",
+          "url": "https://embassies.net/antigua-and-barbuda-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Antiguan and Barbudan embassy listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/antigua-and-barbuda-in-nigeria"
+        }
+      ],
+      "flag": "🇦🇬"
     },
     {
       "country": "Australia",
@@ -463,11 +516,25 @@ window.__DATA__ = {
       "country": "Bahamas, The",
       "countryCode": "BS",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Bahamian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Bahamas in Nigeria — Embassies.net",
+          "url": "https://embassies.net/bahamas-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bahamian embassy/consulate listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/bahamas-in-nigeria"
+        }
+      ],
+      "flag": "🇧🇸"
     },
     {
       "country": "Bosnia and Herzegovina",
@@ -529,31 +596,73 @@ window.__DATA__ = {
       "country": "Belize",
       "countryCode": "BZ",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Belizean mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Belize in Nigeria — Embassies.net",
+          "url": "https://embassies.net/belize-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Belizean mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/belize-in-nigeria"
+        }
+      ],
+      "flag": "🇧🇿"
     },
     {
       "country": "Bermuda",
       "countryCode": "BM",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Bermuda is a British Overseas Territory and does not maintain its own embassies; UK missions handle consular matters.",
+      "sources": [
+        {
+          "label": "Bermuda embassies abroad — Embassies.net",
+          "url": "https://embassies.net/bermuda-embassy",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Contact the UK High Commission in Abuja for guidance.",
+      "whereToApply": [
+        {
+          "label": "UK High Commission, Abuja",
+          "url": "https://www.gov.uk/world/organisations/british-high-commission-abuja/office/british-high-commission-abuja"
+        }
+      ],
+      "flag": "🇧🇲"
     },
     {
       "country": "Bolivia",
       "countryCode": "BO",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Bolivian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Bolivia in Nigeria — Embassies.net",
+          "url": "https://embassies.net/bolivia-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bolivian mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/bolivia-in-nigeria"
+        }
+      ],
+      "flag": "🇧🇴"
     },
     {
       "country": "Brazil",
@@ -602,11 +711,25 @@ window.__DATA__ = {
       "country": "Barbados",
       "countryCode": "BB",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Barbadian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Barbados in Nigeria — Embassies.net",
+          "url": "https://embassies.net/barbados-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Barbadian mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/barbados-in-nigeria"
+        }
+      ],
+      "flag": "🇧🇧"
     },
     {
       "country": "Brunei Darussalam",
@@ -801,11 +924,25 @@ window.__DATA__ = {
       "country": "Chile",
       "countryCode": "CL",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Chilean mission in Nigeria. Nearest embassy listed as Accra, Ghana.",
+      "sources": [
+        {
+          "label": "Chile in Nigeria — Embassies.net (no mission; nearest Accra)",
+          "url": "https://embassies.net/chile-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Contact the Chilean Embassy in Accra for visa guidance.",
+      "whereToApply": [
+        {
+          "label": "Chile Embassy in Accra (listing)",
+          "url": "https://embassies.net/chile-in-nigeria"
+        }
+      ],
+      "flag": "🇨🇱"
     },
     {
       "country": "China",
@@ -976,11 +1113,33 @@ window.__DATA__ = {
       "country": "Colombia",
       "countryCode": "CO",
       "region": "Americas",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Honorary Consulate",
+          "typeKey": "honorary",
+          "city": "Abuja",
+          "address": "Plot 1698, Orlu Street, Area 3, Garki, Abuja, Nigeria",
+          "phone": "+234 812 300 1860",
+          "email": "consulado@colombianigeria.com",
+          "website": "https://www.colombianigeria.com",
+          "websiteLabel": "Honorary Consulate of Colombia in Nigeria"
+        }
+      ],
+      "notes": "Verified via EmbassyPages listing; confirm details with the mission before travel.",
+      "sources": [
+        {
+          "label": "Colombia Honorary Consulate in Abuja — EmbassyPages",
+          "url": "https://www.embassypages.com/colombia-consulate-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Honorary Consulate of Colombia in Abuja provides limited consular services. Contact the consulate for visa guidance.",
+      "whereToApply": [
+        "Honorary Consulate: Abuja"
+      ],
+      "flag": "🇨🇴"
     },
     {
       "country": "Comoros",
@@ -1034,41 +1193,104 @@ window.__DATA__ = {
       "country": "Costa Rica",
       "countryCode": "CR",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Costa Rican mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Costa Rica in Nigeria — Embassies.net",
+          "url": "https://embassies.net/costa-rica-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Costa Rican mission listed in the directory for guidance.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/costa-rica-in-nigeria"
+        }
+      ],
+      "flag": "🇨🇷"
     },
     {
       "country": "Cuba",
       "countryCode": "CU",
       "region": "Americas",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 399, Diplomatic Drive, Central Business District, Abuja, Nigeria",
+          "email": "embajada@ng.embacuba.cu",
+          "website": "https://www.embassypages.com/cuba-embassy-abuja-nigeria",
+          "websiteLabel": "Embassy of Cuba in Nigeria"
+        }
+      ],
+      "notes": "Verified via EmbassyPages listing; confirm details with the mission before travel.",
+      "sources": [
+        {
+          "label": "Embassy of Cuba in Abuja — EmbassyPages",
+          "url": "https://www.embassypages.com/cuba-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Cuba in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇨🇺"
     },
     {
       "country": "Curacao",
       "countryCode": "CW",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Curacao is represented by the Netherlands and has no diplomatic missions in Nigeria, per Embassies.net listing.",
+      "sources": [
+        {
+          "label": "Curacao in Nigeria — Embassies.net",
+          "url": "https://embassies.net/curacao-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Curacao is represented by the Netherlands; use the Netherlands mission in Nigeria for guidance.",
+      "whereToApply": [
+        {
+          "label": "Embassy of the Netherlands, Abuja",
+          "url": "https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja"
+        }
+      ],
+      "flag": "🇨🇼"
     },
     {
       "country": "Cayman Islands",
       "countryCode": "KY",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Cayman Islands is a UK Overseas Territory and has no separate international representation; external affairs are handled by the UK.",
+      "sources": [
+        {
+          "label": "UK Overseas Territories and their Governors — Cayman Islands listed; external affairs reserved to UK",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9583/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Consular/visa guidance should be sought via UK authorities (UK High Commission in Abuja).",
+      "whereToApply": [
+        {
+          "label": "UK High Commission, Abuja",
+          "url": "https://www.gov.uk/world/organisations/british-high-commission-abuja/office/british-high-commission-abuja"
+        }
+      ],
+      "flag": "🇰🇾"
     },
     {
       "country": "Cyprus",
@@ -1192,11 +1414,25 @@ window.__DATA__ = {
       "country": "Dominica",
       "countryCode": "DM",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Dominican mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Dominica in Nigeria — Embassies.net",
+          "url": "https://embassies.net/dominica-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Dominican mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/dominica-in-nigeria"
+        }
+      ],
+      "flag": "🇩🇲"
     },
     {
       "country": "Denmark",
@@ -1242,11 +1478,25 @@ window.__DATA__ = {
       "country": "Dominican Republic",
       "countryCode": "DO",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Dominican Republic mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Dominican Republic in Nigeria — Embassies.net",
+          "url": "https://embassies.net/dominican-republic-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Dominican Republic mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/dominican-republic-in-nigeria"
+        }
+      ],
+      "flag": "🇩🇴"
     },
     {
       "country": "Algeria",
@@ -1287,11 +1537,25 @@ window.__DATA__ = {
       "country": "Ecuador",
       "countryCode": "EC",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "The Embassy of Ecuador in Abuja is listed as closed. Verify current arrangements with Ecuador’s foreign ministry or nearest mission.",
+      "sources": [
+        {
+          "label": "Embassy of Ecuador in Abuja — EmbassyPages (closed)",
+          "url": "https://www.embassypages.com/ecuador-embassy-abuja-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria (embassy listed as closed). Confirm visa arrangements with Ecuador’s foreign ministry or nearest embassy.",
+      "whereToApply": [
+        {
+          "label": "Ecuador embassy listing (status information)",
+          "url": "https://www.embassypages.com/ecuador-embassy-abuja-nigeria"
+        }
+      ],
+      "flag": "🇪🇨"
     },
     {
       "country": "Egypt, Arab Rep.",
@@ -1884,11 +2148,25 @@ window.__DATA__ = {
       "country": "Grenada",
       "countryCode": "GD",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Grenadian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Grenada in Nigeria — Embassies.net",
+          "url": "https://embassies.net/grenada-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Grenadian mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/grenada-in-nigeria"
+        }
+      ],
+      "flag": "🇬🇩"
     },
     {
       "country": "Greenland",
@@ -1918,11 +2196,25 @@ window.__DATA__ = {
       "country": "Guatemala",
       "countryCode": "GT",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Guatemalan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Guatemala in Nigeria — Embassies.net",
+          "url": "https://embassies.net/guatemala-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Guatemalan mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/guatemala-in-nigeria"
+        }
+      ],
+      "flag": "🇬🇹"
     },
     {
       "country": "Guam",
@@ -1938,11 +2230,25 @@ window.__DATA__ = {
       "country": "Guyana",
       "countryCode": "GY",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Guyanese mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Guyana in Nigeria — Embassies.net",
+          "url": "https://embassies.net/guyana-in-nigeria/abuja",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Guyanese mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/guyana-in-nigeria/abuja"
+        }
+      ],
+      "flag": "🇬🇾"
     },
     {
       "country": "Hong Kong SAR, China",
@@ -1958,11 +2264,25 @@ window.__DATA__ = {
       "country": "Honduras",
       "countryCode": "HN",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Honduran mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Honduras in Nigeria — Embassies.net",
+          "url": "https://embassies.net/honduras-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Honduran mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/honduras-in-nigeria"
+        }
+      ],
+      "flag": "🇭🇳"
     },
     {
       "country": "Croatia",
@@ -1998,11 +2318,25 @@ window.__DATA__ = {
       "country": "Haiti",
       "countryCode": "HT",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Haitian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Haiti in Nigeria — Embassies.net",
+          "url": "https://embassies.net/haiti-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Haitian mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/haiti-in-nigeria"
+        }
+      ],
+      "flag": "🇭🇹"
     },
     {
       "country": "Hungary",
@@ -2285,11 +2619,31 @@ window.__DATA__ = {
       "country": "Jamaica",
       "countryCode": "JM",
       "region": "Americas",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "13 Hassan Musa Katsina Street, Asokoro, Abuja, Nigeria",
+          "phone": "+234 813 606 3356",
+          "email": "info-jhcnig@mfaft.gov.jm; counsellor-jhcnig@mfaft.gov.jm"
+        }
+      ],
+      "notes": "Verified against Jamaica MFA mission directory.",
+      "sources": [
+        {
+          "label": "Jamaica MFAFT — Overseas Missions list (PDF)",
+          "url": "https://www.mfaft.gov.jm/wp-content/uploads/2022/08/Overseas_Missions_List_2022_02_04.pdf",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Jamaica High Commission in Abuja provides consular and visa services for Nigeria. Contact the mission for requirements.",
+      "whereToApply": [
+        "High Commission: Abuja"
+      ],
+      "flag": "🇯🇲"
     },
     {
       "country": "Jordan",
@@ -2464,11 +2818,25 @@ window.__DATA__ = {
       "country": "St. Kitts and Nevis",
       "countryCode": "KN",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident St Kitts and Nevis mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Saint Kitts and Nevis in Nigeria — Embassies.net",
+          "url": "https://embassies.net/saint-kitts-and-nevis-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest St Kitts and Nevis mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/saint-kitts-and-nevis-in-nigeria"
+        }
+      ],
+      "flag": "🇰🇳"
     },
     {
       "country": "Korea, Rep.",
@@ -2576,11 +2944,25 @@ window.__DATA__ = {
       "country": "St. Lucia",
       "countryCode": "LC",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Saint Lucia mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Saint Lucia in Nigeria — Embassies.net",
+          "url": "https://embassies.net/saint-lucia-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Saint Lucia mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/saint-lucia-in-nigeria"
+        }
+      ],
+      "flag": "🇱🇨"
     },
     {
       "country": "Liechtenstein",
@@ -2755,11 +3137,25 @@ window.__DATA__ = {
       "country": "St. Martin (French part)",
       "countryCode": "MF",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Saint-Martin is a French overseas community; visas for French overseas territories are handled by French embassies and France-Visas.",
+      "sources": [
+        {
+          "label": "France-Visas — French overseas communities include Saint-Martin; French embassy competent authority",
+          "url": "https://france-visas.gouv.fr/en/suriname",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Visa applications for Saint-Martin are handled through France-Visas and the French Embassy.",
+      "whereToApply": [
+        {
+          "label": "France-Visas (official portal)",
+          "url": "https://france-visas.gouv.fr/"
+        }
+      ],
+      "flag": "🇲🇫"
     },
     {
       "country": "Morocco",
@@ -3154,11 +3550,25 @@ window.__DATA__ = {
       "country": "Nicaragua",
       "countryCode": "NI",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Nicaraguan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Nicaragua in Nigeria — Embassies.net",
+          "url": "https://embassies.net/nicaragua-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Nicaraguan mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/nicaragua-in-nigeria"
+        }
+      ],
+      "flag": "🇳🇮"
     },
     {
       "country": "Netherlands",
@@ -3298,21 +3708,49 @@ window.__DATA__ = {
       "country": "Panama",
       "countryCode": "PA",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Panamanian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Panama in Nigeria — Embassies.net",
+          "url": "https://embassies.net/panama-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Panamanian mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/panama-in-nigeria"
+        }
+      ],
+      "flag": "🇵🇦"
     },
     {
       "country": "Peru",
       "countryCode": "PE",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Peruvian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Peru in Nigeria — Embassies.net",
+          "url": "https://embassies.net/peru-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Peruvian mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/peru-in-nigeria"
+        }
+      ],
+      "flag": "🇵🇪"
     },
     {
       "country": "Philippines",
@@ -3380,11 +3818,29 @@ window.__DATA__ = {
       "country": "Puerto Rico (US)",
       "countryCode": "PR",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Puerto Rico is a U.S. territory; U.S. embassies handle representation per Embassies.net listing.",
+      "sources": [
+        {
+          "label": "Puerto Rico embassies — Embassies.net",
+          "url": "https://embassies.net/puerto-rico-embassy",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the U.S. Embassy in Abuja or Consulate in Lagos for guidance.",
+      "whereToApply": [
+        {
+          "label": "U.S. Embassy, Abuja",
+          "url": "https://ng.usembassy.gov/"
+        },
+        {
+          "label": "U.S. Consulate General, Lagos",
+          "url": "https://ng.usembassy.gov/embassy-consulate/lagos/"
+        }
+      ],
+      "flag": "🇵🇷"
     },
     {
       "country": "Korea, Dem. People's Rep.",
@@ -3430,11 +3886,25 @@ window.__DATA__ = {
       "country": "Paraguay",
       "countryCode": "PY",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Paraguayan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Paraguay in Nigeria — Embassies.net",
+          "url": "https://embassies.net/paraguay-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Paraguayan mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/paraguay-in-nigeria"
+        }
+      ],
+      "flag": "🇵🇾"
     },
     {
       "country": "West Bank and Gaza",
@@ -3708,11 +4178,25 @@ window.__DATA__ = {
       "country": "El Salvador",
       "countryCode": "SV",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident El Salvador mission in Nigeria. Nearest diplomatic missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "El Salvador in Nigeria — Embassies.net (no mission in Nigeria)",
+          "url": "https://embassies.net/el-salvador-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest El Salvador diplomatic mission listed in the directory (e.g., Spain or Greece).",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/el-salvador-in-nigeria"
+        }
+      ],
+      "flag": "🇸🇻"
     },
     {
       "country": "San Marino",
@@ -3807,11 +4291,25 @@ window.__DATA__ = {
       "country": "Suriname",
       "countryCode": "SR",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Surinamese mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Suriname in Nigeria — Embassies.net",
+          "url": "https://embassies.net/suriname-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Surinamese mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/suriname-in-nigeria"
+        }
+      ],
+      "flag": "🇸🇷"
     },
     {
       "country": "Slovak Republic",
@@ -3934,11 +4432,25 @@ window.__DATA__ = {
       "country": "Sint Maarten (Dutch part)",
       "countryCode": "SX",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Sint Maarten mission in Nigeria. Embassies.net lists the nearest missions.",
+      "sources": [
+        {
+          "label": "Sint Maarten in Nigeria — Embassies.net",
+          "url": "https://embassies.net/sint-maarten-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/sint-maarten-in-nigeria"
+        }
+      ],
+      "flag": "🇸🇽"
     },
     {
       "country": "Seychelles",
@@ -3978,11 +4490,25 @@ window.__DATA__ = {
       "country": "Turks and Caicos Islands",
       "countryCode": "TC",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Turks and Caicos is a British Overseas Territory; foreign representation is handled via embassies in Nassau or Kingston, according to Visit TCI.",
+      "sources": [
+        {
+          "label": "Embassies and Consulates in Turks and Caicos — Visit TCI",
+          "url": "https://www.visittci.com/life-and-business/government/embassies-and-consulates",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Representation is typically handled through embassies in Nassau (Bahamas) or Kingston (Jamaica).",
+      "whereToApply": [
+        {
+          "label": "Visit TCI — Embassies and Consulates",
+          "url": "https://www.visittci.com/life-and-business/government/embassies-and-consulates"
+        }
+      ],
+      "flag": "🇹🇨"
     },
     {
       "country": "Chad",
@@ -4128,11 +4654,36 @@ window.__DATA__ = {
       "country": "Trinidad and Tobago",
       "countryCode": "TT",
       "region": "Americas",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "#7 Casablanca Street (Off Nairobi Street, Off Aminu Kano Crescent), Wuse II, Abuja, Nigeria",
+          "phone": "+234 9 941 8160 / +234 9 941 7690",
+          "email": "ttmission@trinidadandtobago.com",
+          "website": "https://foreign.gov.tt/our-missions/high-commission-of-the-republic-of-trinidad-and-tobago-abuja/",
+          "websiteLabel": "High Commission of Trinidad and Tobago in Abuja"
+        }
+      ],
+      "notes": "Verified against the Ministry of Foreign and CARICOM Affairs (Trinidad and Tobago).",
+      "sources": [
+        {
+          "label": "Trinidad and Tobago MFA — High Commission Abuja",
+          "url": "https://foreign.gov.tt/our-missions/high-commission-of-the-republic-of-trinidad-and-tobago-abuja/",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The High Commission of Trinidad and Tobago in Abuja provides consular services. Check the official mission page for visa guidance.",
+      "whereToApply": [
+        {
+          "label": "High Commission of Trinidad and Tobago, Abuja",
+          "url": "https://foreign.gov.tt/our-missions/high-commission-of-the-republic-of-trinidad-and-tobago-abuja/"
+        }
+      ],
+      "flag": "🇹🇹"
     },
     {
       "country": "Tunisia",
@@ -4332,11 +4883,25 @@ window.__DATA__ = {
       "country": "Uruguay",
       "countryCode": "UY",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Uruguayan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Uruguay in Nigeria — Embassies.net",
+          "url": "https://embassies.net/uruguay-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Uruguayan mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/uruguay-in-nigeria"
+        }
+      ],
+      "flag": "🇺🇾"
     },
     {
       "country": "United States",
@@ -4413,41 +4978,107 @@ window.__DATA__ = {
       "country": "St. Vincent and the Grenadines",
       "countryCode": "VC",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "No resident Saint Vincent and the Grenadines mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "sources": [
+        {
+          "label": "Saint Vincent and the Grenadines in Nigeria — Embassies.net",
+          "url": "https://embassies.net/saint-vincent-and-the-grenadines-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Saint Vincent and the Grenadines mission listed in the directory.",
+      "whereToApply": [
+        {
+          "label": "Nearest mission (Embassies.net listing)",
+          "url": "https://embassies.net/saint-vincent-and-the-grenadines-in-nigeria"
+        }
+      ],
+      "flag": "🇻🇨"
     },
     {
       "country": "Venezuela, RB",
       "countryCode": "VE",
       "region": "Americas",
-      "verificationStatus": "pending",
-      "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "1 Taraba Crescent, Off Limpopo Street, Off IBB Way, Maitama, Abuja, Nigeria",
+          "phone": "+234 816 903 9419 / +234 809 300 4444",
+          "email": "evenigeria@yahoo.com; embve.ngabj@mppre.gob.ve"
+        }
+      ],
+      "notes": "Verified via embassies.org listing; confirm details with the mission before travel.",
+      "sources": [
+        {
+          "label": "Venezuela Embassy in Abuja — Embassies.org",
+          "url": "https://embassies.org/en/venezuela-embassy-in-nigeria",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of Venezuela in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "whereToApply": [
+        "Embassy: Abuja"
+      ],
+      "flag": "🇻🇪"
     },
     {
       "country": "British Virgin Islands",
       "countryCode": "VG",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "British Virgin Islands is a British Overseas Territory; embassies and consulates of the UK handle consular matters per Embassies.net listing.",
+      "sources": [
+        {
+          "label": "British Virgin Islands embassies — Embassies.net",
+          "url": "https://embassies.net/british-virgin-islands-embassy",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Contact the UK High Commission in Abuja for guidance.",
+      "whereToApply": [
+        {
+          "label": "UK High Commission, Abuja",
+          "url": "https://www.gov.uk/world/organisations/british-high-commission-abuja/office/british-high-commission-abuja"
+        }
+      ],
+      "flag": "🇻🇬"
     },
     {
       "country": "Virgin Islands (U.S.)",
       "countryCode": "VI",
       "region": "Americas",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "U.S. Virgin Islands is a U.S. territory; U.S. embassies handle representation per Embassies.net listing.",
+      "sources": [
+        {
+          "label": "U.S. Virgin Islands embassies — Embassies.net",
+          "url": "https://embassies.net/u-s-virgin-islands-embassy",
+          "accessed": "2026-03-17"
+        }
+      ],
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "No resident mission in Nigeria. Use the U.S. Embassy in Abuja or Consulate in Lagos for guidance.",
+      "whereToApply": [
+        {
+          "label": "U.S. Embassy, Abuja",
+          "url": "https://ng.usembassy.gov/"
+        },
+        {
+          "label": "U.S. Consulate General, Lagos",
+          "url": "https://ng.usembassy.gov/embassy-consulate/lagos/"
+        }
+      ],
+      "flag": "🇻🇮"
     },
     {
       "country": "Viet Nam",
