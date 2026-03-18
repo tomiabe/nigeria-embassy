@@ -481,6 +481,36 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://identita.gov.mt/central-visa-unit-national-visa-long-stay-visa/
 - Embassy of the DPRK in Abuja — EmbassyPages
   - https://www.embassypages.com/koreademocraticrepublic-embassy-abuja-nigeria
+- Tuvalu High Commission (NZ) — Visa information
+  - https://tuvaluhc.org.nz/visa
+- Tuvalu Department of Home Affairs
+  - https://homeaffairs.gov.tv/
+- Austrian Embassy Abuja — BMEIA
+  - https://www.bmeia.gv.at/en/austrian-embassy-abuja/
+- Embassy of Sweden in Abuja — Contact (Sweden Abroad)
+  - https://www.swedenabroad.se/en/embassies/nigeria-abuja/contact/
+- Sweden representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/sweden-se-representation-nigeria-ng_en
+- Portugal representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/portugal-pt-representation-nigeria-ng_en
+- Embassy of Poland in Abuja — gov.pl
+  - https://www.gov.pl/web/nigeria-en/embassy
+- Poland representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/poland-pl-representation-nigeria-ng_en
+- Romania representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/romania-ro-representation-nigeria-ng_en
+- Embassy of the Slovak Republic in Abuja — Contact
+  - https://www.mzv.sk/en/web/abuja/kontakt
+- Netherlands representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/netherlands-nl-representation-nigeria-ng_en
+- Spain representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/spain-es-representation-nigeria-ng_en
+- Embassy of Italy in Abuja — MAECI
+  - https://ambabuja.esteri.it/en/
+- EU consular protection for EU citizens in Nigeria (Italy contacts)
+  - https://www.eeas.europa.eu/delegations/nigeria/consular-protection-eu-citizens-nigeria_en
+- Ireland representation in Nigeria — EU consular protection
+  - https://consular-protection.ec.europa.eu/representation-offices/ireland-ie-representation-nigeria-ng_en
 
 ## Countries verified (so far)
 - United States

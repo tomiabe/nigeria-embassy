@@ -1,6 +1,6 @@
 window.__DATA__ = {
   "meta": {
-    "lastUpdated": "2026-03-17",
+    "lastUpdated": "2026-03-18",
     "sourcesNote": "Addresses and visa-processing notes are verified from official government sources and mission websites."
   },
   "missions": [
@@ -323,17 +323,17 @@ window.__DATA__ = {
           "websiteLabel": "Austrian Embassy Abuja"
         }
       ],
-      "notes": "Address and contact details listed in Austria’s official representations directory.",
+      "notes": "Verified via Austria MFA embassy page (BMEIA).",
       "sources": [
         {
-          "label": "Austrian representations worldwide (BMEIA directory PDF)",
-          "url": "https://cms.bmeia.gv.at/fileadmin/user_upload/oracle/oe_vertretungen_en.pdf",
-          "accessed": "2026-03-14"
+          "label": "Austrian Embassy Abuja (BMEIA)",
+          "url": "https://www.bmeia.gv.at/en/austrian-embassy-abuja/",
+          "accessed": "2026-03-17"
         }
       ],
-      "lastVerified": "2026-03-14",
+      "lastVerified": "2026-03-17",
       "flag": "🇦🇹",
-      "visaProcessing": "Consular and visa guidance is provided by the Austrian Embassy in Abuja. Check the official website for current procedures.",
+      "visaProcessing": "Consular and visa guidance is provided by the Austrian Embassy in Abuja. Check the official embassy website for current procedures.",
       "whereToApply": [
         "Embassy: Abuja"
       ]
@@ -1751,16 +1751,16 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of Spain in Abuja"
         }
       ],
-      "notes": "Verified via embassy directory listing; confirm details with the mission before travel.",
+      "notes": "Verified via EU consular protection listing for Spain in Nigeria.",
       "sources": [
         {
-          "label": "Embassy of Spain in Abuja — EmbassyPages",
-          "url": "https://www.embassypages.com/spain-embassy-abuja-nigeria",
+          "label": "Spain representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/spain-es-representation-nigeria-ng_en",
           "accessed": "2026-03-17"
         }
       ],
       "lastVerified": "2026-03-17",
-      "visaProcessing": "The Embassy of Spain in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "visaProcessing": "The Embassy of Spain in Abuja provides consular and visa services. Check the official listing for contact details.",
       "whereToApply": [
         "Embassy: Abuja"
       ],
@@ -1856,11 +1856,25 @@ window.__DATA__ = {
       "country": "Fiji",
       "countryCode": "FJ",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa guidance provided by Fiji Ministry of Immigration.",
+      "sources": [
+        {
+          "label": "Fiji Immigration — Visa application",
+          "url": "https://www.immigration.gov.fj/visa-application/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Fiji visa applications are handled by the Ministry of Immigration. Use the official Fiji Immigration portal for requirements and submission.",
+      "whereToApply": [
+        {
+          "label": "Fiji Immigration — Visa application",
+          "url": "https://www.immigration.gov.fj/visa-application/"
+        }
+      ],
+      "flag": "🇫🇯"
     },
     {
       "country": "France",
@@ -1938,11 +1952,25 @@ window.__DATA__ = {
       "country": "Micronesia, Fed. Sts.",
       "countryCode": "FM",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa and entry guidance provided by FSM Immigration (via official embassy site).",
+      "sources": [
+        {
+          "label": "FSM Immigration Regulations (FSM Embassy)",
+          "url": "https://fsmembassy.fm/fsm-immigration-regulations/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "FSM entry and visa guidance is provided by the Division of Immigration & Labor. Use the official immigration regulations and contact the agency for requirements.",
+      "whereToApply": [
+        {
+          "label": "FSM Immigration regulations",
+          "url": "https://fsmembassy.fm/fsm-immigration-regulations/"
+        }
+      ],
+      "flag": "🇫🇲"
     },
     {
       "country": "Gabon",
@@ -2639,16 +2667,16 @@ window.__DATA__ = {
           "websiteLabel": "Honorary Consul of Ireland, Lagos"
         }
       ],
-      "notes": "Verified against official Ireland Department of Foreign Affairs listings. Visa applications for residents of Nigeria must be submitted via VFS (Abuja or Lagos).",
+      "notes": "Verified via DFA Ireland and EU consular protection listing for Nigeria.",
       "sources": [
         {
-          "label": "Ireland DFA — Visa information (VFS Abuja & Lagos)",
+          "label": "DFA Ireland — Visas for Ireland (Nigeria)",
           "url": "https://www.dfa.ie/irish-embassy/nigeria/our-services/visas/visas-for-ireland/",
           "accessed": "2026-03-17"
         },
         {
-          "label": "Ireland DFA — Embassy listings",
-          "url": "https://www.ireland.ie/en/dfa/embassies/",
+          "label": "Ireland representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/ireland-ie-representation-nigeria-ng_en",
           "accessed": "2026-03-17"
         }
       ],
@@ -2800,17 +2828,22 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of Italy in Abuja"
         }
       ],
-      "notes": "Contact details listed on the official Embassy of Italy in Abuja website.",
+      "notes": "Verified via Embassy of Italy in Abuja official site and EU consular protection listing.",
       "sources": [
         {
           "label": "Embassy of Italy in Abuja (MAECI)",
           "url": "https://ambabuja.esteri.it/en/",
-          "accessed": "2026-03-13"
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "EU consular protection in Nigeria (Italy contacts)",
+          "url": "https://www.eeas.europa.eu/delegations/nigeria/consular-protection-eu-citizens-nigeria_en",
+          "accessed": "2026-03-17"
         }
       ],
-      "lastVerified": "2026-03-13",
+      "lastVerified": "2026-03-17",
       "flag": "🇮🇹",
-      "visaProcessing": "Visa processing details are not publicly listed. Please contact the mission directly using the details below.",
+      "visaProcessing": "The Embassy of Italy in Abuja provides consular guidance; visa services and updates are published on the official embassy website.",
       "whereToApply": [
         "Embassy: Abuja"
       ]
@@ -3041,11 +3074,30 @@ window.__DATA__ = {
       "country": "Kiribati",
       "countryCode": "KI",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa forms and guidance provided by Kiribati Government services.",
+      "sources": [
+        {
+          "label": "Kiribati Government — Passport and visas",
+          "url": "https://kiribati.gov.ki/services/passport-and-visas",
+          "accessed": "2026-03-18"
+        },
+        {
+          "label": "Kiribati MFA — Immigration (visa application form link)",
+          "url": "https://www.mfa.gov.ki/immigration/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Kiribati visa applications use official government forms provided by the Kiribati Government and MFA Immigration pages.",
+      "whereToApply": [
+        {
+          "label": "Kiribati Government — Passport and visas",
+          "url": "https://kiribati.gov.ki/services/passport-and-visas"
+        }
+      ],
+      "flag": "🇰🇮"
     },
     {
       "country": "St. Kitts and Nevis",
@@ -3691,11 +3743,25 @@ window.__DATA__ = {
       "country": "Marshall Islands",
       "countryCode": "MH",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa requirements published by the Republic of the Marshall Islands Office of the Chief of Immigration (OCIT).",
+      "sources": [
+        {
+          "label": "RMI OCIT — Visa requirements",
+          "url": "https://www.ocit.mh/visa-requirements",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Marshall Islands visa requirements are published by OCIT. Use the official OCIT visa requirements page before applying or traveling.",
+      "whereToApply": [
+        {
+          "label": "Marshall Islands OCIT — Visa requirements",
+          "url": "https://www.ocit.mh/visa-requirements"
+        }
+      ],
+      "flag": "🇲🇭"
     },
     {
       "country": "North Macedonia",
@@ -4092,16 +4158,16 @@ window.__DATA__ = {
           "websiteLabel": "Netherlands Embassy Abuja"
         }
       ],
-      "notes": "Address and contact information from NetherlandsWorldwide.",
+      "notes": "Verified via EU consular protection listing for the Netherlands in Nigeria.",
       "sources": [
         {
-          "label": "Embassy of the Netherlands in Abuja (NetherlandsWorldwide)",
-          "url": "https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/nigeria/embassy-abuja",
-          "accessed": "2026-03-14"
+          "label": "Netherlands representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/netherlands-nl-representation-nigeria-ng_en",
+          "accessed": "2026-03-17"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "visaProcessing": "The embassy in Abuja does not have a consular section. For consular questions, contact the Netherlands consulate-general in Lagos.",
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of the Netherlands in Abuja provides consular guidance; visa and consular services follow the official embassy instructions.",
       "whereToApply": [
         "Netherlands Consulate-General Lagos (consular services)"
       ],
@@ -4167,21 +4233,54 @@ window.__DATA__ = {
       "country": "Nauru",
       "countryCode": "NR",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa requirements published by the Government of Nauru; immigration division handles applications.",
+      "sources": [
+        {
+          "label": "Nauru Government — Visa requirements",
+          "url": "https://www.nauru.gov.nr/about-nauru/visiting-nauru/visa-requirements.aspx",
+          "accessed": "2026-03-18"
+        },
+        {
+          "label": "Nauru Justice Department — Immigration Division",
+          "url": "https://justice.gov.nr/immigration-division/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Nauru visa applications are handled by the Immigration Division. Follow the Government of Nauru’s visa requirements page for documents and submission guidance.",
+      "whereToApply": [
+        {
+          "label": "Nauru Government — Visa requirements",
+          "url": "https://www.nauru.gov.nr/about-nauru/visiting-nauru/visa-requirements.aspx"
+        }
+      ],
+      "flag": "🇳🇷"
     },
     {
       "country": "New Zealand",
       "countryCode": "NZ",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa applications are submitted online via Immigration New Zealand.",
+      "sources": [
+        {
+          "label": "Immigration New Zealand — Apply for a visa",
+          "url": "https://www.immigration.govt.nz/apply-for-a-visa",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "New Zealand visas are applied for online through Immigration New Zealand. Use the official INZ portal to select and submit the appropriate visa application.",
+      "whereToApply": [
+        {
+          "label": "Immigration New Zealand — Apply for a visa",
+          "url": "https://www.immigration.govt.nz/apply-for-a-visa"
+        }
+      ],
+      "flag": "🇳🇿"
     },
     {
       "country": "Oman",
@@ -4320,21 +4419,49 @@ window.__DATA__ = {
       "country": "Palau",
       "countryCode": "PW",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa application form and immigration contact details provided by Palau Bureau of Customs and Border Protection.",
+      "sources": [
+        {
+          "label": "Palau Immigration — Visa application form (BCBP)",
+          "url": "https://bcbp.pw/wp-content/uploads/2024/03/Visa-Application-Form-2022-Updated.pdf",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Palau visa applications use the official immigration form provided by the Bureau of Customs and Border Protection. Contact Palau immigration for guidance.",
+      "whereToApply": [
+        {
+          "label": "Palau Immigration — Visa application form",
+          "url": "https://bcbp.pw/wp-content/uploads/2024/03/Visa-Application-Form-2022-Updated.pdf"
+        }
+      ],
+      "flag": "🇵🇼"
     },
     {
       "country": "Papua New Guinea",
       "countryCode": "PG",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "PNG Immigration & Citizenship Authority provides eVisa applications online.",
+      "sources": [
+        {
+          "label": "PNG Immigration & Citizenship Authority — eVisa portal",
+          "url": "https://ica.gov.pg/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Papua New Guinea accepts visa applications online via the Immigration & Citizenship Authority (ICA) eVisa system.",
+      "whereToApply": [
+        {
+          "label": "PNG ICA — Apply for an eVisa",
+          "url": "https://ica.gov.pg/"
+        }
+      ],
+      "flag": "🇵🇬"
     },
     {
       "country": "Poland",
@@ -4353,17 +4480,22 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of Poland in Abuja"
         }
       ],
-      "notes": "Verification pending.",
+      "notes": "Verified via Polish MFA (gov.pl) and EU consular protection listing.",
       "sources": [
         {
-          "label": "Embassy of Poland in Abuja (Gov.pl)",
+          "label": "Embassy of Poland in Abuja (gov.pl)",
           "url": "https://www.gov.pl/web/nigeria-en/embassy",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Poland representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/poland-pl-representation-nigeria-ng_en",
+          "accessed": "2026-03-17"
         }
       ],
-      "lastVerified": "2026-03-14",
+      "lastVerified": "2026-03-17",
       "flag": "🇵🇱",
-      "visaProcessing": "The Embassy of Poland in Abuja handles consular matters for Nigeria. Contact the embassy for current visa procedures.",
+      "visaProcessing": "The Embassy of Poland in Abuja provides consular and visa services. Check the embassy website for current procedures.",
       "whereToApply": [
         "Embassy: Abuja"
       ]
@@ -4443,16 +4575,16 @@ window.__DATA__ = {
           "email": "abuja@mne.pt"
         }
       ],
-      "notes": "Verified via embassy directory listing; confirm details with the mission before travel.",
+      "notes": "Verified via EU consular protection listing for Portugal in Nigeria.",
       "sources": [
         {
-          "label": "Embassy of Portugal in Abuja — EmbassyPages",
-          "url": "https://www.embassypages.com/portugal-embassy-abuja-nigeria",
+          "label": "Portugal representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/portugal-pt-representation-nigeria-ng_en",
           "accessed": "2026-03-17"
         }
       ],
       "lastVerified": "2026-03-17",
-      "visaProcessing": "The Embassy of Portugal in Abuja provides consular and visa services. Contact the embassy for requirements and appointments.",
+      "visaProcessing": "The Embassy of Portugal in Abuja provides consular and visa services. Use the official contact details on the EU consular protection listing for Nigeria.",
       "whereToApply": [
         "Embassy: Abuja"
       ],
@@ -4592,16 +4724,16 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of Romania in Abuja"
         }
       ],
-      "notes": "Verified via official Romania MFA consular protection page.",
+      "notes": "Verified via EU consular protection listing and Romania MFA embassy site.",
       "sources": [
         {
-          "label": "EU Consular Protection — Romania Embassy Abuja",
-          "url": "https://consular-protection.ec.europa.eu/representation/romania/abuja_en",
+          "label": "Romania representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/romania-ro-representation-nigeria-ng_en",
           "accessed": "2026-03-17"
         }
       ],
       "lastVerified": "2026-03-17",
-      "visaProcessing": "The Embassy of Romania in Abuja provides consular and visa services. Contact the embassy for requirements.",
+      "visaProcessing": "The Embassy of Romania in Abuja provides consular and visa services. Use the official embassy website for guidance.",
       "whereToApply": [
         {
           "label": "Embassy of Romania, Abuja",
@@ -4805,11 +4937,25 @@ window.__DATA__ = {
       "country": "Solomon Islands",
       "countryCode": "SB",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa guidance provided by Solomon Islands Immigration Division.",
+      "sources": [
+        {
+          "label": "Solomon Islands Immigration — Visas",
+          "url": "https://immigration.gov.sb/visas/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Solomon Islands visa applications are handled by the Immigration Division. Use the official immigration website for visa categories and submission guidance.",
+      "whereToApply": [
+        {
+          "label": "Solomon Islands Immigration — Visas",
+          "url": "https://immigration.gov.sb/visas/"
+        }
+      ],
+      "flag": "🇸🇧"
     },
     {
       "country": "Sierra Leone",
@@ -4975,16 +5121,16 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of the Slovak Republic in Abuja"
         }
       ],
-      "notes": "Verified against official sources.",
+      "notes": "Verified via Slovakia MFA embassy contact page.",
       "sources": [
         {
           "label": "Embassy of the Slovak Republic in Abuja — Contact",
-          "url": "https://www.mzv.sk/abuja-en/contact",
-          "accessed": "2026-03-14"
+          "url": "https://www.mzv.sk/en/web/abuja/kontakt",
+          "accessed": "2026-03-17"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "visaProcessing": "The Embassy of the Slovak Republic in Abuja provides consular and visa guidance. Check the embassy website for updates.",
+      "lastVerified": "2026-03-17",
+      "visaProcessing": "The Embassy of the Slovak Republic in Abuja provides consular and visa services. Check the embassy website for appointments.",
       "whereToApply": [
         "Embassy: Abuja"
       ],
@@ -5036,17 +5182,22 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of Sweden in Abuja"
         }
       ],
-      "notes": "Address and contact information from Sweden Abroad.",
+      "notes": "Verified via Sweden Abroad (embassy contact) and EU consular protection listing.",
       "sources": [
         {
-          "label": "Embassy of Sweden Abuja — Contact (Sweden Abroad)",
-          "url": "https://www.swedenabroad.se/en/embassies/nigeria-abuja/current/news/the-embassys-switchboard-is-closed-on-thursday-15-january-2026/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Sweden in Abuja — Contact (Sweden Abroad)",
+          "url": "https://www.swedenabroad.se/en/embassies/nigeria-abuja/contact/",
+          "accessed": "2026-03-17"
+        },
+        {
+          "label": "Sweden representation in Nigeria (EU consular protection)",
+          "url": "https://consular-protection.ec.europa.eu/representation-offices/sweden-se-representation-nigeria-ng_en",
+          "accessed": "2026-03-17"
         }
       ],
-      "lastVerified": "2026-03-14",
+      "lastVerified": "2026-03-17",
       "flag": "🇸🇪",
-      "visaProcessing": "Consular and visa guidance is provided by the Embassy of Sweden in Abuja. Check the official website for current procedures.",
+      "visaProcessing": "Visa applications are submitted through VFS Global in Nigeria; the embassy provides official guidance via Sweden Abroad.",
       "whereToApply": [
         "Embassy: Abuja"
       ]
@@ -5332,11 +5483,25 @@ window.__DATA__ = {
       "country": "Tonga",
       "countryCode": "TO",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa requirements published by Tonga Immigration (Ministry of Revenue & Customs).",
+      "sources": [
+        {
+          "label": "Tonga Immigration — Immigration and General Services",
+          "url": "https://www.revenue.gov.to/immigration-and-general-services",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Tonga visa requirements and procedures are published by the Ministry of Revenue & Customs Immigration Services.",
+      "whereToApply": [
+        {
+          "label": "Tonga Immigration — Requirements",
+          "url": "https://www.revenue.gov.to/immigration-and-general-services"
+        }
+      ],
+      "flag": "🇹🇴"
     },
     {
       "country": "Trinidad and Tobago",
@@ -5441,11 +5606,30 @@ window.__DATA__ = {
       "country": "Tuvalu",
       "countryCode": "TV",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Visa guidance provided by the Tuvalu High Commission; immigration email provided for applications.",
+      "sources": [
+        {
+          "label": "Tuvalu High Commission (NZ) — Visa information",
+          "url": "https://tuvaluhc.org.nz/visa",
+          "accessed": "2026-03-18"
+        },
+        {
+          "label": "Tuvalu Department of Home Affairs",
+          "url": "https://homeaffairs.gov.tv/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Tuvalu requires a visa for travelers not covered by visa‑free entry. Submit a visa request to Tuvalu Immigration via the official email listed by the High Commission.",
+      "whereToApply": [
+        {
+          "label": "Tuvalu Immigration (email: immigration@gov.tv)",
+          "url": "https://tuvaluhc.org.nz/visa"
+        }
+      ],
+      "flag": "🇹🇻"
     },
     {
       "country": "Tanzania",
@@ -5807,21 +5991,49 @@ window.__DATA__ = {
       "country": "Vanuatu",
       "countryCode": "VU",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Vanuatu issues visas online via the official eVisa portal.",
+      "sources": [
+        {
+          "label": "Vanuatu eVisa portal (Immigration and Passport Service)",
+          "url": "https://evisa.gov.vu/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Vanuatu visas are submitted online through the official eVisa portal managed by Immigration and Passport Services.",
+      "whereToApply": [
+        {
+          "label": "Vanuatu eVisa portal",
+          "url": "https://evisa.gov.vu/"
+        }
+      ],
+      "flag": "🇻🇺"
     },
     {
       "country": "Samoa",
       "countryCode": "WS",
       "region": "Oceania",
-      "verificationStatus": "pending",
+      "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
-      "sources": [],
-      "lastVerified": "Pending"
+      "notes": "Samoa visitor permits are issued on arrival by the Ministry of the Prime Minister and Cabinet (Immigration Division).",
+      "sources": [
+        {
+          "label": "Samoa Immigration — Permit Services (MPMC)",
+          "url": "https://mpmc.gov.ws/divisions/immigration/permits-2/",
+          "accessed": "2026-03-18"
+        }
+      ],
+      "lastVerified": "2026-03-18",
+      "visaProcessing": "Samoa issues a visitor permit on arrival for most travelers. Check the Immigration Division guidance for eligibility and permit conditions.",
+      "whereToApply": [
+        {
+          "label": "Samoa Immigration — Permit services",
+          "url": "https://mpmc.gov.ws/divisions/immigration/permits-2/"
+        }
+      ],
+      "flag": "🇼🇸"
     },
     {
       "country": "Kosovo",
