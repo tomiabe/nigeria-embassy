@@ -6199,11 +6199,12 @@
         {
           "label": "Nigeria High Commission London — Contact",
           "url": "https://www.nigeriahc.org.uk/contact-us/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria High Commission London official contact page."
     },
     {
       "country": "Canada",
@@ -6230,11 +6231,12 @@
         {
           "label": "Nigeria High Commission Ottawa — Contact",
           "url": "https://nigeriahcottawa.ca/contact/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria High Commission Ottawa contact page."
     },
     {
       "country": "United States",
@@ -6259,13 +6261,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Washington DC (MFA Nigeria)",
-          "url": "https://washingtondc.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Washington DC — MFA Nigeria",
+          "url": "https://washingtondc.foreignaffairs.gov.ng/official-visa/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria Embassy Washington DC official MFA site."
     },
     {
       "country": "Japan",
@@ -6290,13 +6293,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Tokyo (MFA Nigeria)",
-          "url": "https://tokyo.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Tokyo — About us",
+          "url": "https://tokyo.foreignaffairs.gov.ng/about-us/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Tokyo (MFA Nigeria) website."
     },
     {
       "country": "France",
@@ -6321,13 +6325,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Paris — Find us",
-          "url": "https://paris.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Paris — About us",
+          "url": "https://paris.foreignaffairs.gov.ng/about-us/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Paris (MFA Nigeria) website."
     },
     {
       "country": "Germany",
@@ -6352,13 +6357,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Berlin — Find us",
-          "url": "https://berlin.foreignaffairs.gov.ng/consular-services/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Berlin — About us",
+          "url": "https://berlin.foreignaffairs.gov.ng/about-us/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Berlin (MFA Nigeria) website."
     },
     {
       "country": "Italy",
@@ -6383,13 +6389,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Rome — Find us",
-          "url": "https://rome.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Rome — About us",
+          "url": "https://rome.foreignaffairs.gov.ng/about-us/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Rome (MFA Nigeria) website."
     },
     {
       "country": "Saudi Arabia",
@@ -6416,11 +6423,12 @@
         {
           "label": "Embassy of Nigeria, Riyadh — Where we at",
           "url": "https://riyadh.foreignaffairs.gov.ng/media-item/where-we-at/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Riyadh official MFA site."
     },
     {
       "country": "China",
@@ -6445,13 +6453,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Beijing — Consular Services",
-          "url": "https://beijing.foreignaffairs.gov.ng/consular-services/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Beijing — About us",
+          "url": "https://beijing.foreignaffairs.gov.ng/about-us/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Beijing (MFA Nigeria) website."
     },
     {
       "country": "Sweden",
@@ -6476,13 +6485,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Stockholm — Find us",
-          "url": "https://stockholm.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "label": "Embassy of Nigeria, Stockholm — About us",
+          "url": "https://stockholm.foreignaffairs.gov.ng/about-us/",
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Embassy of Nigeria Stockholm (MFA Nigeria) website."
     },
     {
       "country": "Spain",
@@ -6507,13 +6517,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Madrid — Find us",
+          "label": "Embassy of Nigeria, Madrid — MFA Nigeria",
           "url": "https://madrid.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Portugal",
@@ -6538,13 +6549,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Lisbon — Find us",
+          "label": "Embassy of Nigeria, Lisbon — MFA Nigeria",
           "url": "https://lisbon.foreignaffairs.gov.ng/about-us/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "United Arab Emirates",
@@ -6569,13 +6581,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Abu Dhabi — Find us",
+          "label": "Embassy of Nigeria, Abu Dhabi — MFA Nigeria",
           "url": "https://abudhabi.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Qatar",
@@ -6600,13 +6613,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Doha — Find us",
+          "label": "Embassy of Nigeria, Doha — MFA Nigeria",
           "url": "https://doha.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Ghana",
@@ -6631,13 +6645,14 @@
       ],
       "sources": [
         {
-          "label": "Nigeria High Commission Accra — Find us",
+          "label": "Nigeria High Commission, Accra — MFA Nigeria",
           "url": "https://accra.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Kenya",
@@ -6662,13 +6677,14 @@
       ],
       "sources": [
         {
-          "label": "Nigeria High Commission Nairobi — Find us",
+          "label": "Nigeria High Commission, Nairobi — MFA Nigeria",
           "url": "https://nairobi.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "South Africa",
@@ -6693,13 +6709,14 @@
       ],
       "sources": [
         {
-          "label": "Nigeria High Commission Pretoria — Find us",
+          "label": "Nigeria High Commission, Pretoria — MFA Nigeria",
           "url": "https://pretoria.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Ethiopia",
@@ -6724,13 +6741,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Addis Ababa — Find us",
+          "label": "Embassy of Nigeria, Addis Ababa — MFA Nigeria",
           "url": "https://addisababa.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "India",
@@ -6755,13 +6773,14 @@
       ],
       "sources": [
         {
-          "label": "Nigeria High Commission New Delhi — Find us",
+          "label": "Nigeria High Commission, New Delhi — MFA Nigeria",
           "url": "https://newdelhi.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Turkey",
@@ -6786,13 +6805,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Ankara — Find us",
+          "label": "Embassy of Nigeria, Ankara — MFA Nigeria",
           "url": "https://ankara.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Russia",
@@ -6817,13 +6837,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Moscow — Find us",
+          "label": "Embassy of Nigeria, Moscow — MFA Nigeria",
           "url": "https://moscow.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Brazil",
@@ -6848,13 +6869,14 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria, Brasília — Find us",
+          "label": "Embassy of Nigeria, Brasília — MFA Nigeria",
           "url": "https://brasilia.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14",
-      "verificationStatus": "verified"
+      "lastVerified": "2026-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Egypt",
@@ -6880,12 +6902,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Cairo — Contact",
+          "label": "Embassy of Nigeria, Cairo — MFA Nigeria",
           "url": "https://cairo.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Morocco",
@@ -6911,12 +6934,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Rabat — Contact",
+          "label": "Embassy of Nigeria, Rabat — MFA Nigeria",
           "url": "https://rabat.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Algeria",
@@ -6942,12 +6966,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Algiers — Contact",
+          "label": "Embassy of Nigeria, Algiers — MFA Nigeria",
           "url": "https://algiers.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Tunisia",
@@ -6973,12 +6998,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Tunis — Contact",
+          "label": "Embassy of Nigeria, Tunis — MFA Nigeria",
           "url": "https://tunis.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Malaysia",
@@ -7004,12 +7030,13 @@
       ],
       "sources": [
         {
-          "label": "Nigeria High Commission Kuala Lumpur — Contact",
+          "label": "Nigeria High Commission, Kuala Lumpur — MFA Nigeria",
           "url": "https://kualalumpur.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Indonesia",
@@ -7035,12 +7062,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Jakarta — Contact",
+          "label": "Embassy of Nigeria, Jakarta — MFA Nigeria",
           "url": "https://jakarta.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Thailand",
@@ -7066,12 +7094,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Bangkok — Contact",
+          "label": "Embassy of Nigeria, Bangkok — MFA Nigeria",
           "url": "https://bangkok.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "South Korea",
@@ -7097,12 +7126,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Seoul — Contact",
+          "label": "Embassy of Nigeria, Seoul — MFA Nigeria",
           "url": "https://seoul.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Angola",
@@ -7128,12 +7158,13 @@
       ],
       "sources": [
         {
-          "label": "Embassy of Nigeria in Luanda — Contact",
+          "label": "Embassy of Nigeria, Luanda — MFA Nigeria",
           "url": "https://luanda.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     },
     {
       "country": "Pakistan",
@@ -7159,12 +7190,13 @@
       ],
       "sources": [
         {
-          "label": "Nigeria High Commission Islamabad — Contact",
+          "label": "Nigeria High Commission, Islamabad — MFA Nigeria",
           "url": "https://islamabad.foreignaffairs.gov.ng/",
-          "accessed": "2026-03-14"
+          "accessed": "2026-03-18"
         }
       ],
-      "lastVerified": "2026-03-14"
+      "lastVerified": "2026-03-18",
+      "notes": "Verified via Nigeria MFA mission site."
     }
   ]
 }

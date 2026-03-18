@@ -485,6 +485,70 @@ This file tracks verified sources and coverage status. All addresses should be c
   - https://tuvaluhc.org.nz/visa
 - Tuvalu Department of Home Affairs
   - https://homeaffairs.gov.tv/
+- Nigeria High Commission London — Contact
+  - https://www.nigeriahc.org.uk/contact-us/
+- Nigeria High Commission Ottawa — Contact
+  - https://nigeriahcottawa.ca/contact/
+- Embassy of Nigeria, Washington DC — Official visa (MFA Nigeria)
+  - https://washingtondc.foreignaffairs.gov.ng/official-visa/
+- Embassy of Nigeria, Tokyo — About us
+  - https://tokyo.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Paris — About us
+  - https://paris.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Berlin — About us
+  - https://berlin.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Rome — About us
+  - https://rome.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Riyadh — Where we at
+  - https://riyadh.foreignaffairs.gov.ng/media-item/where-we-at/
+- Embassy of Nigeria, Beijing — About us
+  - https://beijing.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Stockholm — About us
+  - https://stockholm.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Madrid — MFA Nigeria
+  - https://madrid.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Lisbon — MFA Nigeria
+  - https://lisbon.foreignaffairs.gov.ng/about-us/
+- Embassy of Nigeria, Abu Dhabi — MFA Nigeria
+  - https://abudhabi.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Doha — MFA Nigeria
+  - https://doha.foreignaffairs.gov.ng/
+- Nigeria High Commission, Accra — MFA Nigeria
+  - https://accra.foreignaffairs.gov.ng/
+- Nigeria High Commission, Nairobi — MFA Nigeria
+  - https://nairobi.foreignaffairs.gov.ng/
+- Nigeria High Commission, Pretoria — MFA Nigeria
+  - https://pretoria.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Addis Ababa — MFA Nigeria
+  - https://addisababa.foreignaffairs.gov.ng/
+- Nigeria High Commission, New Delhi — MFA Nigeria
+  - https://newdelhi.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Ankara — MFA Nigeria
+  - https://ankara.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Moscow — MFA Nigeria
+  - https://moscow.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Brasília — MFA Nigeria
+  - https://brasilia.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Cairo — MFA Nigeria
+  - https://cairo.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Rabat — MFA Nigeria
+  - https://rabat.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Algiers — MFA Nigeria
+  - https://algiers.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Tunis — MFA Nigeria
+  - https://tunis.foreignaffairs.gov.ng/
+- Nigeria High Commission, Kuala Lumpur — MFA Nigeria
+  - https://kualalumpur.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Jakarta — MFA Nigeria
+  - https://jakarta.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Bangkok — MFA Nigeria
+  - https://bangkok.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Seoul — MFA Nigeria
+  - https://seoul.foreignaffairs.gov.ng/
+- Embassy of Nigeria, Luanda — MFA Nigeria
+  - https://luanda.foreignaffairs.gov.ng/
+- Nigeria High Commission, Islamabad — MFA Nigeria
+  - https://islamabad.foreignaffairs.gov.ng/
 - Austrian Embassy Abuja — BMEIA
   - https://www.bmeia.gv.at/en/austrian-embassy-abuja/
 - Embassy of Sweden in Abuja — Contact (Sweden Abroad)
