@@ -1,4 +1,4 @@
-export const data = {
+const data = {
   "meta": {
     "lastUpdated": "2026-03-20",
     "sourcesNote": "Addresses and visa-processing notes are verified from official government sources and mission websites."
@@ -7045,3 +7045,11 @@ export const data = {
     }
   ]
 };
+
+if (typeof window !== 'undefined') {
+  window.__DATA__ = data;
+}
+
+if (typeof module !== 'undefined') {
+  module.exports = data;
+}
