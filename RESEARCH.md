@@ -581,12 +581,34 @@ This file tracks verified sources and coverage status. All addresses should be c
 - United Kingdom
 - Germany
 - France
+- Australia (Verified 2026-03-20)
+- Fiji (Verified 2026-03-20)
+- Kiribati (Verified 2026-03-20)
+- Vanuatu (Verified 2026-03-20)
+- Papua New Guinea (Verified 2026-03-20)
+- Samoa (Verified 2026-03-20)
+- New Zealand (Verified 2026-03-20)
 
-## Next batch (planned)
+- Africa (Verified 2026-03-20)
+    - ECOWAS: Benin, Burkina Faso, Cape Verde (EASE), Cote d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Sierra Leone, Togo.
+    - Visa-Free/VOA: Rwanda (Free VOA), Mauritius, Seychelles (TA Req), Comoros (VOA).
+    - eVisa: Kenya (eTA), Ethiopia, Uganda, Tanzania, Djibouti, Egypt, Botswana, Gabon, Madagascar, Mauritania, Namibia, Sao Tome, Zambia.
+    - Resident Missions: Angola, Burundi, Cameroon, CAR, Chad, Republic of Congo, DR Congo, Equatorial Guinea, Eritrea, Libya, Morocco, Somalia, South Africa, South Sudan, Sudan, Tunisia, Zimbabwe.
+    - Non-Resident (Nearest): Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Seychelles.
 - Canada
-- China
-- Italy
-- Spain
-- Netherlands
-- South Africa
-- UAE
+- Asia (Verified 2026-03-20)
+    - **Physical Missions in Abuja**: China, India, Indonesia, Iran, Iraq, Israel, Japan, Kuwait, Lebanon, Malaysia, North Korea, Pakistan, Philippines, Palestine, Qatar, Saudi Arabia, South Korea, Syria, Thailand, Turkey, Vietnam, Yemen.
+    - **Honorary Missions/Consulates**: Singapore (Honorary Consulate-General in Lagos), Cyprus (Honorary Commission in Lagos).
+    - **Full e-Visa System**: Thailand (Physical applications discontinued Jan 2025; NDLEA certificate mandatory for Nigerians).
+    - **eVisa/ASAN Visa**: Armenia, Azerbaijan, Bahrain (eVisa/VOA), Cambodia, Georgia (Requires OECD/Schengen visa), Kazakhstan, Kyrgyzstan, Laos, Mongolia, Myanmar, Oman, Pakistan, Qatar, Tajikistan, Uzbekistan, Vietnam (VOA discontinued).
+    - **Visa-Free/VOA**: Maldives (30 days), Timor-Leste ($30 VOA).
+    - **Closed Missions**: Sri Lanka High Commission in Abuja (Accredited via Nairobi); Nigerian High Commission in Colombo (Closed).
+    - **Handled via Third Countries**:
+        *   Maldives: Nigerian mission in Islamabad (Pakistan).
+        *   Nepal: Nigerian mission in Islamabad (Pakistan).
+        *   Oman: Nigerian mission in Abu Dhabi (UAE).
+        *   Palestine: Nigerian mission in Tel Aviv (Israel).
+        *   Cyprus: Nigerian mission in Beirut (Lebanon).
+        *   Georgia: Nigerian mission in Kyiv (Ukraine).
+        *   Armenia: Nigerian mission in Tehran (Iran).
+    - **Misclassifications Corrected**: American Samoa, French Polynesia, Guam, New Caledonia, Northern Mariana Islands (Moved to Oceania). Djibouti, Libya (Moved to Africa). Malta (Moved to Europe).
