@@ -142,7 +142,7 @@ function searchMatches(entry, query) {
     .join(" ");
   const whereToApply = entry.whereToApply ? entry.whereToApply.join(" ") : "";
   const haystack = `${entry.country} ${missionText} ${entry.visaProcessing || ""} ${whereToApply}`;
-  return normalize(haystack).includes(query);
+  return normalize(haystack).includes(normalize(query));
 }
 
 function renderFilters(container, values, activeValue, onClick) {
