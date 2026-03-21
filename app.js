@@ -277,11 +277,11 @@ function renderCard(entry) {
         <div class="flex flex-wrap gap-2">${missionTypes}</div>
       </div>
       <div class="p-4 sm:p-6">
-        <div class="grid grid-cols-1 lg:grid-cols-5 gap-6 sm:gap-8">
-          <div class="lg:col-span-3 space-y-6">
+        <div class="grid grid-cols-1 lg:grid-cols-11 gap-6 sm:gap-8">
+          <div class="lg:col-span-6 space-y-6">
             ${missionsHtml}
           </div>
-          <div class="lg:col-span-2 space-y-6 pt-6 border-t border-gray-100 lg:pt-0 lg:border-t-0 lg:border-l lg:pl-8">
+          <div class="lg:col-span-5 space-y-6 pt-6 border-t border-gray-100 lg:pt-0 lg:border-t-0 lg:border-l lg:pl-8">
             ${visaBlock}
             ${whereToApply}
             <div class="pt-4 border-t border-gray-100">
