@@ -204,7 +204,7 @@ function buildMissionBlock(mission) {
     : "";
 
   return `
-    <div class="relative pl-4 border-l-2 border-gray-200">
+    <div class="relative">
       <h3 class="text-base font-semibold text-gray-900 mb-2 flex items-center">
         ${mission.type} <span class="mx-2 text-gray-300">·</span> ${mission.city}
       </h3>
