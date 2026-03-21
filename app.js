@@ -301,7 +301,7 @@ function renderCard(entry) {
   `;
 }
 
-function render() {
+let render = function() {
   const activeData = state.viewMode === "foreign" ? state.countries : state.nigerianMissions;
   const filtered = activeData
     .filter(
@@ -423,3 +423,85 @@ if (embeddedData?.missions?.length) {
   renderFilters(regionFilters, REGIONS, state.region, onRegionChange);
   cards.innerHTML = `<div class="bg-white rounded-2xl border border-gray-200 p-6 text-center text-gray-500">Data unavailable.</div>`;
 }
+
+// --- PROTOTYPE 4 LOGIC ---
+const searchFilterFab = document.getElementById('searchFilterFab');
+const searchFilterModal = document.getElementById('searchFilterModal');
+const searchFilterBackdrop = document.getElementById('searchFilterBackdrop');
+const searchFilterModalPanel = document.getElementById('searchFilterModalPanel');
+const closeSearchFilterModal = document.getElementById('closeSearchFilterModal');
+const applySearchFilters = document.getElementById('applySearchFilters');
+
+const searchFilterSection = document.getElementById('searchFilterSection');
+const inlineAnchor = document.getElementById('inlineSearchFilterAnchor');
+const modalAnchor = document.getElementById('modalSearchFilterAnchor');
+
+const isModalOpen = () => !searchFilterModal.classList.contains('hidden');
+
+// We intercept the original render function!
+const originalRender = render;
+render = function() {
+  // If the modal is open, we do NOT live render the background cards.
+  if (isModalOpen()) {
+    // We only update the counts maybe? Actually, just hold off rendering cards.
+    return;
+  }
+  originalRender();
+};
+
+function toggleFabOnScroll() {
+  const showFab = window.scrollY > 300; 
+  if (showFab) {
+    searchFilterFab.classList.remove('hidden');
+    searchFilterFab.classList.add('flex');
+  } else {
+    searchFilterFab.classList.add('hidden');
+    searchFilterFab.classList.remove('flex');
+    if (isModalOpen()) closeModal();
+  }
+}
+window.addEventListener('scroll', toggleFabOnScroll, { passive: true });
+toggleFabOnScroll();
+
+function openModal() {
+  document.body.style.overflow = 'hidden';
+  searchFilterSection.classList.remove('shadow-sm', 'border', 'border-gray-200', 'mb-8', 'rounded-2xl', 'p-4', 'sm:p-6');
+  searchFilterSection.classList.add('border-0', 'p-0', 'mb-2');
+  modalAnchor.appendChild(searchFilterSection);
+  
+  searchFilterModal.classList.remove('hidden');
+  searchFilterModal.classList.add('flex');
+  
+  requestAnimationFrame(() => {
+    searchFilterBackdrop.classList.remove('opacity-0');
+    searchFilterModalPanel.classList.remove('translate-y-full', 'sm:translate-y-8', 'opacity-0');
+  });
+}
+
+function closeModal() {
+  searchFilterBackdrop.classList.add('opacity-0');
+  searchFilterModalPanel.classList.add('translate-y-full', 'sm:translate-y-8', 'opacity-0');
+  document.body.style.overflow = '';
+  
+  setTimeout(() => {
+    searchFilterModal.classList.remove('flex');
+    searchFilterModal.classList.add('hidden');
+    
+    searchFilterSection.classList.add('shadow-sm', 'border', 'border-gray-200', 'mb-8', 'rounded-2xl', 'p-4', 'sm:p-6');
+    searchFilterSection.classList.remove('border-0', 'p-0', 'mb-2');
+    inlineAnchor.parentNode.insertBefore(searchFilterSection, inlineAnchor.nextSibling);
+
+    // Now explicitly render all changes that were deferred!
+    originalRender(); 
+  }, 300);
+}
+
+searchFilterFab?.addEventListener('click', openModal);
+closeSearchFilterModal?.addEventListener('click', closeModal);
+searchFilterBackdrop?.addEventListener('click', closeModal);
+
+// The explicitly requested Apply button:
+applySearchFilters?.addEventListener('click', () => {
+    closeModal(); // closing automatically calls originalRender()
+});
+
