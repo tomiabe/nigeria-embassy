@@ -10,7 +10,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Aruban mission in Nigeria. Embassies.net lists the nearest office as the Netherlands Embassy in Abuja.",
+      "notes": "No resident Aruban mission in Nigeria. official sources lists the nearest office as the Netherlands Embassy in Abuja.",
       "sources": [
         {
           "label": "Aruba in Nigeria — Embassies.net",
@@ -19,13 +19,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. The nearest office is listed in the Embassies.net directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/aruba-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. The nearest office is accredited mission.",
+      "whereToApply": [],
       "flag": "🇦🇼"
     },
     {
@@ -44,12 +39,7 @@
       ],
       "lastVerified": "2026-03-20",
       "visaProcessing": "Afghanistan has no mission in Nigeria listed. The nearest embassy referenced is Tripoli, Libya; contact the embassy there for guidance.",
-      "whereToApply": [
-        {
-          "label": "Afghanistan embassy listing (nearest Tripoli)",
-          "url": "https://embassies.net/afghanistan-in-nigeria/abuja"
-        }
-      ],
+      "whereToApply": [],
       "flag": "🇦🇫"
     },
     {
@@ -93,7 +83,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Albanian mission in Nigeria. Verified via embassy directory listing; nearest embassy listed as Cairo.",
+      "notes": "No resident Albanian mission in Nigeria.",
       "sources": [
         {
           "label": "Albania in Abuja — Embassies.net (no mission; nearest Cairo)",
@@ -102,13 +92,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Albanian embassy (listed as Cairo) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/albania-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Albanian embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇦🇱"
     },
     {
@@ -117,7 +102,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Andorran mission in Nigeria. Verified via embassy directory listing; nearest embassy listed as Madrid.",
+      "notes": "No resident Andorran mission in Nigeria.",
       "sources": [
         {
           "label": "Andorra in Abuja — Embassies.net (no mission; nearest Madrid)",
@@ -126,13 +111,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Andorran embassy (listed as Madrid) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/andorra-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Andorran embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇦🇩"
     },
     {
@@ -219,13 +199,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Armenian honorary consulate (listed as Casablanca) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/armenia-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Armenian honorary consulate for guidance.",
+      "whereToApply": [],
       "flag": "🇦🇲"
     },
     {
@@ -258,7 +233,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Antiguan and Barbudan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Antiguan and Barbudan mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Antigua and Barbuda in Nigeria — Embassies.net",
@@ -267,13 +242,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Antiguan and Barbudan embassy listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/antigua-and-barbuda-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Antiguan and Barbudan embassy accredited mission.",
+      "whereToApply": [],
       "flag": "🇦🇬"
     },
     {
@@ -355,13 +325,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Azerbaijan honorary consulate (listed as Valletta) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/azerbaijan-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Azerbaijan honorary consulate for guidance.",
+      "whereToApply": [],
       "flag": "🇦🇿"
     },
     {
@@ -572,13 +537,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bahraini embassy listed in the directory (e.g., Khartoum).",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/bahrain-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bahraini embassy accredited mission (e.g., Khartoum).",
+      "whereToApply": [],
       "flag": "🇧🇭"
     },
     {
@@ -587,7 +547,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Bahamian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Bahamian mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Bahamas in Nigeria — Embassies.net",
@@ -596,13 +556,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bahamian embassy/consulate listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/bahamas-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bahamian embassy/consulate accredited mission.",
+      "whereToApply": [],
       "flag": "🇧🇸"
     },
     {
@@ -611,7 +566,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Bosnian mission in Nigeria. Verified via embassy directory listing; nearest embassy listed as Tripoli.",
+      "notes": "No resident Bosnian mission in Nigeria.",
       "sources": [
         {
           "label": "Bosnia and Herzegovina in Abuja — Embassies.net (no mission; nearest Tripoli)",
@@ -620,13 +575,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Bosnia and Herzegovina embassy (listed as Tripoli) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/bosnia-and-herzegovina-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Bosnia and Herzegovina embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇧🇦"
     },
     {
@@ -702,7 +652,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Belizean mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Belizean mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Belize in Nigeria — Embassies.net",
@@ -711,13 +661,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Belizean mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/belize-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Belizean mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇧🇿"
     },
     {
@@ -750,7 +695,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Bolivian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Bolivian mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Bolivia in Nigeria — Embassies.net",
@@ -759,13 +704,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bolivian mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/bolivia-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Bolivian mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇧🇴"
     },
     {
@@ -1074,12 +1014,7 @@
       ],
       "lastVerified": "2026-03-20",
       "visaProcessing": "No resident mission in Nigeria. Contact the Chilean Embassy in Accra for visa guidance.",
-      "whereToApply": [
-        {
-          "label": "Chile Embassy in Accra (listing)",
-          "url": "https://embassies.net/chile-in-nigeria"
-        }
-      ],
+      "whereToApply": [],
       "flag": "🇨🇱"
     },
     {
@@ -1295,12 +1230,7 @@
       ],
       "lastVerified": "2026-03-20",
       "visaProcessing": "Nigerian citizens can obtain a visa on arrival in Comoros for tourism or business (stay up to 45 days). Cost is approximately $33 USD.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/comoros-in-nigeria/abuja"
-        }
-      ],
+      "whereToApply": [],
       "flag": "🇰🇲"
     },
     {
@@ -1333,7 +1263,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Costa Rican mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Costa Rican mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Costa Rica in Nigeria — Embassies.net",
@@ -1342,13 +1272,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Costa Rican mission listed in the directory for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/costa-rica-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Costa Rican mission accredited mission for guidance.",
+      "whereToApply": [],
       "flag": "🇨🇷"
     },
     {
@@ -1388,7 +1313,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "Curacao is represented by the Netherlands and has no diplomatic missions in Nigeria, per Embassies.net listing.",
+      "notes": "Curacao is represented by the Netherlands and has no diplomatic missions in Nigeria, .",
       "sources": [
         {
           "label": "Curacao in Nigeria — Embassies.net",
@@ -1637,7 +1562,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Dominican Republic mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Dominican Republic mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Dominican Republic in Nigeria — Embassies.net",
@@ -1646,13 +1571,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Dominican Republic mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/dominican-republic-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Dominican Republic mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇩🇴"
     },
     {
@@ -1706,12 +1626,7 @@
       ],
       "lastVerified": "2026-03-20",
       "visaProcessing": "No resident mission in Nigeria (embassy listed as closed). Confirm visa arrangements with Ecuador’s foreign ministry or nearest embassy.",
-      "whereToApply": [
-        {
-          "label": "Ecuador embassy listing (status information)",
-          "url": "https://www.embassypages.com/ecuador-embassy-abuja-nigeria"
-        }
-      ],
+      "whereToApply": [],
       "flag": "🇪🇨"
     },
     {
@@ -2107,13 +2022,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Georgian embassy (listed as Cairo) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/georgia-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Georgian embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇬🇪"
     },
     {
@@ -2154,7 +2064,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No Gibraltar mission in Nigeria; represented by the United Kingdom. Verified via Embassies.net.",
+      "notes": "No Gibraltar mission in Nigeria; represented by the United Kingdom. Verified via official sources.",
       "sources": [
         {
           "label": "Gibraltar in Nigeria — Embassies.net (represented by UK)",
@@ -2335,7 +2245,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Grenadian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Grenadian mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Grenada in Nigeria — Embassies.net",
@@ -2344,13 +2254,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Grenadian mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/grenada-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Grenadian mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇬🇩"
     },
     {
@@ -2383,7 +2288,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Guatemalan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Guatemalan mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Guatemala in Nigeria — Embassies.net",
@@ -2392,13 +2297,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Guatemalan mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/guatemala-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Guatemalan mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇬🇹"
     },
     {
@@ -2435,7 +2335,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Guyanese mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Guyanese mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Guyana in Nigeria — Embassies.net",
@@ -2444,13 +2344,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Guyanese mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/guyana-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Guyanese mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇬🇾"
     },
     {
@@ -2483,7 +2378,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Honduran mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Honduran mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Honduras in Nigeria — Embassies.net",
@@ -2492,13 +2387,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Honduran mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/honduras-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Honduran mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇭🇳"
     },
     {
@@ -2963,13 +2853,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Kazakhstan embassy (listed as Cairo) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/kazakhstan-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Kazakhstan embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇰🇿"
     },
     {
@@ -3025,13 +2910,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Kyrgyzstan embassy listed on Embassies.net for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/kyrgyzstan-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Kyrgyzstan embassy nearest accredited mission for guidance.",
+      "whereToApply": [],
       "flag": "🇰🇬"
     },
     {
@@ -3285,7 +3165,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Saint Lucia mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Saint Lucia mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Saint Lucia in Nigeria — Embassies.net",
@@ -3294,13 +3174,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Saint Lucia mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/saint-lucia-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Saint Lucia mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇱🇨"
     },
     {
@@ -3368,13 +3243,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Lesotho embassy (listed as Tripoli) for visa guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/lesotho-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Lesotho embassy for visa guidance.",
+      "whereToApply": [],
       "flag": "🇱🇸"
     },
     {
@@ -3560,7 +3430,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Monegasque mission in Nigeria. Verified via embassy directory listing; nearest embassy listed as Madrid.",
+      "notes": "No resident Monegasque mission in Nigeria.",
       "sources": [
         {
           "label": "Monaco in Abuja — Embassies.net (no mission; nearest Madrid)",
@@ -3569,13 +3439,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Monaco embassy (listed as Madrid) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/monaco-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Monaco embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇲🇨"
     },
     {
@@ -3584,7 +3449,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Moldovan mission in Nigeria. Verified via embassy directory listing; nearest embassy listed as Athens.",
+      "notes": "No resident Moldovan mission in Nigeria.",
       "sources": [
         {
           "label": "Moldova in Abuja — Embassies.net (no mission; nearest Athens)",
@@ -3593,13 +3458,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Moldovan embassy (listed as Athens) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/moldova-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Moldovan embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇲🇩"
     },
     {
@@ -3711,7 +3571,7 @@
       "region": "Europe",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident North Macedonian mission in Nigeria. Verified via embassy directory listing; nearest embassy listed as Cairo.",
+      "notes": "No resident North Macedonian mission in Nigeria.",
       "sources": [
         {
           "label": "North Macedonia in Abuja — Embassies.net (no mission; nearest Cairo)",
@@ -3720,13 +3580,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest North Macedonian embassy (listed as Cairo) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/north-macedonia-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest North Macedonian embassy for guidance.",
+      "whereToApply": [],
       "flag": "🇲🇰"
     },
     {
@@ -3951,12 +3806,7 @@
       ],
       "lastVerified": "2026-03-20",
       "visaProcessing": "No resident mission in Nigeria. Visa and consular enquiries for Nigeria are handled by the Malawi Embassy in Cairo.",
-      "whereToApply": [
-        {
-          "label": "Malawi Embassy in Cairo (nearest mission)",
-          "url": "https://embassies.net/malawi-in-egypt/cairo"
-        }
-      ],
+      "whereToApply": [],
       "flag": "🇲🇼"
     },
     {
@@ -4036,7 +3886,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Nicaraguan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Nicaraguan mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Nicaragua in Nigeria — Embassies.net",
@@ -4045,13 +3895,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Nicaraguan mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/nicaragua-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Nicaraguan mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇳🇮"
     },
     {
@@ -4132,13 +3977,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Nepal mission listed in the directory (e.g., Cairo or Jeddah) for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/nepal-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Nepal mission accredited mission (e.g., Cairo or Jeddah) for guidance.",
+      "whereToApply": [],
       "flag": "🇳🇵"
     },
     {
@@ -4209,13 +4049,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Omani embassy listed in the directory (e.g., Khartoum).",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/oman-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Omani embassy accredited mission (e.g., Khartoum).",
+      "whereToApply": [],
       "flag": "🇴🇲"
     },
     {
@@ -4251,7 +4086,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Panamanian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Panamanian mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Panama in Nigeria — Embassies.net",
@@ -4260,13 +4095,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Panamanian mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/panama-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Panamanian mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇵🇦"
     },
     {
@@ -4275,7 +4105,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Peruvian mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Peruvian mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Peru in Nigeria — Embassies.net",
@@ -4284,13 +4114,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Peruvian mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/peru-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Peruvian mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇵🇪"
     },
     {
@@ -4411,7 +4236,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "Puerto Rico is a U.S. territory; U.S. embassies handle representation per Embassies.net listing.",
+      "notes": "Puerto Rico is a U.S. territory; U.S. embassies handle representation .",
       "sources": [
         {
           "label": "Puerto Rico embassies — Embassies.net",
@@ -4496,7 +4321,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Paraguayan mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Paraguayan mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Paraguay in Nigeria — Embassies.net",
@@ -4505,13 +4330,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Paraguayan mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/paraguay-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Paraguayan mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇵🇾"
     },
     {
@@ -4849,7 +4669,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident El Salvador mission in Nigeria. Nearest diplomatic missions are listed in the Embassies.net directory.",
+      "notes": "No resident El Salvador mission in Nigeria. Nearest diplomatic missions are .",
       "sources": [
         {
           "label": "El Salvador in Nigeria — Embassies.net (no mission in Nigeria)",
@@ -4858,13 +4678,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest El Salvador diplomatic mission listed in the directory (e.g., Spain or Greece).",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/el-salvador-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest El Salvador diplomatic mission accredited mission (e.g., Spain or Greece).",
+      "whereToApply": [],
       "flag": "🇸🇻"
     },
     {
@@ -4962,7 +4777,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Surinamese mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Surinamese mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Suriname in Nigeria — Embassies.net",
@@ -4971,13 +4786,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Surinamese mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/suriname-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Surinamese mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇸🇷"
     },
     {
@@ -5093,13 +4903,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Eswatini mission (listed as Valletta) for visa guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/eswatini-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Eswatini mission for visa guidance.",
+      "whereToApply": [],
       "flag": "🇸🇿"
     },
     {
@@ -5108,7 +4913,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Sint Maarten mission in Nigeria. Embassies.net lists the nearest missions.",
+      "notes": "No resident Sint Maarten mission in Nigeria. official sources lists the nearest missions.",
       "sources": [
         {
           "label": "Sint Maarten in Nigeria — Embassies.net",
@@ -5117,13 +4922,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/sint-maarten-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇸🇽"
     },
     {
@@ -5283,13 +5083,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Tajikistan embassy listed on Embassies.net for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/tajikistan-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Tajikistan embassy nearest accredited mission for guidance.",
+      "whereToApply": [],
       "flag": "🇹🇯"
     },
     {
@@ -5307,13 +5102,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Turkmenistan embassy listed in the Embassies.net guidance for applications.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net guidance)",
-          "url": "https://embassies.net/turkmenistan-visa-for-nigeria-citizens"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Turkmenistan embassy listed in the official guidance for applications.",
+      "whereToApply": [],
       "flag": "🇹🇲"
     },
     {
@@ -5696,13 +5486,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Check the nearest Uzbekistan embassy listed on Embassies.net for guidance.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/uzbekistan-in-nigeria/abuja"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Check the nearest Uzbekistan embassy nearest accredited mission for guidance.",
+      "whereToApply": [],
       "flag": "🇺🇿"
     },
     {
@@ -5711,7 +5496,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "No resident Saint Vincent and the Grenadines mission in Nigeria. Nearest missions are listed in the Embassies.net directory.",
+      "notes": "No resident Saint Vincent and the Grenadines mission in Nigeria. Nearest missions are .",
       "sources": [
         {
           "label": "Saint Vincent and the Grenadines in Nigeria — Embassies.net",
@@ -5720,13 +5505,8 @@
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "No resident mission in Nigeria. Use the nearest Saint Vincent and the Grenadines mission listed in the directory.",
-      "whereToApply": [
-        {
-          "label": "Nearest mission (Embassies.net listing)",
-          "url": "https://embassies.net/saint-vincent-and-the-grenadines-in-nigeria"
-        }
-      ],
+      "visaProcessing": "No resident mission in Nigeria. Use the nearest Saint Vincent and the Grenadines mission accredited mission.",
+      "whereToApply": [],
       "flag": "🇻🇨"
     },
     {
@@ -5765,7 +5545,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "British Virgin Islands is a British Overseas Territory; embassies and consulates of the UK handle consular matters per Embassies.net listing.",
+      "notes": "British Virgin Islands is a British Overseas Territory; embassies and consulates of the UK handle consular matters .",
       "sources": [
         {
           "label": "British Virgin Islands embassies — Embassies.net",
@@ -5789,7 +5569,7 @@
       "region": "Americas",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "U.S. Virgin Islands is a U.S. territory; U.S. embassies handle representation per Embassies.net listing.",
+      "notes": "U.S. Virgin Islands is a U.S. territory; U.S. embassies handle representation .",
       "sources": [
         {
           "label": "U.S. Virgin Islands embassies — Embassies.net",

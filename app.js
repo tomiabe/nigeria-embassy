@@ -450,6 +450,8 @@ render = function() {
 };
 
 function toggleFabOnScroll() {
+  if (isModalOpen()) return; // Do not process scroll changes while modal is open (fixes iOS keyboard jump)
+  
   const showFab = window.scrollY > 300; 
   if (showFab) {
     searchFilterFab.classList.remove('hidden');
@@ -457,11 +459,22 @@ function toggleFabOnScroll() {
   } else {
     searchFilterFab.classList.add('hidden');
     searchFilterFab.classList.remove('flex');
-    if (isModalOpen()) closeModal();
   }
 }
 window.addEventListener('scroll', toggleFabOnScroll, { passive: true });
 toggleFabOnScroll();
+
+// Allow pressing "Enter" on mobile keyboard to apply search
+searchInput.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    e.preventDefault();
+    if (isModalOpen()) {
+      closeModal();
+    } else {
+      searchInput.blur();
+    }
+  }
+});
 
 function openModal() {
   document.body.style.overflow = 'hidden';
