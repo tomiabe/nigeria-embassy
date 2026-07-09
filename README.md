@@ -24,8 +24,7 @@ Nigeria Embassy Finder helps you quickly locate embassies, high commissions, and
 | Layer | Technology |
 |---|---|
 | Frontend | React, TypeScript, Vite, Tailwind CSS |
-| Data | `src/data.ts` — structured, verified JSON |
-| AI | Gemini (client-side, for search assistance) |
+| Data | `data.js` — structured, verified dataset |
 | Hosting | GitHub Pages |
 
 ## Running Locally
@@ -36,8 +35,6 @@ Nigeria Embassy Finder helps you quickly locate embassies, high commissions, and
 npm install
 npm run dev
 ```
-
-Add a `GEMINI_API_KEY` to a `.env.local` file (see `.env.example`).
 
 ## Data
 
