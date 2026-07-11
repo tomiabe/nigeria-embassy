@@ -1,7 +1,8 @@
 window.__DATA__ = {
   "meta": {
-    "lastUpdated": "2026-03-20",
-    "sourcesNote": "Addresses and visa-processing notes are verified from official government sources and mission websites."
+    "lastUpdated": "2026-07-11",
+    "sourcesNote": "Addresses and visa-processing notes are verified from official government sources and mission websites.",
+    "reviewNote": "Comprehensive data review July 2026. Fixed placeholder addresses (UAE, Iran, Lebanon, Libya, Syria). Added 10 missing African missions. Added Holy See. Corrected Cabo Verde status. Updated contact details for Saudi Arabia, Qatar, China, Kuwait, Iraq, Egypt, Benin, Singapore, Morocco, Gabon, South Sudan, Sierra Leone, Namibia."
   },
   "missions": [
     {
@@ -124,7 +125,11 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 302, Diplomatic Drive, Central Business District, Abuja."
+          "address": "17 Kainji Crescent, Off Lake Chad Crescent, Maitama, Abuja",
+          "phone": "+234 809 900 9003",
+          "email": "AbujaEMB@mofa.gov.ae",
+          "website": "https://www.mofa.gov.ae/en/missions/Abuja",
+          "websiteLabel": "UAE Embassy Abuja (Official UAE MFA)"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian green passports require a pre-arranged e-visa. No visa-on-arrival.",
@@ -407,7 +412,8 @@ window.__DATA__ = {
           "typeKey": "embassy",
           "city": "Abuja",
           "address": "328, Diplomatic Drive, Central Business District, Abuja, Nigeria",
-          "phone": "+234 906 198 3632"
+          "phone": "+234 906 198 3632",
+          "email": "embabeninabuja@outlook.com"
         }
       ],
       "notes": "Official embassy communiqué directs applicants to the eVisa portal.",
@@ -472,7 +478,9 @@ window.__DATA__ = {
         {
           "type": "High Commission",
           "city": "Abuja",
-          "address": "Plot 2672, Agbebi St, Central Business District, Abuja."
+          "address": "Plot 2672, Agbebi St, Central Business District, Abuja.",
+          "website": "https://bhcabuja.mofa.gov.bd/",
+          "websiteLabel": "Bangladesh High Commission, Abuja"
         }
       ],
       "notes": "High Commission in Abuja. Nigerian High Commission in New Delhi (India) is accredited to Bangladesh.",
@@ -578,41 +586,6 @@ window.__DATA__ = {
       "visaProcessing": "No resident mission in Nigeria. Check the nearest Bosnia and Herzegovina embassy for guidance.",
       "whereToApply": [],
       "flag": "🇧🇦"
-    },
-    {
-      "country": "Slovakia",
-      "countryCode": "SK",
-      "region": "Europe",
-      "verificationStatus": "verified",
-      "missions": [
-        {
-          "type": "Embassy",
-          "city": "Abuja",
-          "address": "12 Euphrates Street, Maitama, Abuja.",
-          "notes": "The Abuja mission does NOT process visa applications."
-        }
-      ],
-      "notes": "Embassy in Abuja (No visa processing). Nigerians require a Schengen visa applied for via Sweden (VFS) or Slovakia in Nairobi.",
-      "sources": [
-        {
-          "label": "Official Slovak Embassy Abuja",
-          "url": "https://www.mzv.sk/abuja",
-          "accessed": "2026-03-20"
-        }
-      ],
-      "lastVerified": "2026-03-20",
-      "visaProcessing": "Short-stay (Type C) visas are handled by the Embassy of Sweden (represented by VFS Global in Abuja/Lagos). Long-stay (Type D) visas require application at the Slovak Embassy in Nairobi, Kenya.",
-      "whereToApply": [
-        {
-          "label": "VFS Global (Representing Sweden for Slovakia)",
-          "url": "https://visa.vfsglobal.com/nga/en/swe/"
-        },
-        {
-          "label": "Embassy of Slovakia, Nairobi (Long-stay)",
-          "url": "https://www.mzv.sk/nairobi"
-        }
-      ],
-      "flag": "🇸🇰"
     },
     {
       "country": "Belarus",
@@ -721,8 +694,8 @@ window.__DATA__ = {
           "address": "324 Diplomatic Drive, Central Business District, Garki, Abuja, Nigeria",
           "phone": "+234 9461-8688 / 9461-8689",
           "email": "cb.lagos@itamaraty.gov.br",
-          "website": "https://www.gov.br/empresas-e-negocios/pt-br/invest-export-brasil/exportar/conheca-os-mercados/como_exportar_privado/como-exportar.pdf/GNNigeria.pdf",
-          "websiteLabel": "Embassy of Brazil in Abuja (Gov.br)"
+          "website": "https://abuja.itamaraty.gov.br/en-us/",
+          "websiteLabel": "Embassy of Brazil in Abuja"
         },
         {
           "type": "Consulate General",
@@ -731,16 +704,16 @@ window.__DATA__ = {
           "address": "Plot 257, Kofo Abayomi Street, Victoria Island, Lagos, Nigeria",
           "phone": "+234 462-8958 / 59 / 60",
           "email": "cb.lagos@itamaraty.gov.br",
-          "website": "https://www.gov.br/empresas-e-negocios/pt-br/invest-export-brasil/exportar/conheca-os-mercados/como_exportar_privado/como-exportar.pdf/GNNigeria.pdf",
-          "websiteLabel": "Consulate-General of Brazil in Lagos (Gov.br)"
+          "website": "https://cglagos.itamaraty.gov.br/en-us/",
+          "websiteLabel": "Consulate-General of Brazil in Lagos"
         }
       ],
-      "notes": "Verification pending.",
+      "notes": "Verified via Itamaraty (Brazilian MFA). Embassy in Abuja; Consulate-General in Lagos.",
       "sources": [
         {
-          "label": "Guia de Negócios Nigéria (Brazil MRE – Gov.br PDF)",
-          "url": "https://www.gov.br/empresas-e-negocios/pt-br/invest-export-brasil/exportar/conheca-os-mercados/como_exportar_privado/como-exportar.pdf/GNNigeria.pdf",
-          "accessed": "2026-03-14"
+          "label": "Brazilian Embassy Abuja (Itamaraty)",
+          "url": "https://abuja.itamaraty.gov.br/en-us/",
+          "accessed": "2026-07-11"
         }
       ],
       "lastVerified": "2026-03-20",
@@ -1026,7 +999,11 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 302-303, Diplomatic Drive, Central Business District, Abuja."
+          "address": "Plot 302-303, Diplomatic Drive, Central Business District, Abuja.",
+          "website": "https://ng.china-embassy.gov.cn/eng/",
+          "websiteLabel": "Embassy of China in Nigeria (Official)",
+          "phone": "+234-9-461-8661 / +234-9-461-8662 / +234-9-461-8664",
+          "email": "chinaemb_ng@mfa.gov.cn"
         },
         {
           "type": "Consulate General",
@@ -1237,17 +1214,28 @@ window.__DATA__ = {
       "country": "Cabo Verde",
       "countryCode": "CV",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Government travel portal directs travelers to EASE.",
-      "sources": [
+      "verificationStatus": "unverified",
+      "missions": [
         {
-          "label": "Travel Cabo Verde — Official travel portal (EASE)",
-          "url": "https://travel.gov.cv/",
-          "accessed": "2026-03-14"
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Abuja, Nigeria — specific address pending verification",
+          "phone": "",
+          "email": "",
+          "website": "",
+          "websiteLabel": ""
         }
       ],
-      "lastVerified": "2026-03-20",
+      "notes": "Embassy of Cabo Verde in Abuja established in 2021 — first-ever Cape Verdean mission in Nigeria. Specific contact details pending verification.",
+      "sources": [
+        {
+          "label": "TheCable: First Cape Verde Embassy in Nigeria Opens in Abuja",
+          "url": "https://www.thecable.ng/photos-first-ever-cape-verde-embassy-in-nigeria-opens-in-abuja/",
+          "accessed": "2026-07-11"
+        }
+      ],
+      "lastVerified": "2026-07-11",
       "flag": "🇨🇻",
       "visaProcessing": "Cabo Verde requires traveler pre‑registration through the official EASE platform before travel.",
       "whereToApply": [
@@ -1288,16 +1276,16 @@ window.__DATA__ = {
           "city": "Abuja",
           "address": "Plot 399, Diplomatic Drive, Central Business District, Abuja, Nigeria",
           "email": "embajada@ng.embacuba.cu",
-          "website": "https://www.embassypages.com/cuba-embassy-abuja-nigeria",
-          "websiteLabel": "Embassy of Cuba in Nigeria"
+          "website": "http://misiones.minrex.gob.cu/nigeria/en/",
+          "websiteLabel": "Embassy of Cuba in Nigeria (Cuba MINREX)"
         }
       ],
-      "notes": "Verified via EmbassyPages listing; confirm details with the mission before travel.",
+      "notes": "Embassy in Abuja (Plot 399, Diplomatic Drive). Verified via Cuba MINREX missions directory.",
       "sources": [
         {
-          "label": "Embassy of Cuba in Abuja — EmbassyPages",
-          "url": "https://www.embassypages.com/cuba-embassy-abuja-nigeria",
-          "accessed": "2026-03-17"
+          "label": "Cuba MINREX — Nigeria Mission",
+          "url": "http://misiones.minrex.gob.cu/nigeria/en/",
+          "accessed": "2026-07-11"
         }
       ],
       "lastVerified": "2026-03-20",
@@ -1641,7 +1629,9 @@ window.__DATA__ = {
           "city": "Abuja",
           "address": "Plot 340, Diplomatic Drive, Central Area, Abuja, Nigeria",
           "phone": "+234 703 415 8802 / +234 706 418 4050",
-          "email": "embassy.abuja@mfa.gov.eg"
+          "email": "embassy.abuja@mfa.gov.eg",
+          "website": "https://www.egyptembassy.org",
+          "websiteLabel": "Egyptian Embassy Nigeria"
         }
       ],
       "notes": "Fallback source (public embassy directory). Official MFA page unavailable.",
@@ -1752,9 +1742,20 @@ window.__DATA__ = {
       "country": "Ethiopia",
       "countryCode": "ET",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Official embassy guidance points to the eVisa portal.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 332, Cadastral Zone AO, Mission Road, Central Business District, Garki, Abuja",
+          "phone": "+234 9 461 8649",
+          "email": "",
+          "website": "https://www.ethiopianembassy.org.ng/",
+          "websiteLabel": "Embassy of Ethiopia in Nigeria"
+        }
+      ],
+      "notes": "Embassy in Abuja (Mission Road, CBD Garki). Address sourced from directory listings — confirm before travel.",
       "sources": [
         {
           "label": "Embassy of Ethiopia — eVisa guidance (official portal link)",
@@ -1762,7 +1763,7 @@ window.__DATA__ = {
           "accessed": "2026-03-14"
         }
       ],
-      "lastVerified": "2026-03-20",
+      "lastVerified": "2026-07-11",
       "flag": "🇪🇹",
       "visaProcessing": "Ethiopia issues eVisas. Nigerians should apply online via the official government eVisa portal.",
       "whereToApply": [
@@ -1938,7 +1939,8 @@ window.__DATA__ = {
           "address": "2B, Orange Close, Off Volta Street, Maitama, Abuja, Nigeria",
           "phone": "+234 09 873 49 65 / 09 875 07 85",
           "website": "http://www.nigeria-gabon.com",
-          "websiteLabel": "Embassy of Gabon in Nigeria"
+          "websiteLabel": "Embassy of Gabon in Nigeria",
+          "email": "ambaga.nigeria@diplomatie.gouv.ga"
         }
       ],
       "notes": "Verified against Gabon Ministry of Foreign Affairs embassy contacts list.",
@@ -2486,7 +2488,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "4, Gnassingbe Eyadema Street, Asokoro, Abuja."
+          "address": "4, Gnassingbe Eyadema Street, Asokoro, Abuja.",
+          "website": "https://kemlu.go.id/abuja/en/",
+          "websiteLabel": "Embassy of Indonesia in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Jakarta.",
@@ -2537,12 +2541,16 @@ window.__DATA__ = {
         {
           "type": "High Commission",
           "city": "Abuja",
-          "address": "15, Rio Negro Close, Off Panama Street, Maitama, Abuja."
+          "address": "15, Rio Negro Close, Off Panama Street, Maitama, Abuja.",
+          "website": "https://www.hcimabuja.gov.in/",
+          "websiteLabel": "High Commission of India, Abuja"
         },
         {
           "type": "Consulate General",
           "city": "Lagos",
-          "address": "8A, Walter Carrington Crescent, Victoria Island, Lagos."
+          "address": "8A, Walter Carrington Crescent, Victoria Island, Lagos.",
+          "website": "https://www.cglagos.gov.in/",
+          "websiteLabel": "Consulate General of India, Lagos"
         }
       ],
       "notes": "High Commission in Abuja. Nigerian High Commission in New Delhi.",
@@ -2621,7 +2629,11 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 302, Diplomatic Drive, Central Business District, Abuja."
+          "address": "1 Udi Hills Street, Aso Drive, Three Arms Zone, Abuja",
+          "phone": "+234 703 774 0223",
+          "email": "iranemb.abv@mfa.gov.ir",
+          "website": "https://abuja.mfa.ir/en",
+          "websiteLabel": "Embassy of the Islamic Republic of Iran, Abuja"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Tehran.",
@@ -2651,7 +2663,10 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 24, Ontario Crescent, Off Mississippi Street, Maitama, Abuja."
+          "address": "Plot 24, Ontario Crescent, Off Mississippi Street, Maitama, Abuja.",
+          "email": "abuembasy@mfa.gov.iq",
+          "website": "https://mofa.gov.iq/abuja/",
+          "websiteLabel": "Embassy of Iraq in Abuja (Official MFA)"
         }
       ],
       "notes": "Embassy in Abuja. Visa required.",
@@ -2702,7 +2717,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 12, Mary Slessor Street, Off Gana Street, Maitama, Abuja."
+          "address": "Plot 12, Mary Slessor Street, Off Gana Street, Maitama, Abuja.",
+          "website": "https://embassies.gov.il/Abuja/Pages/default.aspx",
+          "websiteLabel": "Embassy of Israel in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Tel Aviv (Israel) handles Palestine affairs.",
@@ -2819,7 +2836,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "9, Bobo Street, Off Gana Street, Maitama, Abuja."
+          "address": "9, Bobo Street, Off Gana Street, Maitama, Abuja.",
+          "website": "https://www.nigeria.emb-japan.go.jp/",
+          "websiteLabel": "Embassy of Japan in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Tokyo.",
@@ -2869,7 +2888,9 @@ window.__DATA__ = {
           "city": "Abuja",
           "address": "Plot 357, Diplomatic Drive Way, Central Business District, Abuja, Nigeria",
           "phone": "+234 909 544 6757",
-          "email": "abuja@mfa.go.ke"
+          "email": "abuja@mfa.go.ke",
+          "website": "https://abuja.mfa.go.ke/",
+          "websiteLabel": "High Commission of Kenya, Abuja"
         }
       ],
       "notes": "Verified against official sources.",
@@ -3000,7 +3021,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "9, Rio Negro Close, Maitama, Abuja."
+          "address": "9, Rio Negro Close, Maitama, Abuja.",
+          "website": "https://overseas.mofa.go.kr/ng-en/",
+          "websiteLabel": "Embassy of the Republic of Korea in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Seoul. K-ETA required/Visa required for Nigerians.",
@@ -3027,7 +3050,8 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 24, Rhine Street, Maitama, Abuja."
+          "address": "Plot 24, Yedseram Street, Maitama, Abuja",
+          "phone": "+234 807 774 4222"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Kuwait City.",
@@ -3078,12 +3102,16 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 302, Diplomatic Drive, Central Business District, Abuja."
+          "address": "4 Cape Town Street, Zone 4, Wuse, Abuja",
+          "phone": "+234 (9) 291 4900 / +234 805 500 1500",
+          "email": "abuja.leb@gmail.com"
         },
         {
           "type": "Consulate",
           "city": "Lagos",
-          "address": "1, Walter Carrington Crescent, Victoria Island, Lagos."
+          "address": "18, Walter Carrington Crescent, Victoria Island, Lagos",
+          "phone": "+234 1 271 3881 / +234 1 271 3882",
+          "email": "consulategeneral@lebaneseconsulatelagos.com"
         }
       ],
       "notes": "Embassy in Abuja and Consulate in Lagos. Nigerian Embassy in Beirut (Lebanon) handles Cyprus affairs.",
@@ -3141,7 +3169,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 24, Rhine Street, Maitama, Abuja."
+          "address": "Roseline Ukeje Close, Kyari Muhammed Crescent, Asokoro, Abuja",
+          "phone": "+234 563 8363 / +234 816 946 2714",
+          "email": "libyanembassyng@yahoo.com"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Tripoli.",
@@ -3403,7 +3433,9 @@ window.__DATA__ = {
           "city": "Abuja",
           "address": "39 Lake Chad Street, Maitama, Abuja, Nigeria",
           "phone": "+234 908 781 2101",
-          "email": "embassyofmorocco@hotmail.fr"
+          "email": "embassyofmorocco@hotmail.fr",
+          "website": "https://diplomatie.ma/en/missions-abroad",
+          "websiteLabel": "Morocco Embassy (via Moroccan MFA)"
         }
       ],
       "notes": "Fallback source (public embassy directory). Official MFA page unavailable.",
@@ -3520,7 +3552,9 @@ window.__DATA__ = {
           "type": "Embassy",
           "city": "Abuja",
           "address": "39 Lobito Crescent, Wuse II, Abuja.",
-          "phone": "+234 9 460 3514"
+          "phone": "+234 9 460 3514",
+          "website": "https://embamex.sre.gob.mx/nigeria/",
+          "websiteLabel": "Embassy of Mexico in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian citizens require a visa.",
@@ -3744,10 +3778,10 @@ window.__DATA__ = {
       "region": "Africa",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
+      "notes": "No resident Mozambican mission in Nigeria confirmed. Nearest missions are in Luanda (Angola) or Algiers (Algeria).",
       "sources": [],
-      "lastVerified": "2026-03-20",
-      "visaProcessing": "Visa required for Nigerians. No eVisa option currently; a physical sticker visa must be obtained from the nearest embassy (e.g., Luanda or Algiers)."
+      "lastVerified": "2026-07-11",
+      "visaProcessing": "No resident mission in Nigeria. Visa required for Nigerians. Apply at the nearest Mozambique embassy (Luanda or Algiers)."
     },
     {
       "country": "Mauritania",
@@ -3785,9 +3819,9 @@ window.__DATA__ = {
       "region": "Africa",
       "verificationStatus": "verified",
       "missions": [],
-      "notes": "Verification pending.",
+      "notes": "No resident Mauritian mission in Nigeria. Mauritius is accredited non-residently; nearest missions are elsewhere. Visa-free for Nigerians for short stays (up to 90 days).",
       "sources": [],
-      "lastVerified": "2026-03-20",
+      "lastVerified": "2026-07-11",
       "visaProcessing": "Visa-exempt or Visa on Arrival for Nigerian citizens for short stays (up to 90 days) for tourism."
     },
     {
@@ -3818,7 +3852,9 @@ window.__DATA__ = {
         {
           "type": "High Commission",
           "city": "Abuja",
-          "address": "No. 4A, Plot 2232, B Street, Off Gana Street, Maitama, Abuja."
+          "address": "No. 4A, Plot 2232, B Street, Off Gana Street, Maitama, Abuja.",
+          "website": "https://www.kln.gov.my/web/nga_abuja/",
+          "websiteLabel": "High Commission of Malaysia in Nigeria"
         }
       ],
       "notes": "High Commission in Abuja. Nigerian High Commission in Kuala Lumpur. eVisa available for Nigerians.",
@@ -3840,11 +3876,22 @@ window.__DATA__ = {
       "country": "Namibia",
       "countryCode": "NA",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Plot 1738, T.Y. Danjuma Street, Asokoro, PMB 5097, Wuse, Abuja",
+          "phone": "+234-9-314-2740 / +234-9-314-2741",
+          "email": "namibiahcabuja@premiernetng.net",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "High Commission of Namibia in Abuja (Asokoro). Contact details from directory listings — confirm before travel.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "New Caledonia",
@@ -3874,11 +3921,22 @@ window.__DATA__ = {
       "country": "Niger",
       "countryCode": "NE",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 305, Diplomatic Avenue, Central Business District (Area 10, Garki), Abuja",
+          "phone": "+234-9-523-6275 / +234-9-460-1983",
+          "email": "embniger@yahoo.fr",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "Embassy of the République du Niger in Abuja. Contact details from directory listings — confirm before travel.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "Nicaragua",
@@ -4062,7 +4120,9 @@ window.__DATA__ = {
         {
           "type": "High Commission",
           "city": "Abuja",
-          "address": "Plot 24, Rhine Street, Maitama, Abuja."
+          "address": "Plot 24, Rhine Street, Maitama, Abuja.",
+          "website": "https://www.mofa.gov.pk/nigeria/",
+          "websiteLabel": "High Commission of Pakistan, Abuja"
         }
       ],
       "notes": "High Commission in Abuja. Nigerian High Commission in Islamabad handles Maldives and Nepal affairs. eVisa available.",
@@ -4127,7 +4187,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "No. 11, Rio Negro Close, Maitama, Abuja."
+          "address": "No. 11, Rio Negro Close, Maitama, Abuja.",
+          "website": "https://abuja.philembassy.net/",
+          "websiteLabel": "Philippine Embassy in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Manila.",
@@ -4297,7 +4359,9 @@ window.__DATA__ = {
           "city": "Abuja",
           "address": "Plot 3655, Orinoco Crescent, (off River Kubani Street, off Nile Street), Maitama, Abuja, Nigeria",
           "phone": "+234 903 780 8670 / +234 703 117 0761",
-          "email": "abuja@mne.pt"
+          "email": "abuja@mne.pt",
+          "website": "https://www.portalbuja.org.ng/",
+          "websiteLabel": "Embassy of Portugal in Abuja"
         }
       ],
       "notes": "Verified via EU consular protection listing for Portugal in Nigeria.",
@@ -4394,7 +4458,11 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 2130, Abdu Abu Bakar Crescent, Asokoro, Abuja."
+          "address": "Plot 2130, Abdu Abu Bakar Crescent, Asokoro, Abuja.",
+          "phone": "+234 909 426 4010",
+          "email": "abuja@mofa.gov.qa",
+          "website": "https://abuja.embassy.qa/en",
+          "websiteLabel": "Embassy of Qatar in Abuja (Official)"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Doha. eVisa available via Hayya (hayya.qa).",
@@ -4532,12 +4600,19 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "6 Orange Close, Maitama, Abuja."
+          "address": "6 Orange Close, Maitama, Abuja.",
+          "phone": "+234 709 822 1442 / +234 708 770 2230",
+          "email": "ngemb@mofa.gov.sa",
+          "website": "https://ng.saudiembassy.sa/",
+          "websiteLabel": "Royal Saudi Embassy in Nigeria (Official)"
         },
         {
           "type": "Consulate",
           "city": "Kano",
-          "address": "No. 1, Noordin Road, Old GRA, Kano."
+          "address": "No. 11, Ahmad Bullu Street, Nassarawa GRA, Kano",
+          "email": "ngcon@mofa.gov.sa",
+          "website": "https://ng.saudiembassy.sa/",
+          "websiteLabel": "Royal Saudi Consulate in Kano (Official)"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Riyadh and Consulate in Jeddah. Nigerians require sticker visa (No standard e-visa).",
@@ -4559,11 +4634,22 @@ window.__DATA__ = {
       "country": "Sudan",
       "countryCode": "SD",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Plot 337, Zone A0, Mission Road, Central Area District, Abuja",
+          "phone": "+234-9-560-1631 / +234-9-560-1632",
+          "email": "sudanabj000@hotmail.com",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "Embassy of Sudan in Abuja (Mission Road, Central Area). Contact details from directory listings — confirm before travel.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "Senegal",
@@ -4608,7 +4694,11 @@ window.__DATA__ = {
         {
           "type": "Honorary Consulate-General",
           "city": "Lagos",
-          "address": "Nipost Towers, 1-3 Ologun Agbaje Street, Victoria Island, Lagos."
+          "address": "Nipost Towers, Block A (6th Floor), 1-3 Ologun Agbaje Street, Victoria Island, Lagos",
+          "phone": "+234-1-461-0818 / +234-1-461-9088",
+          "email": "singapore.consulate@tolaram.com",
+          "website": "https://lagos.mfa.gov.sg/",
+          "websiteLabel": "Singapore Honorary Consulate-General, Lagos (MFA Singapore)"
         }
       ],
       "notes": "No resident High Commission. Services via Honorary Consulate-General in Lagos. Nigerian High Commission in Singapore.",
@@ -4657,11 +4747,22 @@ window.__DATA__ = {
       "country": "Sierra Leone",
       "countryCode": "SL",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "Plot 2858, Danube Crescent, Off Ibrahim Babangida Way, Maitama District, Abuja",
+          "phone": "+234 9 413 3480 / +234 9 413 3170",
+          "email": "slhcabj@gmail.com",
+          "website": "https://www.slhcnigeria.org/",
+          "websiteLabel": "Sierra Leone High Commission Nigeria"
+        }
+      ],
+      "notes": "High Commission of Sierra Leone in Abuja (Maitama). Details from directory listings — confirm before travel.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "El Salvador",
@@ -4710,11 +4811,22 @@ window.__DATA__ = {
       "country": "Somalia, Fed. Rep.",
       "countryCode": "SO",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Abuja, Nigeria — specific address pending verification",
+          "phone": "",
+          "email": "",
+          "website": "https://somaliembassyng.so/",
+          "websiteLabel": "Embassy of Somalia in Nigeria"
+        }
+      ],
+      "notes": "Embassy of Somalia in Abuja, resumed operation in 2020. Website confirmed; specific address pending verification.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "Serbia",
@@ -4755,21 +4867,43 @@ window.__DATA__ = {
       "country": "South Sudan",
       "countryCode": "SS",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "16, Lake Chad Crescent, Off IBB Way, Maitama, Abuja",
+          "phone": "+234 803 276 7668",
+          "email": "",
+          "website": "https://embrssng.org/",
+          "websiteLabel": "Embassy of South Sudan in Nigeria"
+        }
+      ],
+      "notes": "Embassy of South Sudan in Abuja (Maitama). Established after independence (2011). Passport services not provided at this office.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "Sao Tome and Principe",
       "countryCode": "ST",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "10, Queen Elizabeth Street, Asokoro, Abuja",
+          "phone": "+234 9 780 7820",
+          "email": "",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "Embassy of São Tomé and Príncipe in Abuja (Asokoro). Contact details from directory listings — confirm before travel.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "Suriname",
@@ -4791,7 +4925,7 @@ window.__DATA__ = {
       "flag": "🇸🇷"
     },
     {
-      "country": "Slovak Republic",
+      "country": "Slovakia",
       "countryCode": "SK",
       "region": "Europe",
       "verificationStatus": "verified",
@@ -4807,18 +4941,30 @@ window.__DATA__ = {
           "websiteLabel": "Embassy of the Slovak Republic in Abuja"
         }
       ],
-      "notes": "Verified via Slovakia MFA embassy contact page.",
+      "notes": "Embassy in Abuja (Gwani Street 62, Maitama). Does NOT process visa applications in Abuja; short-stay (Type C) Schengen visas handled via Embassy of Sweden/VFS Global; long-stay (Type D) via Slovak Embassy in Nairobi.",
       "sources": [
         {
           "label": "Embassy of the Slovak Republic in Abuja — Contact",
           "url": "https://www.mzv.sk/en/web/abuja/kontakt",
           "accessed": "2026-03-17"
+        },
+        {
+          "label": "Slovak MFA Abuja",
+          "url": "https://www.mzv.sk/abuja",
+          "accessed": "2026-03-20"
         }
       ],
       "lastVerified": "2026-03-20",
-      "visaProcessing": "The Embassy of the Slovak Republic in Abuja provides consular and visa services. Check the embassy website for appointments.",
+      "visaProcessing": "Short-stay (Type C) visas are handled by the Embassy of Sweden (represented by VFS Global in Abuja/Lagos). Long-stay (Type D) visas require application at the Slovak Embassy in Nairobi, Kenya.",
       "whereToApply": [
-        "Embassy: Abuja"
+        {
+          "label": "VFS Global (Representing Sweden for Slovakia)",
+          "url": "https://visa.vfsglobal.com/nga/en/swe/"
+        },
+        {
+          "label": "Embassy of Slovakia, Nairobi (Long-stay)",
+          "url": "https://www.mzv.sk/nairobi"
+        }
       ],
       "flag": "🇸🇰"
     },
@@ -4959,7 +5105,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "Plot 2420, Maitama Area 6 Off Amazon Street, Abuja."
+          "address": "No 31B, Amazon Street, Ministers' Hill, Maitama, P.O. Box 393 Garki, Abuja",
+          "phone": "+234 813 353 7889",
+          "email": "syrembassy.abuja@hotmail.com"
         }
       ],
       "notes": "Embassy in Abuja. Nigerian Embassy in Damascus.",
@@ -5035,11 +5183,22 @@ window.__DATA__ = {
       "country": "Togo",
       "countryCode": "TG",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "Embassy",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "36, T.Y. Danjuma Street, Asokoro, Abuja",
+          "phone": "",
+          "email": "",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "Embassy of Togo in Abuja (T.Y. Danjuma St, Asokoro). Also accredited to Benin. Contact details pending verification.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
     },
     {
       "country": "Thailand",
@@ -5050,7 +5209,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "24 Tennessee Crescent, Maitama, Abuja."
+          "address": "24 Tennessee Crescent, Maitama, Abuja.",
+          "website": "https://abuja.thaiembassy.org/",
+          "websiteLabel": "Royal Thai Embassy in Abuja"
         }
       ],
       "notes": "Embassy in Abuja. Full e-Visa system for Nigerians (thaievisa.go.th). NDLEA clearance required. Nigerian Embassy in Bangkok.",
@@ -5230,7 +5391,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "333, Diplomatic Drive, Central Business District, Abuja."
+          "address": "333, Diplomatic Drive, Central Business District, Abuja.",
+          "website": "https://abuja.emb.mfa.gov.tr/",
+          "websiteLabel": "Embassy of Türkiye in Abuja"
         }
       ],
       "notes": "Embassy in Abuja. eVisa for Nigerians restricted to holders of valid US/UK/Schengen visas. Nigerian Embassy in Ankara.",
@@ -5437,7 +5600,7 @@ window.__DATA__ = {
           "address": "1075 Diplomatic Drive, Central District Area, Abuja, Nigeria",
           "phone": "+234 (9) 461-4176",
           "email": "Consularabuja@state.gov",
-          "website": "https://nigeria.usembassy.gov/",
+          "website": "https://ng.usembassy.gov/",
           "websiteLabel": "U.S. Embassy Abuja"
         },
         {
@@ -5446,8 +5609,8 @@ window.__DATA__ = {
           "city": "Lagos",
           "address": "2 Walter Carrington Crescent, Victoria Island, Lagos, Nigeria",
           "phone": "+234 (1) 460-3400",
-          "website": "https://travel.state.gov/content/travel/en/resourcesold/csi/us-embassies/nigeria.html",
-          "websiteLabel": "U.S. Missions in Nigeria"
+          "website": "https://ng.usembassy.gov/embassy-consulates/consulate-general-lagos/",
+          "websiteLabel": "U.S. Consulate General Lagos"
         }
       ],
       "visaProcessing": "U.S. Embassy Abuja and U.S. Consulate General Lagos handle consular services in Nigeria. Use the official mission websites for appointment and visa instructions.",
@@ -5600,7 +5763,9 @@ window.__DATA__ = {
         {
           "type": "Embassy",
           "city": "Abuja",
-          "address": "9 River Niger Street, Maitama, Abuja."
+          "address": "9 River Niger Street, Maitama, Abuja.",
+          "website": "https://vnembassy-abuja.mofa.gov.vn/",
+          "websiteLabel": "Embassy of Vietnam in Nigeria"
         }
       ],
       "notes": "Embassy in Abuja. eVisa available for Nigerians (evisa.gov.vn). VOA discontinued. Nigerian Embassy in Hanoi.",
@@ -5791,11 +5956,53 @@ window.__DATA__ = {
       "country": "Zimbabwe",
       "countryCode": "ZW",
       "region": "Africa",
-      "verificationStatus": "verified",
-      "missions": [],
-      "notes": "Verification pending.",
+      "verificationStatus": "unverified",
+      "missions": [
+        {
+          "type": "High Commission",
+          "typeKey": "high-commission",
+          "city": "Abuja",
+          "address": "No. 60, Parakou Crescent, Off Aminu Kano Crescent, Wuse II, Abuja",
+          "phone": "+234-9-413-7996",
+          "email": "",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "High Commission of Zimbabwe in Abuja (Wuse II). Contact details from directory listings — confirm before travel.",
       "sources": [],
-      "lastVerified": "2026-03-20"
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "country": "Holy See",
+      "countryCode": "VA",
+      "region": "Europe",
+      "verificationStatus": "verified",
+      "missions": [
+        {
+          "type": "Apostolic Nunciature",
+          "typeKey": "embassy",
+          "city": "Abuja",
+          "address": "Pope John Paul II Crescent, Maitama District, P.O. Box 541, Garki, Abuja",
+          "phone": "+234-9-413-8381",
+          "fax": "+234-9-413-6653",
+          "email": "nuntiusabj@hotmail.com",
+          "website": "",
+          "websiteLabel": ""
+        }
+      ],
+      "notes": "The Holy See (Vatican City) maintains an Apostolic Nunciature in Abuja. The Apostolic Nuncio is the Holy See's equivalent of an Ambassador.",
+      "sources": [
+        {
+          "label": "Apostolic Nunciature Abuja — EmbassyPages",
+          "url": "https://www.embassypages.com/holysee-apostolicnunciature-abuja-nigeria",
+          "accessed": "2026-07-11"
+        }
+      ],
+      "lastVerified": "2026-07-11",
+      "visaProcessing": "The Holy See does not issue ordinary travel visas. Vatican City tourism information is available via the Vatican's official website.",
+      "whereToApply": [],
+      "flag": "🇻🇦"
     }
   ],
   "nigerianMissions": [
